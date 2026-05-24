@@ -1,0 +1,902 @@
+[
+  {
+    "source": "/opt/liblibai-models/user-workspace2/users/wyh/data/RPL_test50_unseen/first_arrow/RPL+success+2023-04-26+Wed_Apr_26_17_42_05_2023+24013089_step1.png",
+    "target": "/opt/liblibai-models/user-workspace2/users/wyh/data/RPL_test50_unseen/final/RPL+success+2023-04-26+Wed_Apr_26_17_42_05_2023+24013089_step1.png",
+    "prompt": "Put the can on top of the silver object. Step 1.",
+    "step_name": "RPL+success+2023-04-26+Wed_Apr_26_17_42_05_2023+24013089_step1"
+  },
+  {
+    "source": "/opt/liblibai-models/user-workspace2/users/wyh/data/RPL_test50_unseen/first_arrow/RPL+success+2023-04-26+Wed_Apr_26_17_42_05_2023+24013089_step2.png",
+    "target": "/opt/liblibai-models/user-workspace2/users/wyh/data/RPL_test50_unseen/final/RPL+success+2023-04-26+Wed_Apr_26_17_42_05_2023+24013089_step2.png",
+    "prompt": "Put the can on top of the silver object. Step 2.",
+    "step_name": "RPL+success+2023-04-26+Wed_Apr_26_17_42_05_2023+24013089_step2"
+  },
+  {
+    "source": "/opt/liblibai-models/user-workspace2/users/wyh/data/RPL_test50_unseen/first_arrow/RPL+success+2023-04-26+Wed_Apr_26_17_42_05_2023+24013089_step3.png",
+    "target": "/opt/liblibai-models/user-workspace2/users/wyh/data/RPL_test50_unseen/final/RPL+success+2023-04-26+Wed_Apr_26_17_42_05_2023+24013089_step3.png",
+    "prompt": "Put the can on top of the silver object. Step 3.",
+    "step_name": "RPL+success+2023-04-26+Wed_Apr_26_17_42_05_2023+24013089_step3"
+  },
+  {
+    "source": "/opt/liblibai-models/user-workspace2/users/wyh/data/RPL_test50_unseen/first_arrow/RPL+success+2023-04-26+Wed_Apr_26_17_42_05_2023+25047636_step1.png",
+    "target": "/opt/liblibai-models/user-workspace2/users/wyh/data/RPL_test50_unseen/final/RPL+success+2023-04-26+Wed_Apr_26_17_42_05_2023+25047636_step1.png",
+    "prompt": "Put the can on top of the silver object. Step 1.",
+    "step_name": "RPL+success+2023-04-26+Wed_Apr_26_17_42_05_2023+25047636_step1"
+  },
+  {
+    "source": "/opt/liblibai-models/user-workspace2/users/wyh/data/RPL_test50_unseen/first_arrow/RPL+success+2023-04-26+Wed_Apr_26_17_42_05_2023+25047636_step2.png",
+    "target": "/opt/liblibai-models/user-workspace2/users/wyh/data/RPL_test50_unseen/final/RPL+success+2023-04-26+Wed_Apr_26_17_42_05_2023+25047636_step2.png",
+    "prompt": "Put the can on top of the silver object. Step 2.",
+    "step_name": "RPL+success+2023-04-26+Wed_Apr_26_17_42_05_2023+25047636_step2"
+  },
+  {
+    "source": "/opt/liblibai-models/user-workspace2/users/wyh/data/RPL_test50_unseen/first_arrow/RPL+success+2023-04-26+Wed_Apr_26_17_42_05_2023+25047636_step3.png",
+    "target": "/opt/liblibai-models/user-workspace2/users/wyh/data/RPL_test50_unseen/final/RPL+success+2023-04-26+Wed_Apr_26_17_42_05_2023+25047636_step3.png",
+    "prompt": "Put the can on top of the silver object. Step 3.",
+    "step_name": "RPL+success+2023-04-26+Wed_Apr_26_17_42_05_2023+25047636_step3"
+  },
+  {
+    "source": "/opt/liblibai-models/user-workspace2/users/wyh/data/RPL_test50_unseen/first_arrow/RPL+success+2023-04-26+Wed_Apr_26_17_42_35_2023+24013089_step1.png",
+    "target": "/opt/liblibai-models/user-workspace2/users/wyh/data/RPL_test50_unseen/final/RPL+success+2023-04-26+Wed_Apr_26_17_42_35_2023+24013089_step1.png",
+    "prompt": "Put the can on the metal object. Step 1.",
+    "step_name": "RPL+success+2023-04-26+Wed_Apr_26_17_42_35_2023+24013089_step1"
+  },
+  {
+    "source": "/opt/liblibai-models/user-workspace2/users/wyh/data/RPL_test50_unseen/first_arrow/RPL+success+2023-04-26+Wed_Apr_26_17_42_35_2023+24013089_step2.png",
+    "target": "/opt/liblibai-models/user-workspace2/users/wyh/data/RPL_test50_unseen/final/RPL+success+2023-04-26+Wed_Apr_26_17_42_35_2023+24013089_step2.png",
+    "prompt": "Put the can on the metal object. Step 2.",
+    "step_name": "RPL+success+2023-04-26+Wed_Apr_26_17_42_35_2023+24013089_step2"
+  },
+  {
+    "source": "/opt/liblibai-models/user-workspace2/users/wyh/data/RPL_test50_unseen/first_arrow/RPL+success+2023-04-26+Wed_Apr_26_17_42_35_2023+24013089_step3.png",
+    "target": "/opt/liblibai-models/user-workspace2/users/wyh/data/RPL_test50_unseen/final/RPL+success+2023-04-26+Wed_Apr_26_17_42_35_2023+24013089_step3.png",
+    "prompt": "Put the can on the metal object. Step 3.",
+    "step_name": "RPL+success+2023-04-26+Wed_Apr_26_17_42_35_2023+24013089_step3"
+  },
+  {
+    "source": "/opt/liblibai-models/user-workspace2/users/wyh/data/RPL_test50_unseen/first_arrow/RPL+success+2023-04-26+Wed_Apr_26_17_42_35_2023+25047636_step1.png",
+    "target": "/opt/liblibai-models/user-workspace2/users/wyh/data/RPL_test50_unseen/final/RPL+success+2023-04-26+Wed_Apr_26_17_42_35_2023+25047636_step1.png",
+    "prompt": "Put the can on the metal object. Step 1.",
+    "step_name": "RPL+success+2023-04-26+Wed_Apr_26_17_42_35_2023+25047636_step1"
+  },
+  {
+    "source": "/opt/liblibai-models/user-workspace2/users/wyh/data/RPL_test50_unseen/first_arrow/RPL+success+2023-04-26+Wed_Apr_26_17_42_35_2023+25047636_step2.png",
+    "target": "/opt/liblibai-models/user-workspace2/users/wyh/data/RPL_test50_unseen/final/RPL+success+2023-04-26+Wed_Apr_26_17_42_35_2023+25047636_step2.png",
+    "prompt": "Put the can on the metal object. Step 2.",
+    "step_name": "RPL+success+2023-04-26+Wed_Apr_26_17_42_35_2023+25047636_step2"
+  },
+  {
+    "source": "/opt/liblibai-models/user-workspace2/users/wyh/data/RPL_test50_unseen/first_arrow/RPL+success+2023-04-26+Wed_Apr_26_17_42_35_2023+25047636_step3.png",
+    "target": "/opt/liblibai-models/user-workspace2/users/wyh/data/RPL_test50_unseen/final/RPL+success+2023-04-26+Wed_Apr_26_17_42_35_2023+25047636_step3.png",
+    "prompt": "Put the can on the metal object. Step 3.",
+    "step_name": "RPL+success+2023-04-26+Wed_Apr_26_17_42_35_2023+25047636_step3"
+  },
+  {
+    "source": "/opt/liblibai-models/user-workspace2/users/wyh/data/RPL_test50_unseen/first_arrow/RPL+success+2023-04-26+Wed_Apr_26_17_43_03_2023+24013089_step1.png",
+    "target": "/opt/liblibai-models/user-workspace2/users/wyh/data/RPL_test50_unseen/final/RPL+success+2023-04-26+Wed_Apr_26_17_43_03_2023+24013089_step1.png",
+    "prompt": "Put the can on the silver object. Step 1.",
+    "step_name": "RPL+success+2023-04-26+Wed_Apr_26_17_43_03_2023+24013089_step1"
+  },
+  {
+    "source": "/opt/liblibai-models/user-workspace2/users/wyh/data/RPL_test50_unseen/first_arrow/RPL+success+2023-04-26+Wed_Apr_26_17_43_03_2023+24013089_step2.png",
+    "target": "/opt/liblibai-models/user-workspace2/users/wyh/data/RPL_test50_unseen/final/RPL+success+2023-04-26+Wed_Apr_26_17_43_03_2023+24013089_step2.png",
+    "prompt": "Put the can on the silver object. Step 2.",
+    "step_name": "RPL+success+2023-04-26+Wed_Apr_26_17_43_03_2023+24013089_step2"
+  },
+  {
+    "source": "/opt/liblibai-models/user-workspace2/users/wyh/data/RPL_test50_unseen/first_arrow/RPL+success+2023-04-26+Wed_Apr_26_17_43_03_2023+24013089_step3.png",
+    "target": "/opt/liblibai-models/user-workspace2/users/wyh/data/RPL_test50_unseen/final/RPL+success+2023-04-26+Wed_Apr_26_17_43_03_2023+24013089_step3.png",
+    "prompt": "Put the can on the silver object. Step 3.",
+    "step_name": "RPL+success+2023-04-26+Wed_Apr_26_17_43_03_2023+24013089_step3"
+  },
+  {
+    "source": "/opt/liblibai-models/user-workspace2/users/wyh/data/RPL_test50_unseen/first_arrow/RPL+success+2023-04-26+Wed_Apr_26_17_43_03_2023+25047636_step1.png",
+    "target": "/opt/liblibai-models/user-workspace2/users/wyh/data/RPL_test50_unseen/final/RPL+success+2023-04-26+Wed_Apr_26_17_43_03_2023+25047636_step1.png",
+    "prompt": "Put the can on the silver object. Step 1.",
+    "step_name": "RPL+success+2023-04-26+Wed_Apr_26_17_43_03_2023+25047636_step1"
+  },
+  {
+    "source": "/opt/liblibai-models/user-workspace2/users/wyh/data/RPL_test50_unseen/first_arrow/RPL+success+2023-04-26+Wed_Apr_26_17_43_03_2023+25047636_step2.png",
+    "target": "/opt/liblibai-models/user-workspace2/users/wyh/data/RPL_test50_unseen/final/RPL+success+2023-04-26+Wed_Apr_26_17_43_03_2023+25047636_step2.png",
+    "prompt": "Put the can on the silver object. Step 2.",
+    "step_name": "RPL+success+2023-04-26+Wed_Apr_26_17_43_03_2023+25047636_step2"
+  },
+  {
+    "source": "/opt/liblibai-models/user-workspace2/users/wyh/data/RPL_test50_unseen/first_arrow/RPL+success+2023-04-26+Wed_Apr_26_17_43_03_2023+25047636_step3.png",
+    "target": "/opt/liblibai-models/user-workspace2/users/wyh/data/RPL_test50_unseen/final/RPL+success+2023-04-26+Wed_Apr_26_17_43_03_2023+25047636_step3.png",
+    "prompt": "Put the can on the silver object. Step 3.",
+    "step_name": "RPL+success+2023-04-26+Wed_Apr_26_17_43_03_2023+25047636_step3"
+  },
+  {
+    "source": "/opt/liblibai-models/user-workspace2/users/wyh/data/RPL_test50_unseen/first_arrow/RPL+success+2023-04-26+Wed_Apr_26_17_45_20_2023+24013089_step1.png",
+    "target": "/opt/liblibai-models/user-workspace2/users/wyh/data/RPL_test50_unseen/final/RPL+success+2023-04-26+Wed_Apr_26_17_45_20_2023+24013089_step1.png",
+    "prompt": "Put the can on top of the silver object on the left. Step 1.",
+    "step_name": "RPL+success+2023-04-26+Wed_Apr_26_17_45_20_2023+24013089_step1"
+  },
+  {
+    "source": "/opt/liblibai-models/user-workspace2/users/wyh/data/RPL_test50_unseen/first_arrow/RPL+success+2023-04-26+Wed_Apr_26_17_45_20_2023+24013089_step2.png",
+    "target": "/opt/liblibai-models/user-workspace2/users/wyh/data/RPL_test50_unseen/final/RPL+success+2023-04-26+Wed_Apr_26_17_45_20_2023+24013089_step2.png",
+    "prompt": "Put the can on top of the silver object on the left. Step 2.",
+    "step_name": "RPL+success+2023-04-26+Wed_Apr_26_17_45_20_2023+24013089_step2"
+  },
+  {
+    "source": "/opt/liblibai-models/user-workspace2/users/wyh/data/RPL_test50_unseen/first_arrow/RPL+success+2023-04-26+Wed_Apr_26_17_45_20_2023+24013089_step3.png",
+    "target": "/opt/liblibai-models/user-workspace2/users/wyh/data/RPL_test50_unseen/final/RPL+success+2023-04-26+Wed_Apr_26_17_45_20_2023+24013089_step3.png",
+    "prompt": "Put the can on top of the silver object on the left. Step 3.",
+    "step_name": "RPL+success+2023-04-26+Wed_Apr_26_17_45_20_2023+24013089_step3"
+  },
+  {
+    "source": "/opt/liblibai-models/user-workspace2/users/wyh/data/RPL_test50_unseen/first_arrow/RPL+success+2023-04-26+Wed_Apr_26_17_45_20_2023+25047636_step1.png",
+    "target": "/opt/liblibai-models/user-workspace2/users/wyh/data/RPL_test50_unseen/final/RPL+success+2023-04-26+Wed_Apr_26_17_45_20_2023+25047636_step1.png",
+    "prompt": "Put the can on top of the silver object on the left. Step 1.",
+    "step_name": "RPL+success+2023-04-26+Wed_Apr_26_17_45_20_2023+25047636_step1"
+  },
+  {
+    "source": "/opt/liblibai-models/user-workspace2/users/wyh/data/RPL_test50_unseen/first_arrow/RPL+success+2023-04-26+Wed_Apr_26_17_45_20_2023+25047636_step2.png",
+    "target": "/opt/liblibai-models/user-workspace2/users/wyh/data/RPL_test50_unseen/final/RPL+success+2023-04-26+Wed_Apr_26_17_45_20_2023+25047636_step2.png",
+    "prompt": "Put the can on top of the silver object on the left. Step 2.",
+    "step_name": "RPL+success+2023-04-26+Wed_Apr_26_17_45_20_2023+25047636_step2"
+  },
+  {
+    "source": "/opt/liblibai-models/user-workspace2/users/wyh/data/RPL_test50_unseen/first_arrow/RPL+success+2023-04-26+Wed_Apr_26_17_45_20_2023+25047636_step3.png",
+    "target": "/opt/liblibai-models/user-workspace2/users/wyh/data/RPL_test50_unseen/final/RPL+success+2023-04-26+Wed_Apr_26_17_45_20_2023+25047636_step3.png",
+    "prompt": "Put the can on top of the silver object on the left. Step 3.",
+    "step_name": "RPL+success+2023-04-26+Wed_Apr_26_17_45_20_2023+25047636_step3"
+  },
+  {
+    "source": "/opt/liblibai-models/user-workspace2/users/wyh/data/RPL_test50_unseen/first_arrow/RPL+success+2023-04-26+Wed_Apr_26_17_46_23_2023+24013089_step1.png",
+    "target": "/opt/liblibai-models/user-workspace2/users/wyh/data/RPL_test50_unseen/final/RPL+success+2023-04-26+Wed_Apr_26_17_46_23_2023+24013089_step1.png",
+    "prompt": "Pick up the canned drink and put it on the metallic object. Step 1.",
+    "step_name": "RPL+success+2023-04-26+Wed_Apr_26_17_46_23_2023+24013089_step1"
+  },
+  {
+    "source": "/opt/liblibai-models/user-workspace2/users/wyh/data/RPL_test50_unseen/first_arrow/RPL+success+2023-04-26+Wed_Apr_26_17_46_23_2023+24013089_step2.png",
+    "target": "/opt/liblibai-models/user-workspace2/users/wyh/data/RPL_test50_unseen/final/RPL+success+2023-04-26+Wed_Apr_26_17_46_23_2023+24013089_step2.png",
+    "prompt": "Pick up the canned drink and put it on the metallic object. Step 2.",
+    "step_name": "RPL+success+2023-04-26+Wed_Apr_26_17_46_23_2023+24013089_step2"
+  },
+  {
+    "source": "/opt/liblibai-models/user-workspace2/users/wyh/data/RPL_test50_unseen/first_arrow/RPL+success+2023-04-26+Wed_Apr_26_17_46_23_2023+24013089_step3.png",
+    "target": "/opt/liblibai-models/user-workspace2/users/wyh/data/RPL_test50_unseen/final/RPL+success+2023-04-26+Wed_Apr_26_17_46_23_2023+24013089_step3.png",
+    "prompt": "Pick up the canned drink and put it on the metallic object. Step 3.",
+    "step_name": "RPL+success+2023-04-26+Wed_Apr_26_17_46_23_2023+24013089_step3"
+  },
+  {
+    "source": "/opt/liblibai-models/user-workspace2/users/wyh/data/RPL_test50_unseen/first_arrow/RPL+success+2023-04-26+Wed_Apr_26_17_46_23_2023+25047636_step1.png",
+    "target": "/opt/liblibai-models/user-workspace2/users/wyh/data/RPL_test50_unseen/final/RPL+success+2023-04-26+Wed_Apr_26_17_46_23_2023+25047636_step1.png",
+    "prompt": "Pick up the canned drink and put it on the metallic object. Step 1.",
+    "step_name": "RPL+success+2023-04-26+Wed_Apr_26_17_46_23_2023+25047636_step1"
+  },
+  {
+    "source": "/opt/liblibai-models/user-workspace2/users/wyh/data/RPL_test50_unseen/first_arrow/RPL+success+2023-04-26+Wed_Apr_26_17_46_23_2023+25047636_step2.png",
+    "target": "/opt/liblibai-models/user-workspace2/users/wyh/data/RPL_test50_unseen/final/RPL+success+2023-04-26+Wed_Apr_26_17_46_23_2023+25047636_step2.png",
+    "prompt": "Pick up the canned drink and put it on the metallic object. Step 2.",
+    "step_name": "RPL+success+2023-04-26+Wed_Apr_26_17_46_23_2023+25047636_step2"
+  },
+  {
+    "source": "/opt/liblibai-models/user-workspace2/users/wyh/data/RPL_test50_unseen/first_arrow/RPL+success+2023-04-26+Wed_Apr_26_17_46_23_2023+25047636_step3.png",
+    "target": "/opt/liblibai-models/user-workspace2/users/wyh/data/RPL_test50_unseen/final/RPL+success+2023-04-26+Wed_Apr_26_17_46_23_2023+25047636_step3.png",
+    "prompt": "Pick up the canned drink and put it on the metallic object. Step 3.",
+    "step_name": "RPL+success+2023-04-26+Wed_Apr_26_17_46_23_2023+25047636_step3"
+  },
+  {
+    "source": "/opt/liblibai-models/user-workspace2/users/wyh/data/RPL_test50_unseen/first_arrow/RPL+success+2023-04-26+Wed_Apr_26_17_46_41_2023+24013089_step1.png",
+    "target": "/opt/liblibai-models/user-workspace2/users/wyh/data/RPL_test50_unseen/final/RPL+success+2023-04-26+Wed_Apr_26_17_46_41_2023+24013089_step1.png",
+    "prompt": "Put the can on the silver object. Step 1.",
+    "step_name": "RPL+success+2023-04-26+Wed_Apr_26_17_46_41_2023+24013089_step1"
+  },
+  {
+    "source": "/opt/liblibai-models/user-workspace2/users/wyh/data/RPL_test50_unseen/first_arrow/RPL+success+2023-04-26+Wed_Apr_26_17_46_41_2023+24013089_step2.png",
+    "target": "/opt/liblibai-models/user-workspace2/users/wyh/data/RPL_test50_unseen/final/RPL+success+2023-04-26+Wed_Apr_26_17_46_41_2023+24013089_step2.png",
+    "prompt": "Put the can on the silver object. Step 2.",
+    "step_name": "RPL+success+2023-04-26+Wed_Apr_26_17_46_41_2023+24013089_step2"
+  },
+  {
+    "source": "/opt/liblibai-models/user-workspace2/users/wyh/data/RPL_test50_unseen/first_arrow/RPL+success+2023-04-26+Wed_Apr_26_17_46_41_2023+24013089_step3.png",
+    "target": "/opt/liblibai-models/user-workspace2/users/wyh/data/RPL_test50_unseen/final/RPL+success+2023-04-26+Wed_Apr_26_17_46_41_2023+24013089_step3.png",
+    "prompt": "Put the can on the silver object. Step 3.",
+    "step_name": "RPL+success+2023-04-26+Wed_Apr_26_17_46_41_2023+24013089_step3"
+  },
+  {
+    "source": "/opt/liblibai-models/user-workspace2/users/wyh/data/RPL_test50_unseen/first_arrow/RPL+success+2023-04-26+Wed_Apr_26_17_46_41_2023+25047636_step1.png",
+    "target": "/opt/liblibai-models/user-workspace2/users/wyh/data/RPL_test50_unseen/final/RPL+success+2023-04-26+Wed_Apr_26_17_46_41_2023+25047636_step1.png",
+    "prompt": "Put the can on the silver object. Step 1.",
+    "step_name": "RPL+success+2023-04-26+Wed_Apr_26_17_46_41_2023+25047636_step1"
+  },
+  {
+    "source": "/opt/liblibai-models/user-workspace2/users/wyh/data/RPL_test50_unseen/first_arrow/RPL+success+2023-04-26+Wed_Apr_26_17_46_41_2023+25047636_step2.png",
+    "target": "/opt/liblibai-models/user-workspace2/users/wyh/data/RPL_test50_unseen/final/RPL+success+2023-04-26+Wed_Apr_26_17_46_41_2023+25047636_step2.png",
+    "prompt": "Put the can on the silver object. Step 2.",
+    "step_name": "RPL+success+2023-04-26+Wed_Apr_26_17_46_41_2023+25047636_step2"
+  },
+  {
+    "source": "/opt/liblibai-models/user-workspace2/users/wyh/data/RPL_test50_unseen/first_arrow/RPL+success+2023-04-26+Wed_Apr_26_17_46_41_2023+25047636_step3.png",
+    "target": "/opt/liblibai-models/user-workspace2/users/wyh/data/RPL_test50_unseen/final/RPL+success+2023-04-26+Wed_Apr_26_17_46_41_2023+25047636_step3.png",
+    "prompt": "Put the can on the silver object. Step 3.",
+    "step_name": "RPL+success+2023-04-26+Wed_Apr_26_17_46_41_2023+25047636_step3"
+  },
+  {
+    "source": "/opt/liblibai-models/user-workspace2/users/wyh/data/RPL_test50_unseen/first_arrow/RPL+success+2023-04-26+Wed_Apr_26_17_47_04_2023+24013089_step1.png",
+    "target": "/opt/liblibai-models/user-workspace2/users/wyh/data/RPL_test50_unseen/final/RPL+success+2023-04-26+Wed_Apr_26_17_47_04_2023+24013089_step1.png",
+    "prompt": "Put the can on the silver object. Step 1.",
+    "step_name": "RPL+success+2023-04-26+Wed_Apr_26_17_47_04_2023+24013089_step1"
+  },
+  {
+    "source": "/opt/liblibai-models/user-workspace2/users/wyh/data/RPL_test50_unseen/first_arrow/RPL+success+2023-04-26+Wed_Apr_26_17_47_04_2023+24013089_step2.png",
+    "target": "/opt/liblibai-models/user-workspace2/users/wyh/data/RPL_test50_unseen/final/RPL+success+2023-04-26+Wed_Apr_26_17_47_04_2023+24013089_step2.png",
+    "prompt": "Put the can on the silver object. Step 2.",
+    "step_name": "RPL+success+2023-04-26+Wed_Apr_26_17_47_04_2023+24013089_step2"
+  },
+  {
+    "source": "/opt/liblibai-models/user-workspace2/users/wyh/data/RPL_test50_unseen/first_arrow/RPL+success+2023-04-26+Wed_Apr_26_17_47_04_2023+24013089_step3.png",
+    "target": "/opt/liblibai-models/user-workspace2/users/wyh/data/RPL_test50_unseen/final/RPL+success+2023-04-26+Wed_Apr_26_17_47_04_2023+24013089_step3.png",
+    "prompt": "Put the can on the silver object. Step 3.",
+    "step_name": "RPL+success+2023-04-26+Wed_Apr_26_17_47_04_2023+24013089_step3"
+  },
+  {
+    "source": "/opt/liblibai-models/user-workspace2/users/wyh/data/RPL_test50_unseen/first_arrow/RPL+success+2023-04-26+Wed_Apr_26_17_47_04_2023+25047636_step1.png",
+    "target": "/opt/liblibai-models/user-workspace2/users/wyh/data/RPL_test50_unseen/final/RPL+success+2023-04-26+Wed_Apr_26_17_47_04_2023+25047636_step1.png",
+    "prompt": "Put the can on the silver object. Step 1.",
+    "step_name": "RPL+success+2023-04-26+Wed_Apr_26_17_47_04_2023+25047636_step1"
+  },
+  {
+    "source": "/opt/liblibai-models/user-workspace2/users/wyh/data/RPL_test50_unseen/first_arrow/RPL+success+2023-04-26+Wed_Apr_26_17_47_04_2023+25047636_step2.png",
+    "target": "/opt/liblibai-models/user-workspace2/users/wyh/data/RPL_test50_unseen/final/RPL+success+2023-04-26+Wed_Apr_26_17_47_04_2023+25047636_step2.png",
+    "prompt": "Put the can on the silver object. Step 2.",
+    "step_name": "RPL+success+2023-04-26+Wed_Apr_26_17_47_04_2023+25047636_step2"
+  },
+  {
+    "source": "/opt/liblibai-models/user-workspace2/users/wyh/data/RPL_test50_unseen/first_arrow/RPL+success+2023-04-26+Wed_Apr_26_17_47_04_2023+25047636_step3.png",
+    "target": "/opt/liblibai-models/user-workspace2/users/wyh/data/RPL_test50_unseen/final/RPL+success+2023-04-26+Wed_Apr_26_17_47_04_2023+25047636_step3.png",
+    "prompt": "Put the can on the silver object. Step 3.",
+    "step_name": "RPL+success+2023-04-26+Wed_Apr_26_17_47_04_2023+25047636_step3"
+  },
+  {
+    "source": "/opt/liblibai-models/user-workspace2/users/wyh/data/RPL_test50_unseen/first_arrow/RPL+success+2023-04-26+Wed_Apr_26_17_47_54_2023+24013089_step1.png",
+    "target": "/opt/liblibai-models/user-workspace2/users/wyh/data/RPL_test50_unseen/final/RPL+success+2023-04-26+Wed_Apr_26_17_47_54_2023+24013089_step1.png",
+    "prompt": "Put the can on the metal plate. Step 1.",
+    "step_name": "RPL+success+2023-04-26+Wed_Apr_26_17_47_54_2023+24013089_step1"
+  },
+  {
+    "source": "/opt/liblibai-models/user-workspace2/users/wyh/data/RPL_test50_unseen/first_arrow/RPL+success+2023-04-26+Wed_Apr_26_17_47_54_2023+24013089_step2.png",
+    "target": "/opt/liblibai-models/user-workspace2/users/wyh/data/RPL_test50_unseen/final/RPL+success+2023-04-26+Wed_Apr_26_17_47_54_2023+24013089_step2.png",
+    "prompt": "Put the can on the metal plate. Step 2.",
+    "step_name": "RPL+success+2023-04-26+Wed_Apr_26_17_47_54_2023+24013089_step2"
+  },
+  {
+    "source": "/opt/liblibai-models/user-workspace2/users/wyh/data/RPL_test50_unseen/first_arrow/RPL+success+2023-04-26+Wed_Apr_26_17_47_54_2023+24013089_step3.png",
+    "target": "/opt/liblibai-models/user-workspace2/users/wyh/data/RPL_test50_unseen/final/RPL+success+2023-04-26+Wed_Apr_26_17_47_54_2023+24013089_step3.png",
+    "prompt": "Put the can on the metal plate. Step 3.",
+    "step_name": "RPL+success+2023-04-26+Wed_Apr_26_17_47_54_2023+24013089_step3"
+  },
+  {
+    "source": "/opt/liblibai-models/user-workspace2/users/wyh/data/RPL_test50_unseen/first_arrow/RPL+success+2023-04-26+Wed_Apr_26_17_47_54_2023+25047636_step1.png",
+    "target": "/opt/liblibai-models/user-workspace2/users/wyh/data/RPL_test50_unseen/final/RPL+success+2023-04-26+Wed_Apr_26_17_47_54_2023+25047636_step1.png",
+    "prompt": "Put the can on the metal plate. Step 1.",
+    "step_name": "RPL+success+2023-04-26+Wed_Apr_26_17_47_54_2023+25047636_step1"
+  },
+  {
+    "source": "/opt/liblibai-models/user-workspace2/users/wyh/data/RPL_test50_unseen/first_arrow/RPL+success+2023-04-26+Wed_Apr_26_17_47_54_2023+25047636_step2.png",
+    "target": "/opt/liblibai-models/user-workspace2/users/wyh/data/RPL_test50_unseen/final/RPL+success+2023-04-26+Wed_Apr_26_17_47_54_2023+25047636_step2.png",
+    "prompt": "Put the can on the metal plate. Step 2.",
+    "step_name": "RPL+success+2023-04-26+Wed_Apr_26_17_47_54_2023+25047636_step2"
+  },
+  {
+    "source": "/opt/liblibai-models/user-workspace2/users/wyh/data/RPL_test50_unseen/first_arrow/RPL+success+2023-04-26+Wed_Apr_26_17_47_54_2023+25047636_step3.png",
+    "target": "/opt/liblibai-models/user-workspace2/users/wyh/data/RPL_test50_unseen/final/RPL+success+2023-04-26+Wed_Apr_26_17_47_54_2023+25047636_step3.png",
+    "prompt": "Put the can on the metal plate. Step 3.",
+    "step_name": "RPL+success+2023-04-26+Wed_Apr_26_17_47_54_2023+25047636_step3"
+  },
+  {
+    "source": "/opt/liblibai-models/user-workspace2/users/wyh/data/RPL_test50_unseen/first_arrow/RPL+success+2023-04-26+Wed_Apr_26_17_48_54_2023+24013089_step1.png",
+    "target": "/opt/liblibai-models/user-workspace2/users/wyh/data/RPL_test50_unseen/final/RPL+success+2023-04-26+Wed_Apr_26_17_48_54_2023+24013089_step1.png",
+    "prompt": "Put the can on top of the silver object. Step 1.",
+    "step_name": "RPL+success+2023-04-26+Wed_Apr_26_17_48_54_2023+24013089_step1"
+  },
+  {
+    "source": "/opt/liblibai-models/user-workspace2/users/wyh/data/RPL_test50_unseen/first_arrow/RPL+success+2023-04-26+Wed_Apr_26_17_48_54_2023+24013089_step2.png",
+    "target": "/opt/liblibai-models/user-workspace2/users/wyh/data/RPL_test50_unseen/final/RPL+success+2023-04-26+Wed_Apr_26_17_48_54_2023+24013089_step2.png",
+    "prompt": "Put the can on top of the silver object. Step 2.",
+    "step_name": "RPL+success+2023-04-26+Wed_Apr_26_17_48_54_2023+24013089_step2"
+  },
+  {
+    "source": "/opt/liblibai-models/user-workspace2/users/wyh/data/RPL_test50_unseen/first_arrow/RPL+success+2023-04-26+Wed_Apr_26_17_48_54_2023+24013089_step3.png",
+    "target": "/opt/liblibai-models/user-workspace2/users/wyh/data/RPL_test50_unseen/final/RPL+success+2023-04-26+Wed_Apr_26_17_48_54_2023+24013089_step3.png",
+    "prompt": "Put the can on top of the silver object. Step 3.",
+    "step_name": "RPL+success+2023-04-26+Wed_Apr_26_17_48_54_2023+24013089_step3"
+  },
+  {
+    "source": "/opt/liblibai-models/user-workspace2/users/wyh/data/RPL_test50_unseen/first_arrow/RPL+success+2023-04-26+Wed_Apr_26_17_48_54_2023+25047636_step1.png",
+    "target": "/opt/liblibai-models/user-workspace2/users/wyh/data/RPL_test50_unseen/final/RPL+success+2023-04-26+Wed_Apr_26_17_48_54_2023+25047636_step1.png",
+    "prompt": "Put the can on top of the silver object. Step 1.",
+    "step_name": "RPL+success+2023-04-26+Wed_Apr_26_17_48_54_2023+25047636_step1"
+  },
+  {
+    "source": "/opt/liblibai-models/user-workspace2/users/wyh/data/RPL_test50_unseen/first_arrow/RPL+success+2023-04-26+Wed_Apr_26_17_48_54_2023+25047636_step2.png",
+    "target": "/opt/liblibai-models/user-workspace2/users/wyh/data/RPL_test50_unseen/final/RPL+success+2023-04-26+Wed_Apr_26_17_48_54_2023+25047636_step2.png",
+    "prompt": "Put the can on top of the silver object. Step 2.",
+    "step_name": "RPL+success+2023-04-26+Wed_Apr_26_17_48_54_2023+25047636_step2"
+  },
+  {
+    "source": "/opt/liblibai-models/user-workspace2/users/wyh/data/RPL_test50_unseen/first_arrow/RPL+success+2023-04-26+Wed_Apr_26_17_48_54_2023+25047636_step3.png",
+    "target": "/opt/liblibai-models/user-workspace2/users/wyh/data/RPL_test50_unseen/final/RPL+success+2023-04-26+Wed_Apr_26_17_48_54_2023+25047636_step3.png",
+    "prompt": "Put the can on top of the silver object. Step 3.",
+    "step_name": "RPL+success+2023-04-26+Wed_Apr_26_17_48_54_2023+25047636_step3"
+  },
+  {
+    "source": "/opt/liblibai-models/user-workspace2/users/wyh/data/RPL_test50_unseen/first_arrow/RPL+success+2023-04-26+Wed_Apr_26_17_49_18_2023+24013089_step1.png",
+    "target": "/opt/liblibai-models/user-workspace2/users/wyh/data/RPL_test50_unseen/final/RPL+success+2023-04-26+Wed_Apr_26_17_49_18_2023+24013089_step1.png",
+    "prompt": "Put the can on the silver object. Step 1.",
+    "step_name": "RPL+success+2023-04-26+Wed_Apr_26_17_49_18_2023+24013089_step1"
+  },
+  {
+    "source": "/opt/liblibai-models/user-workspace2/users/wyh/data/RPL_test50_unseen/first_arrow/RPL+success+2023-04-26+Wed_Apr_26_17_49_18_2023+24013089_step2.png",
+    "target": "/opt/liblibai-models/user-workspace2/users/wyh/data/RPL_test50_unseen/final/RPL+success+2023-04-26+Wed_Apr_26_17_49_18_2023+24013089_step2.png",
+    "prompt": "Put the can on the silver object. Step 2.",
+    "step_name": "RPL+success+2023-04-26+Wed_Apr_26_17_49_18_2023+24013089_step2"
+  },
+  {
+    "source": "/opt/liblibai-models/user-workspace2/users/wyh/data/RPL_test50_unseen/first_arrow/RPL+success+2023-04-26+Wed_Apr_26_17_49_18_2023+24013089_step3.png",
+    "target": "/opt/liblibai-models/user-workspace2/users/wyh/data/RPL_test50_unseen/final/RPL+success+2023-04-26+Wed_Apr_26_17_49_18_2023+24013089_step3.png",
+    "prompt": "Put the can on the silver object. Step 3.",
+    "step_name": "RPL+success+2023-04-26+Wed_Apr_26_17_49_18_2023+24013089_step3"
+  },
+  {
+    "source": "/opt/liblibai-models/user-workspace2/users/wyh/data/RPL_test50_unseen/first_arrow/RPL+success+2023-04-26+Wed_Apr_26_17_49_50_2023+24013089_step1.png",
+    "target": "/opt/liblibai-models/user-workspace2/users/wyh/data/RPL_test50_unseen/final/RPL+success+2023-04-26+Wed_Apr_26_17_49_50_2023+24013089_step1.png",
+    "prompt": "Move the can to the metal platform on the left edge of the table. Step 1.",
+    "step_name": "RPL+success+2023-04-26+Wed_Apr_26_17_49_50_2023+24013089_step1"
+  },
+  {
+    "source": "/opt/liblibai-models/user-workspace2/users/wyh/data/RPL_test50_unseen/first_arrow/RPL+success+2023-04-26+Wed_Apr_26_17_49_50_2023+24013089_step2.png",
+    "target": "/opt/liblibai-models/user-workspace2/users/wyh/data/RPL_test50_unseen/final/RPL+success+2023-04-26+Wed_Apr_26_17_49_50_2023+24013089_step2.png",
+    "prompt": "Move the can to the metal platform on the left edge of the table. Step 2.",
+    "step_name": "RPL+success+2023-04-26+Wed_Apr_26_17_49_50_2023+24013089_step2"
+  },
+  {
+    "source": "/opt/liblibai-models/user-workspace2/users/wyh/data/RPL_test50_unseen/first_arrow/RPL+success+2023-04-26+Wed_Apr_26_17_49_50_2023+24013089_step3.png",
+    "target": "/opt/liblibai-models/user-workspace2/users/wyh/data/RPL_test50_unseen/final/RPL+success+2023-04-26+Wed_Apr_26_17_49_50_2023+24013089_step3.png",
+    "prompt": "Move the can to the metal platform on the left edge of the table. Step 3.",
+    "step_name": "RPL+success+2023-04-26+Wed_Apr_26_17_49_50_2023+24013089_step3"
+  },
+  {
+    "source": "/opt/liblibai-models/user-workspace2/users/wyh/data/RPL_test50_unseen/first_arrow/RPL+success+2023-04-26+Wed_Apr_26_17_49_50_2023+25047636_step1.png",
+    "target": "/opt/liblibai-models/user-workspace2/users/wyh/data/RPL_test50_unseen/final/RPL+success+2023-04-26+Wed_Apr_26_17_49_50_2023+25047636_step1.png",
+    "prompt": "Move the can to the metal platform on the left edge of the table. Step 1.",
+    "step_name": "RPL+success+2023-04-26+Wed_Apr_26_17_49_50_2023+25047636_step1"
+  },
+  {
+    "source": "/opt/liblibai-models/user-workspace2/users/wyh/data/RPL_test50_unseen/first_arrow/RPL+success+2023-04-26+Wed_Apr_26_17_49_50_2023+25047636_step2.png",
+    "target": "/opt/liblibai-models/user-workspace2/users/wyh/data/RPL_test50_unseen/final/RPL+success+2023-04-26+Wed_Apr_26_17_49_50_2023+25047636_step2.png",
+    "prompt": "Move the can to the metal platform on the left edge of the table. Step 2.",
+    "step_name": "RPL+success+2023-04-26+Wed_Apr_26_17_49_50_2023+25047636_step2"
+  },
+  {
+    "source": "/opt/liblibai-models/user-workspace2/users/wyh/data/RPL_test50_unseen/first_arrow/RPL+success+2023-04-26+Wed_Apr_26_17_49_50_2023+25047636_step3.png",
+    "target": "/opt/liblibai-models/user-workspace2/users/wyh/data/RPL_test50_unseen/final/RPL+success+2023-04-26+Wed_Apr_26_17_49_50_2023+25047636_step3.png",
+    "prompt": "Move the can to the metal platform on the left edge of the table. Step 3.",
+    "step_name": "RPL+success+2023-04-26+Wed_Apr_26_17_49_50_2023+25047636_step3"
+  },
+  {
+    "source": "/opt/liblibai-models/user-workspace2/users/wyh/data/RPL_test50_unseen/first_arrow/RPL+success+2023-04-26+Wed_Apr_26_17_50_51_2023+24013089_step1.png",
+    "target": "/opt/liblibai-models/user-workspace2/users/wyh/data/RPL_test50_unseen/final/RPL+success+2023-04-26+Wed_Apr_26_17_50_51_2023+24013089_step1.png",
+    "prompt": "Pick up the red bull can and put it on the metal plate. Step 1.",
+    "step_name": "RPL+success+2023-04-26+Wed_Apr_26_17_50_51_2023+24013089_step1"
+  },
+  {
+    "source": "/opt/liblibai-models/user-workspace2/users/wyh/data/RPL_test50_unseen/first_arrow/RPL+success+2023-04-26+Wed_Apr_26_17_50_51_2023+24013089_step2.png",
+    "target": "/opt/liblibai-models/user-workspace2/users/wyh/data/RPL_test50_unseen/final/RPL+success+2023-04-26+Wed_Apr_26_17_50_51_2023+24013089_step2.png",
+    "prompt": "Pick up the red bull can and put it on the metal plate. Step 2.",
+    "step_name": "RPL+success+2023-04-26+Wed_Apr_26_17_50_51_2023+24013089_step2"
+  },
+  {
+    "source": "/opt/liblibai-models/user-workspace2/users/wyh/data/RPL_test50_unseen/first_arrow/RPL+success+2023-04-26+Wed_Apr_26_17_50_51_2023+24013089_step3.png",
+    "target": "/opt/liblibai-models/user-workspace2/users/wyh/data/RPL_test50_unseen/final/RPL+success+2023-04-26+Wed_Apr_26_17_50_51_2023+24013089_step3.png",
+    "prompt": "Pick up the red bull can and put it on the metal plate. Step 3.",
+    "step_name": "RPL+success+2023-04-26+Wed_Apr_26_17_50_51_2023+24013089_step3"
+  },
+  {
+    "source": "/opt/liblibai-models/user-workspace2/users/wyh/data/RPL_test50_unseen/first_arrow/RPL+success+2023-04-26+Wed_Apr_26_17_50_51_2023+25047636_step1.png",
+    "target": "/opt/liblibai-models/user-workspace2/users/wyh/data/RPL_test50_unseen/final/RPL+success+2023-04-26+Wed_Apr_26_17_50_51_2023+25047636_step1.png",
+    "prompt": "Pick up the red bull can and put it on the metal plate. Step 1.",
+    "step_name": "RPL+success+2023-04-26+Wed_Apr_26_17_50_51_2023+25047636_step1"
+  },
+  {
+    "source": "/opt/liblibai-models/user-workspace2/users/wyh/data/RPL_test50_unseen/first_arrow/RPL+success+2023-04-26+Wed_Apr_26_17_50_51_2023+25047636_step2.png",
+    "target": "/opt/liblibai-models/user-workspace2/users/wyh/data/RPL_test50_unseen/final/RPL+success+2023-04-26+Wed_Apr_26_17_50_51_2023+25047636_step2.png",
+    "prompt": "Pick up the red bull can and put it on the metal plate. Step 2.",
+    "step_name": "RPL+success+2023-04-26+Wed_Apr_26_17_50_51_2023+25047636_step2"
+  },
+  {
+    "source": "/opt/liblibai-models/user-workspace2/users/wyh/data/RPL_test50_unseen/first_arrow/RPL+success+2023-04-26+Wed_Apr_26_17_50_51_2023+25047636_step3.png",
+    "target": "/opt/liblibai-models/user-workspace2/users/wyh/data/RPL_test50_unseen/final/RPL+success+2023-04-26+Wed_Apr_26_17_50_51_2023+25047636_step3.png",
+    "prompt": "Pick up the red bull can and put it on the metal plate. Step 3.",
+    "step_name": "RPL+success+2023-04-26+Wed_Apr_26_17_50_51_2023+25047636_step3"
+  },
+  {
+    "source": "/opt/liblibai-models/user-workspace2/users/wyh/data/RPL_test50_unseen/first_arrow/RPL+success+2023-04-26+Wed_Apr_26_17_51_17_2023+24013089_step1.png",
+    "target": "/opt/liblibai-models/user-workspace2/users/wyh/data/RPL_test50_unseen/final/RPL+success+2023-04-26+Wed_Apr_26_17_51_17_2023+24013089_step1.png",
+    "prompt": "Put the can on top of the silver object on the left. Step 1.",
+    "step_name": "RPL+success+2023-04-26+Wed_Apr_26_17_51_17_2023+24013089_step1"
+  },
+  {
+    "source": "/opt/liblibai-models/user-workspace2/users/wyh/data/RPL_test50_unseen/first_arrow/RPL+success+2023-04-26+Wed_Apr_26_17_51_17_2023+24013089_step2.png",
+    "target": "/opt/liblibai-models/user-workspace2/users/wyh/data/RPL_test50_unseen/final/RPL+success+2023-04-26+Wed_Apr_26_17_51_17_2023+24013089_step2.png",
+    "prompt": "Put the can on top of the silver object on the left. Step 2.",
+    "step_name": "RPL+success+2023-04-26+Wed_Apr_26_17_51_17_2023+24013089_step2"
+  },
+  {
+    "source": "/opt/liblibai-models/user-workspace2/users/wyh/data/RPL_test50_unseen/first_arrow/RPL+success+2023-04-26+Wed_Apr_26_17_51_17_2023+24013089_step3.png",
+    "target": "/opt/liblibai-models/user-workspace2/users/wyh/data/RPL_test50_unseen/final/RPL+success+2023-04-26+Wed_Apr_26_17_51_17_2023+24013089_step3.png",
+    "prompt": "Put the can on top of the silver object on the left. Step 3.",
+    "step_name": "RPL+success+2023-04-26+Wed_Apr_26_17_51_17_2023+24013089_step3"
+  },
+  {
+    "source": "/opt/liblibai-models/user-workspace2/users/wyh/data/RPL_test50_unseen/first_arrow/RPL+success+2023-04-26+Wed_Apr_26_17_51_17_2023+25047636_step1.png",
+    "target": "/opt/liblibai-models/user-workspace2/users/wyh/data/RPL_test50_unseen/final/RPL+success+2023-04-26+Wed_Apr_26_17_51_17_2023+25047636_step1.png",
+    "prompt": "Put the can on top of the silver object on the left. Step 1.",
+    "step_name": "RPL+success+2023-04-26+Wed_Apr_26_17_51_17_2023+25047636_step1"
+  },
+  {
+    "source": "/opt/liblibai-models/user-workspace2/users/wyh/data/RPL_test50_unseen/first_arrow/RPL+success+2023-04-26+Wed_Apr_26_17_51_17_2023+25047636_step2.png",
+    "target": "/opt/liblibai-models/user-workspace2/users/wyh/data/RPL_test50_unseen/final/RPL+success+2023-04-26+Wed_Apr_26_17_51_17_2023+25047636_step2.png",
+    "prompt": "Put the can on top of the silver object on the left. Step 2.",
+    "step_name": "RPL+success+2023-04-26+Wed_Apr_26_17_51_17_2023+25047636_step2"
+  },
+  {
+    "source": "/opt/liblibai-models/user-workspace2/users/wyh/data/RPL_test50_unseen/first_arrow/RPL+success+2023-04-26+Wed_Apr_26_17_51_17_2023+25047636_step3.png",
+    "target": "/opt/liblibai-models/user-workspace2/users/wyh/data/RPL_test50_unseen/final/RPL+success+2023-04-26+Wed_Apr_26_17_51_17_2023+25047636_step3.png",
+    "prompt": "Put the can on top of the silver object on the left. Step 3.",
+    "step_name": "RPL+success+2023-04-26+Wed_Apr_26_17_51_17_2023+25047636_step3"
+  },
+  {
+    "source": "/opt/liblibai-models/user-workspace2/users/wyh/data/RPL_test50_unseen/first_arrow/RPL+success+2023-04-26+Wed_Apr_26_17_52_21_2023+24013089_step1.png",
+    "target": "/opt/liblibai-models/user-workspace2/users/wyh/data/RPL_test50_unseen/final/RPL+success+2023-04-26+Wed_Apr_26_17_52_21_2023+24013089_step1.png",
+    "prompt": "Move the can on the counter. Step 1.",
+    "step_name": "RPL+success+2023-04-26+Wed_Apr_26_17_52_21_2023+24013089_step1"
+  },
+  {
+    "source": "/opt/liblibai-models/user-workspace2/users/wyh/data/RPL_test50_unseen/first_arrow/RPL+success+2023-04-26+Wed_Apr_26_17_52_21_2023+24013089_step2.png",
+    "target": "/opt/liblibai-models/user-workspace2/users/wyh/data/RPL_test50_unseen/final/RPL+success+2023-04-26+Wed_Apr_26_17_52_21_2023+24013089_step2.png",
+    "prompt": "Move the can on the counter. Step 2.",
+    "step_name": "RPL+success+2023-04-26+Wed_Apr_26_17_52_21_2023+24013089_step2"
+  },
+  {
+    "source": "/opt/liblibai-models/user-workspace2/users/wyh/data/RPL_test50_unseen/first_arrow/RPL+success+2023-04-26+Wed_Apr_26_17_52_21_2023+24013089_step3.png",
+    "target": "/opt/liblibai-models/user-workspace2/users/wyh/data/RPL_test50_unseen/final/RPL+success+2023-04-26+Wed_Apr_26_17_52_21_2023+24013089_step3.png",
+    "prompt": "Move the can on the counter. Step 3.",
+    "step_name": "RPL+success+2023-04-26+Wed_Apr_26_17_52_21_2023+24013089_step3"
+  },
+  {
+    "source": "/opt/liblibai-models/user-workspace2/users/wyh/data/RPL_test50_unseen/first_arrow/RPL+success+2023-04-26+Wed_Apr_26_17_52_21_2023+25047636_step1.png",
+    "target": "/opt/liblibai-models/user-workspace2/users/wyh/data/RPL_test50_unseen/final/RPL+success+2023-04-26+Wed_Apr_26_17_52_21_2023+25047636_step1.png",
+    "prompt": "Move the can on the counter. Step 1.",
+    "step_name": "RPL+success+2023-04-26+Wed_Apr_26_17_52_21_2023+25047636_step1"
+  },
+  {
+    "source": "/opt/liblibai-models/user-workspace2/users/wyh/data/RPL_test50_unseen/first_arrow/RPL+success+2023-04-26+Wed_Apr_26_17_52_21_2023+25047636_step2.png",
+    "target": "/opt/liblibai-models/user-workspace2/users/wyh/data/RPL_test50_unseen/final/RPL+success+2023-04-26+Wed_Apr_26_17_52_21_2023+25047636_step2.png",
+    "prompt": "Move the can on the counter. Step 2.",
+    "step_name": "RPL+success+2023-04-26+Wed_Apr_26_17_52_21_2023+25047636_step2"
+  },
+  {
+    "source": "/opt/liblibai-models/user-workspace2/users/wyh/data/RPL_test50_unseen/first_arrow/RPL+success+2023-04-26+Wed_Apr_26_17_52_21_2023+25047636_step3.png",
+    "target": "/opt/liblibai-models/user-workspace2/users/wyh/data/RPL_test50_unseen/final/RPL+success+2023-04-26+Wed_Apr_26_17_52_21_2023+25047636_step3.png",
+    "prompt": "Move the can on the counter. Step 3.",
+    "step_name": "RPL+success+2023-04-26+Wed_Apr_26_17_52_21_2023+25047636_step3"
+  },
+  {
+    "source": "/opt/liblibai-models/user-workspace2/users/wyh/data/RPL_test50_unseen/first_arrow/RPL+success+2023-04-26+Wed_Apr_26_17_53_00_2023+24013089_step1.png",
+    "target": "/opt/liblibai-models/user-workspace2/users/wyh/data/RPL_test50_unseen/final/RPL+success+2023-04-26+Wed_Apr_26_17_53_00_2023+24013089_step1.png",
+    "prompt": "Put the grey can on the silver platform on the left. Step 1.",
+    "step_name": "RPL+success+2023-04-26+Wed_Apr_26_17_53_00_2023+24013089_step1"
+  },
+  {
+    "source": "/opt/liblibai-models/user-workspace2/users/wyh/data/RPL_test50_unseen/first_arrow/RPL+success+2023-04-26+Wed_Apr_26_17_53_00_2023+24013089_step2.png",
+    "target": "/opt/liblibai-models/user-workspace2/users/wyh/data/RPL_test50_unseen/final/RPL+success+2023-04-26+Wed_Apr_26_17_53_00_2023+24013089_step2.png",
+    "prompt": "Put the grey can on the silver platform on the left. Step 2.",
+    "step_name": "RPL+success+2023-04-26+Wed_Apr_26_17_53_00_2023+24013089_step2"
+  },
+  {
+    "source": "/opt/liblibai-models/user-workspace2/users/wyh/data/RPL_test50_unseen/first_arrow/RPL+success+2023-04-26+Wed_Apr_26_17_53_00_2023+24013089_step3.png",
+    "target": "/opt/liblibai-models/user-workspace2/users/wyh/data/RPL_test50_unseen/final/RPL+success+2023-04-26+Wed_Apr_26_17_53_00_2023+24013089_step3.png",
+    "prompt": "Put the grey can on the silver platform on the left. Step 3.",
+    "step_name": "RPL+success+2023-04-26+Wed_Apr_26_17_53_00_2023+24013089_step3"
+  },
+  {
+    "source": "/opt/liblibai-models/user-workspace2/users/wyh/data/RPL_test50_unseen/first_arrow/RPL+success+2023-04-26+Wed_Apr_26_17_53_00_2023+25047636_step1.png",
+    "target": "/opt/liblibai-models/user-workspace2/users/wyh/data/RPL_test50_unseen/final/RPL+success+2023-04-26+Wed_Apr_26_17_53_00_2023+25047636_step1.png",
+    "prompt": "Put the grey can on the silver platform on the left. Step 1.",
+    "step_name": "RPL+success+2023-04-26+Wed_Apr_26_17_53_00_2023+25047636_step1"
+  },
+  {
+    "source": "/opt/liblibai-models/user-workspace2/users/wyh/data/RPL_test50_unseen/first_arrow/RPL+success+2023-04-26+Wed_Apr_26_17_53_00_2023+25047636_step2.png",
+    "target": "/opt/liblibai-models/user-workspace2/users/wyh/data/RPL_test50_unseen/final/RPL+success+2023-04-26+Wed_Apr_26_17_53_00_2023+25047636_step2.png",
+    "prompt": "Put the grey can on the silver platform on the left. Step 2.",
+    "step_name": "RPL+success+2023-04-26+Wed_Apr_26_17_53_00_2023+25047636_step2"
+  },
+  {
+    "source": "/opt/liblibai-models/user-workspace2/users/wyh/data/RPL_test50_unseen/first_arrow/RPL+success+2023-04-26+Wed_Apr_26_17_53_00_2023+25047636_step3.png",
+    "target": "/opt/liblibai-models/user-workspace2/users/wyh/data/RPL_test50_unseen/final/RPL+success+2023-04-26+Wed_Apr_26_17_53_00_2023+25047636_step3.png",
+    "prompt": "Put the grey can on the silver platform on the left. Step 3.",
+    "step_name": "RPL+success+2023-04-26+Wed_Apr_26_17_53_00_2023+25047636_step3"
+  },
+  {
+    "source": "/opt/liblibai-models/user-workspace2/users/wyh/data/RPL_test50_unseen/first_arrow/RPL+success+2023-04-26+Wed_Apr_26_17_53_41_2023+24013089_step1.png",
+    "target": "/opt/liblibai-models/user-workspace2/users/wyh/data/RPL_test50_unseen/final/RPL+success+2023-04-26+Wed_Apr_26_17_53_41_2023+24013089_step1.png",
+    "prompt": "Put the can on the silver object. Step 1.",
+    "step_name": "RPL+success+2023-04-26+Wed_Apr_26_17_53_41_2023+24013089_step1"
+  },
+  {
+    "source": "/opt/liblibai-models/user-workspace2/users/wyh/data/RPL_test50_unseen/first_arrow/RPL+success+2023-04-26+Wed_Apr_26_17_53_41_2023+24013089_step2.png",
+    "target": "/opt/liblibai-models/user-workspace2/users/wyh/data/RPL_test50_unseen/final/RPL+success+2023-04-26+Wed_Apr_26_17_53_41_2023+24013089_step2.png",
+    "prompt": "Put the can on the silver object. Step 2.",
+    "step_name": "RPL+success+2023-04-26+Wed_Apr_26_17_53_41_2023+24013089_step2"
+  },
+  {
+    "source": "/opt/liblibai-models/user-workspace2/users/wyh/data/RPL_test50_unseen/first_arrow/RPL+success+2023-04-26+Wed_Apr_26_17_53_41_2023+24013089_step3.png",
+    "target": "/opt/liblibai-models/user-workspace2/users/wyh/data/RPL_test50_unseen/final/RPL+success+2023-04-26+Wed_Apr_26_17_53_41_2023+24013089_step3.png",
+    "prompt": "Put the can on the silver object. Step 3.",
+    "step_name": "RPL+success+2023-04-26+Wed_Apr_26_17_53_41_2023+24013089_step3"
+  },
+  {
+    "source": "/opt/liblibai-models/user-workspace2/users/wyh/data/RPL_test50_unseen/first_arrow/RPL+success+2023-04-26+Wed_Apr_26_17_53_41_2023+25047636_step1.png",
+    "target": "/opt/liblibai-models/user-workspace2/users/wyh/data/RPL_test50_unseen/final/RPL+success+2023-04-26+Wed_Apr_26_17_53_41_2023+25047636_step1.png",
+    "prompt": "Put the can on the silver object. Step 1.",
+    "step_name": "RPL+success+2023-04-26+Wed_Apr_26_17_53_41_2023+25047636_step1"
+  },
+  {
+    "source": "/opt/liblibai-models/user-workspace2/users/wyh/data/RPL_test50_unseen/first_arrow/RPL+success+2023-04-26+Wed_Apr_26_17_53_41_2023+25047636_step2.png",
+    "target": "/opt/liblibai-models/user-workspace2/users/wyh/data/RPL_test50_unseen/final/RPL+success+2023-04-26+Wed_Apr_26_17_53_41_2023+25047636_step2.png",
+    "prompt": "Put the can on the silver object. Step 2.",
+    "step_name": "RPL+success+2023-04-26+Wed_Apr_26_17_53_41_2023+25047636_step2"
+  },
+  {
+    "source": "/opt/liblibai-models/user-workspace2/users/wyh/data/RPL_test50_unseen/first_arrow/RPL+success+2023-04-26+Wed_Apr_26_17_53_41_2023+25047636_step3.png",
+    "target": "/opt/liblibai-models/user-workspace2/users/wyh/data/RPL_test50_unseen/final/RPL+success+2023-04-26+Wed_Apr_26_17_53_41_2023+25047636_step3.png",
+    "prompt": "Put the can on the silver object. Step 3.",
+    "step_name": "RPL+success+2023-04-26+Wed_Apr_26_17_53_41_2023+25047636_step3"
+  },
+  {
+    "source": "/opt/liblibai-models/user-workspace2/users/wyh/data/RPL_test50_unseen/first_arrow/RPL+success+2023-04-26+Wed_Apr_26_17_54_07_2023+24013089_step1.png",
+    "target": "/opt/liblibai-models/user-workspace2/users/wyh/data/RPL_test50_unseen/final/RPL+success+2023-04-26+Wed_Apr_26_17_54_07_2023+24013089_step1.png",
+    "prompt": "Put the can on the silver object. Step 1.",
+    "step_name": "RPL+success+2023-04-26+Wed_Apr_26_17_54_07_2023+24013089_step1"
+  },
+  {
+    "source": "/opt/liblibai-models/user-workspace2/users/wyh/data/RPL_test50_unseen/first_arrow/RPL+success+2023-04-26+Wed_Apr_26_17_54_07_2023+24013089_step2.png",
+    "target": "/opt/liblibai-models/user-workspace2/users/wyh/data/RPL_test50_unseen/final/RPL+success+2023-04-26+Wed_Apr_26_17_54_07_2023+24013089_step2.png",
+    "prompt": "Put the can on the silver object. Step 2.",
+    "step_name": "RPL+success+2023-04-26+Wed_Apr_26_17_54_07_2023+24013089_step2"
+  },
+  {
+    "source": "/opt/liblibai-models/user-workspace2/users/wyh/data/RPL_test50_unseen/first_arrow/RPL+success+2023-04-26+Wed_Apr_26_17_54_07_2023+24013089_step3.png",
+    "target": "/opt/liblibai-models/user-workspace2/users/wyh/data/RPL_test50_unseen/final/RPL+success+2023-04-26+Wed_Apr_26_17_54_07_2023+24013089_step3.png",
+    "prompt": "Put the can on the silver object. Step 3.",
+    "step_name": "RPL+success+2023-04-26+Wed_Apr_26_17_54_07_2023+24013089_step3"
+  },
+  {
+    "source": "/opt/liblibai-models/user-workspace2/users/wyh/data/RPL_test50_unseen/first_arrow/RPL+success+2023-04-26+Wed_Apr_26_17_54_07_2023+25047636_step1.png",
+    "target": "/opt/liblibai-models/user-workspace2/users/wyh/data/RPL_test50_unseen/final/RPL+success+2023-04-26+Wed_Apr_26_17_54_07_2023+25047636_step1.png",
+    "prompt": "Put the can on the silver object. Step 1.",
+    "step_name": "RPL+success+2023-04-26+Wed_Apr_26_17_54_07_2023+25047636_step1"
+  },
+  {
+    "source": "/opt/liblibai-models/user-workspace2/users/wyh/data/RPL_test50_unseen/first_arrow/RPL+success+2023-04-26+Wed_Apr_26_17_54_07_2023+25047636_step2.png",
+    "target": "/opt/liblibai-models/user-workspace2/users/wyh/data/RPL_test50_unseen/final/RPL+success+2023-04-26+Wed_Apr_26_17_54_07_2023+25047636_step2.png",
+    "prompt": "Put the can on the silver object. Step 2.",
+    "step_name": "RPL+success+2023-04-26+Wed_Apr_26_17_54_07_2023+25047636_step2"
+  },
+  {
+    "source": "/opt/liblibai-models/user-workspace2/users/wyh/data/RPL_test50_unseen/first_arrow/RPL+success+2023-04-26+Wed_Apr_26_17_54_07_2023+25047636_step3.png",
+    "target": "/opt/liblibai-models/user-workspace2/users/wyh/data/RPL_test50_unseen/final/RPL+success+2023-04-26+Wed_Apr_26_17_54_07_2023+25047636_step3.png",
+    "prompt": "Put the can on the silver object. Step 3.",
+    "step_name": "RPL+success+2023-04-26+Wed_Apr_26_17_54_07_2023+25047636_step3"
+  },
+  {
+    "source": "/opt/liblibai-models/user-workspace2/users/wyh/data/RPL_test50_unseen/first_arrow/RPL+success+2023-04-26+Wed_Apr_26_17_54_28_2023+24013089_step1.png",
+    "target": "/opt/liblibai-models/user-workspace2/users/wyh/data/RPL_test50_unseen/final/RPL+success+2023-04-26+Wed_Apr_26_17_54_28_2023+24013089_step1.png",
+    "prompt": "Put the red bull can on the metal object. Step 1.",
+    "step_name": "RPL+success+2023-04-26+Wed_Apr_26_17_54_28_2023+24013089_step1"
+  },
+  {
+    "source": "/opt/liblibai-models/user-workspace2/users/wyh/data/RPL_test50_unseen/first_arrow/RPL+success+2023-04-26+Wed_Apr_26_17_54_28_2023+24013089_step2.png",
+    "target": "/opt/liblibai-models/user-workspace2/users/wyh/data/RPL_test50_unseen/final/RPL+success+2023-04-26+Wed_Apr_26_17_54_28_2023+24013089_step2.png",
+    "prompt": "Put the red bull can on the metal object. Step 2.",
+    "step_name": "RPL+success+2023-04-26+Wed_Apr_26_17_54_28_2023+24013089_step2"
+  },
+  {
+    "source": "/opt/liblibai-models/user-workspace2/users/wyh/data/RPL_test50_unseen/first_arrow/RPL+success+2023-04-26+Wed_Apr_26_17_54_28_2023+24013089_step3.png",
+    "target": "/opt/liblibai-models/user-workspace2/users/wyh/data/RPL_test50_unseen/final/RPL+success+2023-04-26+Wed_Apr_26_17_54_28_2023+24013089_step3.png",
+    "prompt": "Put the red bull can on the metal object. Step 3.",
+    "step_name": "RPL+success+2023-04-26+Wed_Apr_26_17_54_28_2023+24013089_step3"
+  },
+  {
+    "source": "/opt/liblibai-models/user-workspace2/users/wyh/data/RPL_test50_unseen/first_arrow/RPL+success+2023-04-26+Wed_Apr_26_17_54_28_2023+25047636_step1.png",
+    "target": "/opt/liblibai-models/user-workspace2/users/wyh/data/RPL_test50_unseen/final/RPL+success+2023-04-26+Wed_Apr_26_17_54_28_2023+25047636_step1.png",
+    "prompt": "Put the red bull can on the metal object. Step 1.",
+    "step_name": "RPL+success+2023-04-26+Wed_Apr_26_17_54_28_2023+25047636_step1"
+  },
+  {
+    "source": "/opt/liblibai-models/user-workspace2/users/wyh/data/RPL_test50_unseen/first_arrow/RPL+success+2023-04-26+Wed_Apr_26_17_54_28_2023+25047636_step2.png",
+    "target": "/opt/liblibai-models/user-workspace2/users/wyh/data/RPL_test50_unseen/final/RPL+success+2023-04-26+Wed_Apr_26_17_54_28_2023+25047636_step2.png",
+    "prompt": "Put the red bull can on the metal object. Step 2.",
+    "step_name": "RPL+success+2023-04-26+Wed_Apr_26_17_54_28_2023+25047636_step2"
+  },
+  {
+    "source": "/opt/liblibai-models/user-workspace2/users/wyh/data/RPL_test50_unseen/first_arrow/RPL+success+2023-04-26+Wed_Apr_26_17_54_28_2023+25047636_step3.png",
+    "target": "/opt/liblibai-models/user-workspace2/users/wyh/data/RPL_test50_unseen/final/RPL+success+2023-04-26+Wed_Apr_26_17_54_28_2023+25047636_step3.png",
+    "prompt": "Put the red bull can on the metal object. Step 3.",
+    "step_name": "RPL+success+2023-04-26+Wed_Apr_26_17_54_28_2023+25047636_step3"
+  },
+  {
+    "source": "/opt/liblibai-models/user-workspace2/users/wyh/data/RPL_test50_unseen/first_arrow/RPL+success+2023-04-26+Wed_Apr_26_17_55_23_2023+24013089_step1.png",
+    "target": "/opt/liblibai-models/user-workspace2/users/wyh/data/RPL_test50_unseen/final/RPL+success+2023-04-26+Wed_Apr_26_17_55_23_2023+24013089_step1.png",
+    "prompt": "Put the can on top of the silver object. Step 1.",
+    "step_name": "RPL+success+2023-04-26+Wed_Apr_26_17_55_23_2023+24013089_step1"
+  },
+  {
+    "source": "/opt/liblibai-models/user-workspace2/users/wyh/data/RPL_test50_unseen/first_arrow/RPL+success+2023-04-26+Wed_Apr_26_17_55_23_2023+24013089_step2.png",
+    "target": "/opt/liblibai-models/user-workspace2/users/wyh/data/RPL_test50_unseen/final/RPL+success+2023-04-26+Wed_Apr_26_17_55_23_2023+24013089_step2.png",
+    "prompt": "Put the can on top of the silver object. Step 2.",
+    "step_name": "RPL+success+2023-04-26+Wed_Apr_26_17_55_23_2023+24013089_step2"
+  },
+  {
+    "source": "/opt/liblibai-models/user-workspace2/users/wyh/data/RPL_test50_unseen/first_arrow/RPL+success+2023-04-26+Wed_Apr_26_17_55_23_2023+24013089_step3.png",
+    "target": "/opt/liblibai-models/user-workspace2/users/wyh/data/RPL_test50_unseen/final/RPL+success+2023-04-26+Wed_Apr_26_17_55_23_2023+24013089_step3.png",
+    "prompt": "Put the can on top of the silver object. Step 3.",
+    "step_name": "RPL+success+2023-04-26+Wed_Apr_26_17_55_23_2023+24013089_step3"
+  },
+  {
+    "source": "/opt/liblibai-models/user-workspace2/users/wyh/data/RPL_test50_unseen/first_arrow/RPL+success+2023-04-26+Wed_Apr_26_17_55_23_2023+25047636_step1.png",
+    "target": "/opt/liblibai-models/user-workspace2/users/wyh/data/RPL_test50_unseen/final/RPL+success+2023-04-26+Wed_Apr_26_17_55_23_2023+25047636_step1.png",
+    "prompt": "Put the can on top of the silver object. Step 1.",
+    "step_name": "RPL+success+2023-04-26+Wed_Apr_26_17_55_23_2023+25047636_step1"
+  },
+  {
+    "source": "/opt/liblibai-models/user-workspace2/users/wyh/data/RPL_test50_unseen/first_arrow/RPL+success+2023-04-26+Wed_Apr_26_17_55_23_2023+25047636_step2.png",
+    "target": "/opt/liblibai-models/user-workspace2/users/wyh/data/RPL_test50_unseen/final/RPL+success+2023-04-26+Wed_Apr_26_17_55_23_2023+25047636_step2.png",
+    "prompt": "Put the can on top of the silver object. Step 2.",
+    "step_name": "RPL+success+2023-04-26+Wed_Apr_26_17_55_23_2023+25047636_step2"
+  },
+  {
+    "source": "/opt/liblibai-models/user-workspace2/users/wyh/data/RPL_test50_unseen/first_arrow/RPL+success+2023-04-26+Wed_Apr_26_17_55_23_2023+25047636_step3.png",
+    "target": "/opt/liblibai-models/user-workspace2/users/wyh/data/RPL_test50_unseen/final/RPL+success+2023-04-26+Wed_Apr_26_17_55_23_2023+25047636_step3.png",
+    "prompt": "Put the can on top of the silver object. Step 3.",
+    "step_name": "RPL+success+2023-04-26+Wed_Apr_26_17_55_23_2023+25047636_step3"
+  },
+  {
+    "source": "/opt/liblibai-models/user-workspace2/users/wyh/data/RPL_test50_unseen/first_arrow/RPL+success+2023-04-26+Wed_Apr_26_17_55_44_2023+24013089_step1.png",
+    "target": "/opt/liblibai-models/user-workspace2/users/wyh/data/RPL_test50_unseen/final/RPL+success+2023-04-26+Wed_Apr_26_17_55_44_2023+24013089_step1.png",
+    "prompt": "Put the can on the metal object. Step 1.",
+    "step_name": "RPL+success+2023-04-26+Wed_Apr_26_17_55_44_2023+24013089_step1"
+  },
+  {
+    "source": "/opt/liblibai-models/user-workspace2/users/wyh/data/RPL_test50_unseen/first_arrow/RPL+success+2023-04-26+Wed_Apr_26_17_55_44_2023+24013089_step2.png",
+    "target": "/opt/liblibai-models/user-workspace2/users/wyh/data/RPL_test50_unseen/final/RPL+success+2023-04-26+Wed_Apr_26_17_55_44_2023+24013089_step2.png",
+    "prompt": "Put the can on the metal object. Step 2.",
+    "step_name": "RPL+success+2023-04-26+Wed_Apr_26_17_55_44_2023+24013089_step2"
+  },
+  {
+    "source": "/opt/liblibai-models/user-workspace2/users/wyh/data/RPL_test50_unseen/first_arrow/RPL+success+2023-04-26+Wed_Apr_26_17_55_44_2023+24013089_step3.png",
+    "target": "/opt/liblibai-models/user-workspace2/users/wyh/data/RPL_test50_unseen/final/RPL+success+2023-04-26+Wed_Apr_26_17_55_44_2023+24013089_step3.png",
+    "prompt": "Put the can on the metal object. Step 3.",
+    "step_name": "RPL+success+2023-04-26+Wed_Apr_26_17_55_44_2023+24013089_step3"
+  },
+  {
+    "source": "/opt/liblibai-models/user-workspace2/users/wyh/data/RPL_test50_unseen/first_arrow/RPL+success+2023-04-26+Wed_Apr_26_17_55_44_2023+25047636_step1.png",
+    "target": "/opt/liblibai-models/user-workspace2/users/wyh/data/RPL_test50_unseen/final/RPL+success+2023-04-26+Wed_Apr_26_17_55_44_2023+25047636_step1.png",
+    "prompt": "Put the can on the metal object. Step 1.",
+    "step_name": "RPL+success+2023-04-26+Wed_Apr_26_17_55_44_2023+25047636_step1"
+  },
+  {
+    "source": "/opt/liblibai-models/user-workspace2/users/wyh/data/RPL_test50_unseen/first_arrow/RPL+success+2023-04-26+Wed_Apr_26_17_55_44_2023+25047636_step2.png",
+    "target": "/opt/liblibai-models/user-workspace2/users/wyh/data/RPL_test50_unseen/final/RPL+success+2023-04-26+Wed_Apr_26_17_55_44_2023+25047636_step2.png",
+    "prompt": "Put the can on the metal object. Step 2.",
+    "step_name": "RPL+success+2023-04-26+Wed_Apr_26_17_55_44_2023+25047636_step2"
+  },
+  {
+    "source": "/opt/liblibai-models/user-workspace2/users/wyh/data/RPL_test50_unseen/first_arrow/RPL+success+2023-04-26+Wed_Apr_26_17_55_44_2023+25047636_step3.png",
+    "target": "/opt/liblibai-models/user-workspace2/users/wyh/data/RPL_test50_unseen/final/RPL+success+2023-04-26+Wed_Apr_26_17_55_44_2023+25047636_step3.png",
+    "prompt": "Put the can on the metal object. Step 3.",
+    "step_name": "RPL+success+2023-04-26+Wed_Apr_26_17_55_44_2023+25047636_step3"
+  },
+  {
+    "source": "/opt/liblibai-models/user-workspace2/users/wyh/data/RPL_test50_unseen/first_arrow/RPL+success+2023-04-26+Wed_Apr_26_17_56_08_2023+24013089_step1.png",
+    "target": "/opt/liblibai-models/user-workspace2/users/wyh/data/RPL_test50_unseen/final/RPL+success+2023-04-26+Wed_Apr_26_17_56_08_2023+24013089_step1.png",
+    "prompt": "Move the can on the table. Step 1.",
+    "step_name": "RPL+success+2023-04-26+Wed_Apr_26_17_56_08_2023+24013089_step1"
+  },
+  {
+    "source": "/opt/liblibai-models/user-workspace2/users/wyh/data/RPL_test50_unseen/first_arrow/RPL+success+2023-04-26+Wed_Apr_26_17_56_08_2023+24013089_step2.png",
+    "target": "/opt/liblibai-models/user-workspace2/users/wyh/data/RPL_test50_unseen/final/RPL+success+2023-04-26+Wed_Apr_26_17_56_08_2023+24013089_step2.png",
+    "prompt": "Move the can on the table. Step 2.",
+    "step_name": "RPL+success+2023-04-26+Wed_Apr_26_17_56_08_2023+24013089_step2"
+  },
+  {
+    "source": "/opt/liblibai-models/user-workspace2/users/wyh/data/RPL_test50_unseen/first_arrow/RPL+success+2023-04-26+Wed_Apr_26_17_56_08_2023+24013089_step3.png",
+    "target": "/opt/liblibai-models/user-workspace2/users/wyh/data/RPL_test50_unseen/final/RPL+success+2023-04-26+Wed_Apr_26_17_56_08_2023+24013089_step3.png",
+    "prompt": "Move the can on the table. Step 3.",
+    "step_name": "RPL+success+2023-04-26+Wed_Apr_26_17_56_08_2023+24013089_step3"
+  },
+  {
+    "source": "/opt/liblibai-models/user-workspace2/users/wyh/data/RPL_test50_unseen/first_arrow/RPL+success+2023-04-26+Wed_Apr_26_17_56_39_2023+24013089_step1.png",
+    "target": "/opt/liblibai-models/user-workspace2/users/wyh/data/RPL_test50_unseen/final/RPL+success+2023-04-26+Wed_Apr_26_17_56_39_2023+24013089_step1.png",
+    "prompt": "Place the soda can on the metal object. Step 1.",
+    "step_name": "RPL+success+2023-04-26+Wed_Apr_26_17_56_39_2023+24013089_step1"
+  },
+  {
+    "source": "/opt/liblibai-models/user-workspace2/users/wyh/data/RPL_test50_unseen/first_arrow/RPL+success+2023-04-26+Wed_Apr_26_17_56_39_2023+24013089_step2.png",
+    "target": "/opt/liblibai-models/user-workspace2/users/wyh/data/RPL_test50_unseen/final/RPL+success+2023-04-26+Wed_Apr_26_17_56_39_2023+24013089_step2.png",
+    "prompt": "Place the soda can on the metal object. Step 2.",
+    "step_name": "RPL+success+2023-04-26+Wed_Apr_26_17_56_39_2023+24013089_step2"
+  },
+  {
+    "source": "/opt/liblibai-models/user-workspace2/users/wyh/data/RPL_test50_unseen/first_arrow/RPL+success+2023-04-26+Wed_Apr_26_17_56_39_2023+24013089_step3.png",
+    "target": "/opt/liblibai-models/user-workspace2/users/wyh/data/RPL_test50_unseen/final/RPL+success+2023-04-26+Wed_Apr_26_17_56_39_2023+24013089_step3.png",
+    "prompt": "Place the soda can on the metal object. Step 3.",
+    "step_name": "RPL+success+2023-04-26+Wed_Apr_26_17_56_39_2023+24013089_step3"
+  },
+  {
+    "source": "/opt/liblibai-models/user-workspace2/users/wyh/data/RPL_test50_unseen/first_arrow/RPL+success+2023-04-26+Wed_Apr_26_17_56_39_2023+25047636_step1.png",
+    "target": "/opt/liblibai-models/user-workspace2/users/wyh/data/RPL_test50_unseen/final/RPL+success+2023-04-26+Wed_Apr_26_17_56_39_2023+25047636_step1.png",
+    "prompt": "Place the soda can on the metal object. Step 1.",
+    "step_name": "RPL+success+2023-04-26+Wed_Apr_26_17_56_39_2023+25047636_step1"
+  },
+  {
+    "source": "/opt/liblibai-models/user-workspace2/users/wyh/data/RPL_test50_unseen/first_arrow/RPL+success+2023-04-26+Wed_Apr_26_17_56_39_2023+25047636_step2.png",
+    "target": "/opt/liblibai-models/user-workspace2/users/wyh/data/RPL_test50_unseen/final/RPL+success+2023-04-26+Wed_Apr_26_17_56_39_2023+25047636_step2.png",
+    "prompt": "Place the soda can on the metal object. Step 2.",
+    "step_name": "RPL+success+2023-04-26+Wed_Apr_26_17_56_39_2023+25047636_step2"
+  },
+  {
+    "source": "/opt/liblibai-models/user-workspace2/users/wyh/data/RPL_test50_unseen/first_arrow/RPL+success+2023-04-26+Wed_Apr_26_17_56_39_2023+25047636_step3.png",
+    "target": "/opt/liblibai-models/user-workspace2/users/wyh/data/RPL_test50_unseen/final/RPL+success+2023-04-26+Wed_Apr_26_17_56_39_2023+25047636_step3.png",
+    "prompt": "Place the soda can on the metal object. Step 3.",
+    "step_name": "RPL+success+2023-04-26+Wed_Apr_26_17_56_39_2023+25047636_step3"
+  },
+  {
+    "source": "/opt/liblibai-models/user-workspace2/users/wyh/data/RPL_test50_unseen/first_arrow/RPL+success+2023-04-26+Wed_Apr_26_17_57_11_2023+24013089_step1.png",
+    "target": "/opt/liblibai-models/user-workspace2/users/wyh/data/RPL_test50_unseen/final/RPL+success+2023-04-26+Wed_Apr_26_17_57_11_2023+24013089_step1.png",
+    "prompt": "Put the can on the metal object. Step 1.",
+    "step_name": "RPL+success+2023-04-26+Wed_Apr_26_17_57_11_2023+24013089_step1"
+  },
+  {
+    "source": "/opt/liblibai-models/user-workspace2/users/wyh/data/RPL_test50_unseen/first_arrow/RPL+success+2023-04-26+Wed_Apr_26_17_57_11_2023+24013089_step2.png",
+    "target": "/opt/liblibai-models/user-workspace2/users/wyh/data/RPL_test50_unseen/final/RPL+success+2023-04-26+Wed_Apr_26_17_57_11_2023+24013089_step2.png",
+    "prompt": "Put the can on the metal object. Step 2.",
+    "step_name": "RPL+success+2023-04-26+Wed_Apr_26_17_57_11_2023+24013089_step2"
+  },
+  {
+    "source": "/opt/liblibai-models/user-workspace2/users/wyh/data/RPL_test50_unseen/first_arrow/RPL+success+2023-04-26+Wed_Apr_26_17_57_11_2023+24013089_step3.png",
+    "target": "/opt/liblibai-models/user-workspace2/users/wyh/data/RPL_test50_unseen/final/RPL+success+2023-04-26+Wed_Apr_26_17_57_11_2023+24013089_step3.png",
+    "prompt": "Put the can on the metal object. Step 3.",
+    "step_name": "RPL+success+2023-04-26+Wed_Apr_26_17_57_11_2023+24013089_step3"
+  },
+  {
+    "source": "/opt/liblibai-models/user-workspace2/users/wyh/data/RPL_test50_unseen/first_arrow/RPL+success+2023-04-26+Wed_Apr_26_17_57_37_2023+24013089_step1.png",
+    "target": "/opt/liblibai-models/user-workspace2/users/wyh/data/RPL_test50_unseen/final/RPL+success+2023-04-26+Wed_Apr_26_17_57_37_2023+24013089_step1.png",
+    "prompt": "Move the can of red bull to the metal panel on the left edge of the table. Step 1.",
+    "step_name": "RPL+success+2023-04-26+Wed_Apr_26_17_57_37_2023+24013089_step1"
+  },
+  {
+    "source": "/opt/liblibai-models/user-workspace2/users/wyh/data/RPL_test50_unseen/first_arrow/RPL+success+2023-04-26+Wed_Apr_26_17_57_37_2023+24013089_step2.png",
+    "target": "/opt/liblibai-models/user-workspace2/users/wyh/data/RPL_test50_unseen/final/RPL+success+2023-04-26+Wed_Apr_26_17_57_37_2023+24013089_step2.png",
+    "prompt": "Move the can of red bull to the metal panel on the left edge of the table. Step 2.",
+    "step_name": "RPL+success+2023-04-26+Wed_Apr_26_17_57_37_2023+24013089_step2"
+  },
+  {
+    "source": "/opt/liblibai-models/user-workspace2/users/wyh/data/RPL_test50_unseen/first_arrow/RPL+success+2023-04-26+Wed_Apr_26_17_57_37_2023+24013089_step3.png",
+    "target": "/opt/liblibai-models/user-workspace2/users/wyh/data/RPL_test50_unseen/final/RPL+success+2023-04-26+Wed_Apr_26_17_57_37_2023+24013089_step3.png",
+    "prompt": "Move the can of red bull to the metal panel on the left edge of the table. Step 3.",
+    "step_name": "RPL+success+2023-04-26+Wed_Apr_26_17_57_37_2023+24013089_step3"
+  },
+  {
+    "source": "/opt/liblibai-models/user-workspace2/users/wyh/data/RPL_test50_unseen/first_arrow/RPL+success+2023-04-26+Wed_Apr_26_17_57_37_2023+25047636_step1.png",
+    "target": "/opt/liblibai-models/user-workspace2/users/wyh/data/RPL_test50_unseen/final/RPL+success+2023-04-26+Wed_Apr_26_17_57_37_2023+25047636_step1.png",
+    "prompt": "Move the can of red bull to the metal panel on the left edge of the table. Step 1.",
+    "step_name": "RPL+success+2023-04-26+Wed_Apr_26_17_57_37_2023+25047636_step1"
+  },
+  {
+    "source": "/opt/liblibai-models/user-workspace2/users/wyh/data/RPL_test50_unseen/first_arrow/RPL+success+2023-04-26+Wed_Apr_26_17_57_37_2023+25047636_step2.png",
+    "target": "/opt/liblibai-models/user-workspace2/users/wyh/data/RPL_test50_unseen/final/RPL+success+2023-04-26+Wed_Apr_26_17_57_37_2023+25047636_step2.png",
+    "prompt": "Move the can of red bull to the metal panel on the left edge of the table. Step 2.",
+    "step_name": "RPL+success+2023-04-26+Wed_Apr_26_17_57_37_2023+25047636_step2"
+  },
+  {
+    "source": "/opt/liblibai-models/user-workspace2/users/wyh/data/RPL_test50_unseen/first_arrow/RPL+success+2023-04-26+Wed_Apr_26_17_57_37_2023+25047636_step3.png",
+    "target": "/opt/liblibai-models/user-workspace2/users/wyh/data/RPL_test50_unseen/final/RPL+success+2023-04-26+Wed_Apr_26_17_57_37_2023+25047636_step3.png",
+    "prompt": "Move the can of red bull to the metal panel on the left edge of the table. Step 3.",
+    "step_name": "RPL+success+2023-04-26+Wed_Apr_26_17_57_37_2023+25047636_step3"
+  },
+  {
+    "source": "/opt/liblibai-models/user-workspace2/users/wyh/data/RPL_test50_unseen/first_arrow/RPL+success+2023-04-26+Wed_Apr_26_17_58_00_2023+24013089_step1.png",
+    "target": "/opt/liblibai-models/user-workspace2/users/wyh/data/RPL_test50_unseen/final/RPL+success+2023-04-26+Wed_Apr_26_17_58_00_2023+24013089_step1.png",
+    "prompt": "Put the red bull can on the metal plate. Step 1.",
+    "step_name": "RPL+success+2023-04-26+Wed_Apr_26_17_58_00_2023+24013089_step1"
+  },
+  {
+    "source": "/opt/liblibai-models/user-workspace2/users/wyh/data/RPL_test50_unseen/first_arrow/RPL+success+2023-04-26+Wed_Apr_26_17_58_00_2023+24013089_step2.png",
+    "target": "/opt/liblibai-models/user-workspace2/users/wyh/data/RPL_test50_unseen/final/RPL+success+2023-04-26+Wed_Apr_26_17_58_00_2023+24013089_step2.png",
+    "prompt": "Put the red bull can on the metal plate. Step 2.",
+    "step_name": "RPL+success+2023-04-26+Wed_Apr_26_17_58_00_2023+24013089_step2"
+  },
+  {
+    "source": "/opt/liblibai-models/user-workspace2/users/wyh/data/RPL_test50_unseen/first_arrow/RPL+success+2023-04-26+Wed_Apr_26_17_58_00_2023+24013089_step3.png",
+    "target": "/opt/liblibai-models/user-workspace2/users/wyh/data/RPL_test50_unseen/final/RPL+success+2023-04-26+Wed_Apr_26_17_58_00_2023+24013089_step3.png",
+    "prompt": "Put the red bull can on the metal plate. Step 3.",
+    "step_name": "RPL+success+2023-04-26+Wed_Apr_26_17_58_00_2023+24013089_step3"
+  },
+  {
+    "source": "/opt/liblibai-models/user-workspace2/users/wyh/data/RPL_test50_unseen/first_arrow/RPL+success+2023-04-26+Wed_Apr_26_17_58_00_2023+25047636_step1.png",
+    "target": "/opt/liblibai-models/user-workspace2/users/wyh/data/RPL_test50_unseen/final/RPL+success+2023-04-26+Wed_Apr_26_17_58_00_2023+25047636_step1.png",
+    "prompt": "Put the red bull can on the metal plate. Step 1.",
+    "step_name": "RPL+success+2023-04-26+Wed_Apr_26_17_58_00_2023+25047636_step1"
+  },
+  {
+    "source": "/opt/liblibai-models/user-workspace2/users/wyh/data/RPL_test50_unseen/first_arrow/RPL+success+2023-04-26+Wed_Apr_26_17_58_00_2023+25047636_step2.png",
+    "target": "/opt/liblibai-models/user-workspace2/users/wyh/data/RPL_test50_unseen/final/RPL+success+2023-04-26+Wed_Apr_26_17_58_00_2023+25047636_step2.png",
+    "prompt": "Put the red bull can on the metal plate. Step 2.",
+    "step_name": "RPL+success+2023-04-26+Wed_Apr_26_17_58_00_2023+25047636_step2"
+  },
+  {
+    "source": "/opt/liblibai-models/user-workspace2/users/wyh/data/RPL_test50_unseen/first_arrow/RPL+success+2023-04-26+Wed_Apr_26_17_58_00_2023+25047636_step3.png",
+    "target": "/opt/liblibai-models/user-workspace2/users/wyh/data/RPL_test50_unseen/final/RPL+success+2023-04-26+Wed_Apr_26_17_58_00_2023+25047636_step3.png",
+    "prompt": "Put the red bull can on the metal plate. Step 3.",
+    "step_name": "RPL+success+2023-04-26+Wed_Apr_26_17_58_00_2023+25047636_step3"
+  },
+  {
+    "source": "/opt/liblibai-models/user-workspace2/users/wyh/data/RPL_test50_unseen/first_arrow/RPL+success+2023-04-26+Wed_Apr_26_17_59_12_2023+24013089_step1.png",
+    "target": "/opt/liblibai-models/user-workspace2/users/wyh/data/RPL_test50_unseen/final/RPL+success+2023-04-26+Wed_Apr_26_17_59_12_2023+24013089_step1.png",
+    "prompt": "Pu the can on the metal object. Step 1.",
+    "step_name": "RPL+success+2023-04-26+Wed_Apr_26_17_59_12_2023+24013089_step1"
+  },
+  {
+    "source": "/opt/liblibai-models/user-workspace2/users/wyh/data/RPL_test50_unseen/first_arrow/RPL+success+2023-04-26+Wed_Apr_26_17_59_12_2023+24013089_step2.png",
+    "target": "/opt/liblibai-models/user-workspace2/users/wyh/data/RPL_test50_unseen/final/RPL+success+2023-04-26+Wed_Apr_26_17_59_12_2023+24013089_step2.png",
+    "prompt": "Pu the can on the metal object. Step 2.",
+    "step_name": "RPL+success+2023-04-26+Wed_Apr_26_17_59_12_2023+24013089_step2"
+  },
+  {
+    "source": "/opt/liblibai-models/user-workspace2/users/wyh/data/RPL_test50_unseen/first_arrow/RPL+success+2023-04-26+Wed_Apr_26_17_59_12_2023+24013089_step3.png",
+    "target": "/opt/liblibai-models/user-workspace2/users/wyh/data/RPL_test50_unseen/final/RPL+success+2023-04-26+Wed_Apr_26_17_59_12_2023+24013089_step3.png",
+    "prompt": "Pu the can on the metal object. Step 3.",
+    "step_name": "RPL+success+2023-04-26+Wed_Apr_26_17_59_12_2023+24013089_step3"
+  },
+  {
+    "source": "/opt/liblibai-models/user-workspace2/users/wyh/data/RPL_test50_unseen/first_arrow/RPL+success+2023-04-26+Wed_Apr_26_17_59_12_2023+25047636_step1.png",
+    "target": "/opt/liblibai-models/user-workspace2/users/wyh/data/RPL_test50_unseen/final/RPL+success+2023-04-26+Wed_Apr_26_17_59_12_2023+25047636_step1.png",
+    "prompt": "Pu the can on the metal object. Step 1.",
+    "step_name": "RPL+success+2023-04-26+Wed_Apr_26_17_59_12_2023+25047636_step1"
+  },
+  {
+    "source": "/opt/liblibai-models/user-workspace2/users/wyh/data/RPL_test50_unseen/first_arrow/RPL+success+2023-04-26+Wed_Apr_26_17_59_12_2023+25047636_step2.png",
+    "target": "/opt/liblibai-models/user-workspace2/users/wyh/data/RPL_test50_unseen/final/RPL+success+2023-04-26+Wed_Apr_26_17_59_12_2023+25047636_step2.png",
+    "prompt": "Pu the can on the metal object. Step 2.",
+    "step_name": "RPL+success+2023-04-26+Wed_Apr_26_17_59_12_2023+25047636_step2"
+  },
+  {
+    "source": "/opt/liblibai-models/user-workspace2/users/wyh/data/RPL_test50_unseen/first_arrow/RPL+success+2023-04-26+Wed_Apr_26_17_59_12_2023+25047636_step3.png",
+    "target": "/opt/liblibai-models/user-workspace2/users/wyh/data/RPL_test50_unseen/final/RPL+success+2023-04-26+Wed_Apr_26_17_59_12_2023+25047636_step3.png",
+    "prompt": "Pu the can on the metal object. Step 3.",
+    "step_name": "RPL+success+2023-04-26+Wed_Apr_26_17_59_12_2023+25047636_step3"
+  },
+  {
+    "source": "/opt/liblibai-models/user-workspace2/users/wyh/data/RPL_test50_unseen/first_arrow/RPL+success+2023-04-26+Wed_Apr_26_17_59_34_2023+24013089_step1.png",
+    "target": "/opt/liblibai-models/user-workspace2/users/wyh/data/RPL_test50_unseen/final/RPL+success+2023-04-26+Wed_Apr_26_17_59_34_2023+24013089_step1.png",
+    "prompt": "Move the can to the left. Step 1.",
+    "step_name": "RPL+success+2023-04-26+Wed_Apr_26_17_59_34_2023+24013089_step1"
+  },
+  {
+    "source": "/opt/liblibai-models/user-workspace2/users/wyh/data/RPL_test50_unseen/first_arrow/RPL+success+2023-04-26+Wed_Apr_26_17_59_34_2023+24013089_step2.png",
+    "target": "/opt/liblibai-models/user-workspace2/users/wyh/data/RPL_test50_unseen/final/RPL+success+2023-04-26+Wed_Apr_26_17_59_34_2023+24013089_step2.png",
+    "prompt": "Move the can to the left. Step 2.",
+    "step_name": "RPL+success+2023-04-26+Wed_Apr_26_17_59_34_2023+24013089_step2"
+  },
+  {
+    "source": "/opt/liblibai-models/user-workspace2/users/wyh/data/RPL_test50_unseen/first_arrow/RPL+success+2023-04-26+Wed_Apr_26_17_59_34_2023+24013089_step3.png",
+    "target": "/opt/liblibai-models/user-workspace2/users/wyh/data/RPL_test50_unseen/final/RPL+success+2023-04-26+Wed_Apr_26_17_59_34_2023+24013089_step3.png",
+    "prompt": "Move the can to the left. Step 3.",
+    "step_name": "RPL+success+2023-04-26+Wed_Apr_26_17_59_34_2023+24013089_step3"
+  }
+]
