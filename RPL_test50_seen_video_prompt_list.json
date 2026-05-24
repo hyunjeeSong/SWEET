@@ -1,0 +1,302 @@
+[
+  {
+    "source_image": "/opt/liblibai-models/user-workspace2/users/wyh/data/RPL_video_arrow_frame/RPL_video_arrow_frame_test50_seen/RPL+success+2023-05-25+Thu_May_25_10_50_40_2023+24013089.png",
+    "video_path": "/opt/liblibai-models/user-workspace2/users/wyh/data/RPL_test50_seen_video/RPL+success+2023-05-25+Thu_May_25_10_50_40_2023+24013089.mp4",
+    "prompt": "Remove the green can from the sink and put it on the counter.",
+    "sample_name": "RPL+success+2023-05-25+Thu_May_25_10_50_40_2023+24013089"
+  },
+  {
+    "source_image": "/opt/liblibai-models/user-workspace2/users/wyh/data/RPL_video_arrow_frame/RPL_video_arrow_frame_test50_seen/RPL+success+2023-05-25+Thu_May_25_10_58_52_2023+24013089.png",
+    "video_path": "/opt/liblibai-models/user-workspace2/users/wyh/data/RPL_test50_seen_video/RPL+success+2023-05-25+Thu_May_25_10_58_52_2023+24013089.mp4",
+    "prompt": "Remove the red can from the sink and put it on the counter.",
+    "sample_name": "RPL+success+2023-05-25+Thu_May_25_10_58_52_2023+24013089"
+  },
+  {
+    "source_image": "/opt/liblibai-models/user-workspace2/users/wyh/data/RPL_video_arrow_frame/RPL_video_arrow_frame_test50_seen/RPL+success+2023-05-25+Thu_May_25_10_59_19_2023+24013089.png",
+    "video_path": "/opt/liblibai-models/user-workspace2/users/wyh/data/RPL_test50_seen_video/RPL+success+2023-05-25+Thu_May_25_10_59_19_2023+24013089.mp4",
+    "prompt": "Remove the can from the sink.",
+    "sample_name": "RPL+success+2023-05-25+Thu_May_25_10_59_19_2023+24013089"
+  },
+  {
+    "source_image": "/opt/liblibai-models/user-workspace2/users/wyh/data/RPL_video_arrow_frame/RPL_video_arrow_frame_test50_seen/RPL+success+2023-05-25+Thu_May_25_11_04_15_2023+24013089.png",
+    "video_path": "/opt/liblibai-models/user-workspace2/users/wyh/data/RPL_test50_seen_video/RPL+success+2023-05-25+Thu_May_25_11_04_15_2023+24013089.mp4",
+    "prompt": "Pick up the can from the sink and put it on the counter.",
+    "sample_name": "RPL+success+2023-05-25+Thu_May_25_11_04_15_2023+24013089"
+  },
+  {
+    "source_image": "/opt/liblibai-models/user-workspace2/users/wyh/data/RPL_video_arrow_frame/RPL_video_arrow_frame_test50_seen/RPL+success+2023-05-25+Thu_May_25_11_36_12_2023+24013089.png",
+    "video_path": "/opt/liblibai-models/user-workspace2/users/wyh/data/RPL_test50_seen_video/RPL+success+2023-05-25+Thu_May_25_11_36_12_2023+24013089.mp4",
+    "prompt": "Put the red can in the sink.",
+    "sample_name": "RPL+success+2023-05-25+Thu_May_25_11_36_12_2023+24013089"
+  },
+  {
+    "source_image": "/opt/liblibai-models/user-workspace2/users/wyh/data/RPL_video_arrow_frame/RPL_video_arrow_frame_test50_seen/RPL+success+2023-05-25+Thu_May_25_11_39_25_2023+25047636.png",
+    "video_path": "/opt/liblibai-models/user-workspace2/users/wyh/data/RPL_test50_seen_video/RPL+success+2023-05-25+Thu_May_25_11_39_25_2023+25047636.mp4",
+    "prompt": "Put the can inside the sink.",
+    "sample_name": "RPL+success+2023-05-25+Thu_May_25_11_39_25_2023+25047636"
+  },
+  {
+    "source_image": "/opt/liblibai-models/user-workspace2/users/wyh/data/RPL_video_arrow_frame/RPL_video_arrow_frame_test50_seen/RPL+success+2023-05-25+Thu_May_25_12_02_14_2023+24013089.png",
+    "video_path": "/opt/liblibai-models/user-workspace2/users/wyh/data/RPL_test50_seen_video/RPL+success+2023-05-25+Thu_May_25_12_02_14_2023+24013089.mp4",
+    "prompt": "Take the soda can out of the sink and put it into the cupboard.",
+    "sample_name": "RPL+success+2023-05-25+Thu_May_25_12_02_14_2023+24013089"
+  },
+  {
+    "source_image": "/opt/liblibai-models/user-workspace2/users/wyh/data/RPL_video_arrow_frame/RPL_video_arrow_frame_test50_seen/RPL+success+2023-05-29+Mon_May_29_15_38_14_2023+24013089.png",
+    "video_path": "/opt/liblibai-models/user-workspace2/users/wyh/data/RPL_test50_seen_video/RPL+success+2023-05-29+Mon_May_29_15_38_14_2023+24013089.mp4",
+    "prompt": "Put the blue snack packet in the top cabinet.",
+    "sample_name": "RPL+success+2023-05-29+Mon_May_29_15_38_14_2023+24013089"
+  },
+  {
+    "source_image": "/opt/liblibai-models/user-workspace2/users/wyh/data/RPL_video_arrow_frame/RPL_video_arrow_frame_test50_seen/RPL+success+2023-05-29+Mon_May_29_16_14_17_2023+24013089.png",
+    "video_path": "/opt/liblibai-models/user-workspace2/users/wyh/data/RPL_test50_seen_video/RPL+success+2023-05-29+Mon_May_29_16_14_17_2023+24013089.mp4",
+    "prompt": "Put the chocolate bar inside the cupboard.",
+    "sample_name": "RPL+success+2023-05-29+Mon_May_29_16_14_17_2023+24013089"
+  },
+  {
+    "source_image": "/opt/liblibai-models/user-workspace2/users/wyh/data/RPL_video_arrow_frame/RPL_video_arrow_frame_test50_seen/RPL+success+2023-05-29+Mon_May_29_16_22_07_2023+24013089.png",
+    "video_path": "/opt/liblibai-models/user-workspace2/users/wyh/data/RPL_test50_seen_video/RPL+success+2023-05-29+Mon_May_29_16_22_07_2023+24013089.mp4",
+    "prompt": "Put the packet in the top cabinet.",
+    "sample_name": "RPL+success+2023-05-29+Mon_May_29_16_22_07_2023+24013089"
+  },
+  {
+    "source_image": "/opt/liblibai-models/user-workspace2/users/wyh/data/RPL_video_arrow_frame/RPL_video_arrow_frame_test50_seen/RPL+success+2023-05-29+Mon_May_29_16_41_17_2023+24013089.png",
+    "video_path": "/opt/liblibai-models/user-workspace2/users/wyh/data/RPL_test50_seen_video/RPL+success+2023-05-29+Mon_May_29_16_41_17_2023+24013089.mp4",
+    "prompt": "Move the Lays packet to the left counter.",
+    "sample_name": "RPL+success+2023-05-29+Mon_May_29_16_41_17_2023+24013089"
+  },
+  {
+    "source_image": "/opt/liblibai-models/user-workspace2/users/wyh/data/RPL_video_arrow_frame/RPL_video_arrow_frame_test50_seen/RPL+success+2023-05-29+Mon_May_29_16_41_17_2023+25047636.png",
+    "video_path": "/opt/liblibai-models/user-workspace2/users/wyh/data/RPL_test50_seen_video/RPL+success+2023-05-29+Mon_May_29_16_41_17_2023+25047636.mp4",
+    "prompt": "Move the Lays packet to the left counter.",
+    "sample_name": "RPL+success+2023-05-29+Mon_May_29_16_41_17_2023+25047636"
+  },
+  {
+    "source_image": "/opt/liblibai-models/user-workspace2/users/wyh/data/RPL_video_arrow_frame/RPL_video_arrow_frame_test50_seen/RPL+success+2023-05-29+Mon_May_29_16_53_55_2023+24013089.png",
+    "video_path": "/opt/liblibai-models/user-workspace2/users/wyh/data/RPL_test50_seen_video/RPL+success+2023-05-29+Mon_May_29_16_53_55_2023+24013089.mp4",
+    "prompt": "Put the packet in the sink.",
+    "sample_name": "RPL+success+2023-05-29+Mon_May_29_16_53_55_2023+24013089"
+  },
+  {
+    "source_image": "/opt/liblibai-models/user-workspace2/users/wyh/data/RPL_video_arrow_frame/RPL_video_arrow_frame_test50_seen/RPL+success+2023-05-29+Mon_May_29_16_53_55_2023+25047636.png",
+    "video_path": "/opt/liblibai-models/user-workspace2/users/wyh/data/RPL_test50_seen_video/RPL+success+2023-05-29+Mon_May_29_16_53_55_2023+25047636.mp4",
+    "prompt": "Put the packet in the sink.",
+    "sample_name": "RPL+success+2023-05-29+Mon_May_29_16_53_55_2023+25047636"
+  },
+  {
+    "source_image": "/opt/liblibai-models/user-workspace2/users/wyh/data/RPL_video_arrow_frame/RPL_video_arrow_frame_test50_seen/RPL+success+2023-05-29+Mon_May_29_17_25_23_2023+25047636.png",
+    "video_path": "/opt/liblibai-models/user-workspace2/users/wyh/data/RPL_test50_seen_video/RPL+success+2023-05-29+Mon_May_29_17_25_23_2023+25047636.mp4",
+    "prompt": "Put the sprite can into the kitchen sink.",
+    "sample_name": "RPL+success+2023-05-29+Mon_May_29_17_25_23_2023+25047636"
+  },
+  {
+    "source_image": "/opt/liblibai-models/user-workspace2/users/wyh/data/RPL_video_arrow_frame/RPL_video_arrow_frame_test50_seen/RPL+success+2023-05-29+Mon_May_29_17_26_43_2023+25047636.png",
+    "video_path": "/opt/liblibai-models/user-workspace2/users/wyh/data/RPL_test50_seen_video/RPL+success+2023-05-29+Mon_May_29_17_26_43_2023+25047636.mp4",
+    "prompt": "Put the can inside the sink.",
+    "sample_name": "RPL+success+2023-05-29+Mon_May_29_17_26_43_2023+25047636"
+  },
+  {
+    "source_image": "/opt/liblibai-models/user-workspace2/users/wyh/data/RPL_video_arrow_frame/RPL_video_arrow_frame_test50_seen/RPL+success+2023-05-29+Mon_May_29_17_59_18_2023+25047636.png",
+    "video_path": "/opt/liblibai-models/user-workspace2/users/wyh/data/RPL_test50_seen_video/RPL+success+2023-05-29+Mon_May_29_17_59_18_2023+25047636.mp4",
+    "prompt": "Move the protein bar into the left sink.",
+    "sample_name": "RPL+success+2023-05-29+Mon_May_29_17_59_18_2023+25047636"
+  },
+  {
+    "source_image": "/opt/liblibai-models/user-workspace2/users/wyh/data/RPL_video_arrow_frame/RPL_video_arrow_frame_test50_seen/RPL+success+2023-05-30+Tue_May_30_16_11_33_2023+25047636.png",
+    "video_path": "/opt/liblibai-models/user-workspace2/users/wyh/data/RPL_test50_seen_video/RPL+success+2023-05-30+Tue_May_30_16_11_33_2023+25047636.mp4",
+    "prompt": "Put the orange can inside the sink.",
+    "sample_name": "RPL+success+2023-05-30+Tue_May_30_16_11_33_2023+25047636"
+  },
+  {
+    "source_image": "/opt/liblibai-models/user-workspace2/users/wyh/data/RPL_video_arrow_frame/RPL_video_arrow_frame_test50_seen/RPL+success+2023-06-04+Sun_Jun__4_12_26_16_2023+25047636.png",
+    "video_path": "/opt/liblibai-models/user-workspace2/users/wyh/data/RPL_test50_seen_video/RPL+success+2023-06-04+Sun_Jun__4_12_26_16_2023+25047636.mp4",
+    "prompt": "Put the orange can in the sink on the left.",
+    "sample_name": "RPL+success+2023-06-04+Sun_Jun__4_12_26_16_2023+25047636"
+  },
+  {
+    "source_image": "/opt/liblibai-models/user-workspace2/users/wyh/data/RPL_video_arrow_frame/RPL_video_arrow_frame_test50_seen/RPL+success+2023-06-04+Sun_Jun__4_12_27_27_2023+24013089.png",
+    "video_path": "/opt/liblibai-models/user-workspace2/users/wyh/data/RPL_test50_seen_video/RPL+success+2023-06-04+Sun_Jun__4_12_27_27_2023+24013089.mp4",
+    "prompt": "Put the can inside the sink.",
+    "sample_name": "RPL+success+2023-06-04+Sun_Jun__4_12_27_27_2023+24013089"
+  },
+  {
+    "source_image": "/opt/liblibai-models/user-workspace2/users/wyh/data/RPL_video_arrow_frame/RPL_video_arrow_frame_test50_seen/RPL+success+2023-06-04+Sun_Jun__4_12_37_12_2023+25047636.png",
+    "video_path": "/opt/liblibai-models/user-workspace2/users/wyh/data/RPL_test50_seen_video/RPL+success+2023-06-04+Sun_Jun__4_12_37_12_2023+25047636.mp4",
+    "prompt": "Move the sprite can to the sink.",
+    "sample_name": "RPL+success+2023-06-04+Sun_Jun__4_12_37_12_2023+25047636"
+  },
+  {
+    "source_image": "/opt/liblibai-models/user-workspace2/users/wyh/data/RPL_video_arrow_frame/RPL_video_arrow_frame_test50_seen/RPL+success+2023-06-04+Sun_Jun__4_12_39_42_2023+24013089.png",
+    "video_path": "/opt/liblibai-models/user-workspace2/users/wyh/data/RPL_test50_seen_video/RPL+success+2023-06-04+Sun_Jun__4_12_39_42_2023+24013089.mp4",
+    "prompt": "Remove the green can from the sink and put it on the counter.",
+    "sample_name": "RPL+success+2023-06-04+Sun_Jun__4_12_39_42_2023+24013089"
+  },
+  {
+    "source_image": "/opt/liblibai-models/user-workspace2/users/wyh/data/RPL_video_arrow_frame/RPL_video_arrow_frame_test50_seen/RPL+success+2023-06-04+Sun_Jun__4_13_05_00_2023+25047636.png",
+    "video_path": "/opt/liblibai-models/user-workspace2/users/wyh/data/RPL_test50_seen_video/RPL+success+2023-06-04+Sun_Jun__4_13_05_00_2023+25047636.mp4",
+    "prompt": "Pick up the granola bar and place it on the bottom shelf.",
+    "sample_name": "RPL+success+2023-06-04+Sun_Jun__4_13_05_00_2023+25047636"
+  },
+  {
+    "source_image": "/opt/liblibai-models/user-workspace2/users/wyh/data/RPL_video_arrow_frame/RPL_video_arrow_frame_test50_seen/RPL+success+2023-06-04+Sun_Jun__4_13_08_45_2023+25047636.png",
+    "video_path": "/opt/liblibai-models/user-workspace2/users/wyh/data/RPL_test50_seen_video/RPL+success+2023-06-04+Sun_Jun__4_13_08_45_2023+25047636.mp4",
+    "prompt": "Put the green snack bar in the top cabinet.",
+    "sample_name": "RPL+success+2023-06-04+Sun_Jun__4_13_08_45_2023+25047636"
+  },
+  {
+    "source_image": "/opt/liblibai-models/user-workspace2/users/wyh/data/RPL_video_arrow_frame/RPL_video_arrow_frame_test50_seen/RPL+success+2023-06-04+Sun_Jun__4_13_11_32_2023+25047636.png",
+    "video_path": "/opt/liblibai-models/user-workspace2/users/wyh/data/RPL_test50_seen_video/RPL+success+2023-06-04+Sun_Jun__4_13_11_32_2023+25047636.mp4",
+    "prompt": "Place the granola bar on the bottom shelf of the cabinet.",
+    "sample_name": "RPL+success+2023-06-04+Sun_Jun__4_13_11_32_2023+25047636"
+  },
+  {
+    "source_image": "/opt/liblibai-models/user-workspace2/users/wyh/data/RPL_video_arrow_frame/RPL_video_arrow_frame_test50_seen/RPL+success+2023-06-04+Sun_Jun__4_13_19_59_2023+24013089.png",
+    "video_path": "/opt/liblibai-models/user-workspace2/users/wyh/data/RPL_test50_seen_video/RPL+success+2023-06-04+Sun_Jun__4_13_19_59_2023+24013089.mp4",
+    "prompt": "Place the protein bar in the center of the counter on the bottom shelf of the cabinet.",
+    "sample_name": "RPL+success+2023-06-04+Sun_Jun__4_13_19_59_2023+24013089"
+  },
+  {
+    "source_image": "/opt/liblibai-models/user-workspace2/users/wyh/data/RPL_video_arrow_frame/RPL_video_arrow_frame_test50_seen/RPL+success+2023-06-04+Sun_Jun__4_13_40_54_2023+25047636.png",
+    "video_path": "/opt/liblibai-models/user-workspace2/users/wyh/data/RPL_test50_seen_video/RPL+success+2023-06-04+Sun_Jun__4_13_40_54_2023+25047636.mp4",
+    "prompt": "Put the packet in the left sink.",
+    "sample_name": "RPL+success+2023-06-04+Sun_Jun__4_13_40_54_2023+25047636"
+  },
+  {
+    "source_image": "/opt/liblibai-models/user-workspace2/users/wyh/data/RPL_video_arrow_frame/RPL_video_arrow_frame_test50_seen/RPL+success+2023-06-04+Sun_Jun__4_13_43_57_2023+24013089.png",
+    "video_path": "/opt/liblibai-models/user-workspace2/users/wyh/data/RPL_test50_seen_video/RPL+success+2023-06-04+Sun_Jun__4_13_43_57_2023+24013089.mp4",
+    "prompt": "Pick up the green object from the counter and put it in the sink.",
+    "sample_name": "RPL+success+2023-06-04+Sun_Jun__4_13_43_57_2023+24013089"
+  },
+  {
+    "source_image": "/opt/liblibai-models/user-workspace2/users/wyh/data/RPL_video_arrow_frame/RPL_video_arrow_frame_test50_seen/RPL+success+2023-06-04+Sun_Jun__4_14_25_12_2023+24013089.png",
+    "video_path": "/opt/liblibai-models/user-workspace2/users/wyh/data/RPL_test50_seen_video/RPL+success+2023-06-04+Sun_Jun__4_14_25_12_2023+24013089.mp4",
+    "prompt": "Take the candy bar out of the sink.",
+    "sample_name": "RPL+success+2023-06-04+Sun_Jun__4_14_25_12_2023+24013089"
+  },
+  {
+    "source_image": "/opt/liblibai-models/user-workspace2/users/wyh/data/RPL_video_arrow_frame/RPL_video_arrow_frame_test50_seen/RPL+success+2023-06-04+Sun_Jun__4_14_28_58_2023+24013089.png",
+    "video_path": "/opt/liblibai-models/user-workspace2/users/wyh/data/RPL_test50_seen_video/RPL+success+2023-06-04+Sun_Jun__4_14_28_58_2023+24013089.mp4",
+    "prompt": "Remove the packet from the sink.",
+    "sample_name": "RPL+success+2023-06-04+Sun_Jun__4_14_28_58_2023+24013089"
+  },
+  {
+    "source_image": "/opt/liblibai-models/user-workspace2/users/wyh/data/RPL_video_arrow_frame/RPL_video_arrow_frame_test50_seen/RPL+success+2023-06-04+Sun_Jun__4_14_42_38_2023+25047636.png",
+    "video_path": "/opt/liblibai-models/user-workspace2/users/wyh/data/RPL_test50_seen_video/RPL+success+2023-06-04+Sun_Jun__4_14_42_38_2023+25047636.mp4",
+    "prompt": "Put the blue packet in the left sink.",
+    "sample_name": "RPL+success+2023-06-04+Sun_Jun__4_14_42_38_2023+25047636"
+  },
+  {
+    "source_image": "/opt/liblibai-models/user-workspace2/users/wyh/data/RPL_video_arrow_frame/RPL_video_arrow_frame_test50_seen/RPL+success+2023-06-04+Sun_Jun__4_14_43_55_2023+24013089.png",
+    "video_path": "/opt/liblibai-models/user-workspace2/users/wyh/data/RPL_test50_seen_video/RPL+success+2023-06-04+Sun_Jun__4_14_43_55_2023+24013089.mp4",
+    "prompt": "Put the orange packet in the sink on the left.",
+    "sample_name": "RPL+success+2023-06-04+Sun_Jun__4_14_43_55_2023+24013089"
+  },
+  {
+    "source_image": "/opt/liblibai-models/user-workspace2/users/wyh/data/RPL_video_arrow_frame/RPL_video_arrow_frame_test50_seen/RPL+success+2023-06-04+Sun_Jun__4_14_51_31_2023+24013089.png",
+    "video_path": "/opt/liblibai-models/user-workspace2/users/wyh/data/RPL_test50_seen_video/RPL+success+2023-06-04+Sun_Jun__4_14_51_31_2023+24013089.mp4",
+    "prompt": "Put the packet into the cupboard.",
+    "sample_name": "RPL+success+2023-06-04+Sun_Jun__4_14_51_31_2023+24013089"
+  },
+  {
+    "source_image": "/opt/liblibai-models/user-workspace2/users/wyh/data/RPL_video_arrow_frame/RPL_video_arrow_frame_test50_seen/RPL+success+2023-06-04+Sun_Jun__4_14_59_30_2023+24013089.png",
+    "video_path": "/opt/liblibai-models/user-workspace2/users/wyh/data/RPL_test50_seen_video/RPL+success+2023-06-04+Sun_Jun__4_14_59_30_2023+24013089.mp4",
+    "prompt": "Pick up the green lays packet and put inside the bottom compartment of the blue cabinet.",
+    "sample_name": "RPL+success+2023-06-04+Sun_Jun__4_14_59_30_2023+24013089"
+  },
+  {
+    "source_image": "/opt/liblibai-models/user-workspace2/users/wyh/data/RPL_video_arrow_frame/RPL_video_arrow_frame_test50_seen/RPL+success+2023-06-05+Mon_Jun__5_16_04_12_2023+24013089.png",
+    "video_path": "/opt/liblibai-models/user-workspace2/users/wyh/data/RPL_test50_seen_video/RPL+success+2023-06-05+Mon_Jun__5_16_04_12_2023+24013089.mp4",
+    "prompt": "Put the snack packet into the sink.",
+    "sample_name": "RPL+success+2023-06-05+Mon_Jun__5_16_04_12_2023+24013089"
+  },
+  {
+    "source_image": "/opt/liblibai-models/user-workspace2/users/wyh/data/RPL_video_arrow_frame/RPL_video_arrow_frame_test50_seen/RPL+success+2023-06-05+Mon_Jun__5_16_07_50_2023+25047636.png",
+    "video_path": "/opt/liblibai-models/user-workspace2/users/wyh/data/RPL_test50_seen_video/RPL+success+2023-06-05+Mon_Jun__5_16_07_50_2023+25047636.mp4",
+    "prompt": "Put the packet in the sink.",
+    "sample_name": "RPL+success+2023-06-05+Mon_Jun__5_16_07_50_2023+25047636"
+  },
+  {
+    "source_image": "/opt/liblibai-models/user-workspace2/users/wyh/data/RPL_video_arrow_frame/RPL_video_arrow_frame_test50_seen/RPL+success+2023-06-05+Mon_Jun__5_16_08_25_2023+24013089.png",
+    "video_path": "/opt/liblibai-models/user-workspace2/users/wyh/data/RPL_test50_seen_video/RPL+success+2023-06-05+Mon_Jun__5_16_08_25_2023+24013089.mp4",
+    "prompt": "Put the blue packet inside the left sink.",
+    "sample_name": "RPL+success+2023-06-05+Mon_Jun__5_16_08_25_2023+24013089"
+  },
+  {
+    "source_image": "/opt/liblibai-models/user-workspace2/users/wyh/data/RPL_video_arrow_frame/RPL_video_arrow_frame_test50_seen/RPL+success+2023-06-05+Mon_Jun__5_16_13_25_2023+24013089.png",
+    "video_path": "/opt/liblibai-models/user-workspace2/users/wyh/data/RPL_test50_seen_video/RPL+success+2023-06-05+Mon_Jun__5_16_13_25_2023+24013089.mp4",
+    "prompt": "Put the red packet in the sink on the left.",
+    "sample_name": "RPL+success+2023-06-05+Mon_Jun__5_16_13_25_2023+24013089"
+  },
+  {
+    "source_image": "/opt/liblibai-models/user-workspace2/users/wyh/data/RPL_video_arrow_frame/RPL_video_arrow_frame_test50_seen/RPL+success+2023-06-05+Mon_Jun__5_16_18_16_2023+25047636.png",
+    "video_path": "/opt/liblibai-models/user-workspace2/users/wyh/data/RPL_test50_seen_video/RPL+success+2023-06-05+Mon_Jun__5_16_18_16_2023+25047636.mp4",
+    "prompt": "Put the orange packet inside the sink.",
+    "sample_name": "RPL+success+2023-06-05+Mon_Jun__5_16_18_16_2023+25047636"
+  },
+  {
+    "source_image": "/opt/liblibai-models/user-workspace2/users/wyh/data/RPL_video_arrow_frame/RPL_video_arrow_frame_test50_seen/RPL+success+2023-06-05+Mon_Jun__5_17_02_30_2023+25047636.png",
+    "video_path": "/opt/liblibai-models/user-workspace2/users/wyh/data/RPL_test50_seen_video/RPL+success+2023-06-05+Mon_Jun__5_17_02_30_2023+25047636.mp4",
+    "prompt": "Put the brown packet in the open upper cabinet.",
+    "sample_name": "RPL+success+2023-06-05+Mon_Jun__5_17_02_30_2023+25047636"
+  },
+  {
+    "source_image": "/opt/liblibai-models/user-workspace2/users/wyh/data/RPL_video_arrow_frame/RPL_video_arrow_frame_test50_seen/RPL+success+2023-06-05+Mon_Jun__5_17_04_55_2023+24013089.png",
+    "video_path": "/opt/liblibai-models/user-workspace2/users/wyh/data/RPL_test50_seen_video/RPL+success+2023-06-05+Mon_Jun__5_17_04_55_2023+24013089.mp4",
+    "prompt": "Put the chocolate bar inside the cabinet.",
+    "sample_name": "RPL+success+2023-06-05+Mon_Jun__5_17_04_55_2023+24013089"
+  },
+  {
+    "source_image": "/opt/liblibai-models/user-workspace2/users/wyh/data/RPL_video_arrow_frame/RPL_video_arrow_frame_test50_seen/RPL+success+2023-06-05+Mon_Jun__5_17_06_15_2023+24013089.png",
+    "video_path": "/opt/liblibai-models/user-workspace2/users/wyh/data/RPL_test50_seen_video/RPL+success+2023-06-05+Mon_Jun__5_17_06_15_2023+24013089.mp4",
+    "prompt": "Put the brown snack bar in the top cabinet.",
+    "sample_name": "RPL+success+2023-06-05+Mon_Jun__5_17_06_15_2023+24013089"
+  },
+  {
+    "source_image": "/opt/liblibai-models/user-workspace2/users/wyh/data/RPL_video_arrow_frame/RPL_video_arrow_frame_test50_seen/RPL+success+2023-06-05+Mon_Jun__5_17_06_15_2023+25047636.png",
+    "video_path": "/opt/liblibai-models/user-workspace2/users/wyh/data/RPL_test50_seen_video/RPL+success+2023-06-05+Mon_Jun__5_17_06_15_2023+25047636.mp4",
+    "prompt": "Put the brown snack bar in the top cabinet.",
+    "sample_name": "RPL+success+2023-06-05+Mon_Jun__5_17_06_15_2023+25047636"
+  },
+  {
+    "source_image": "/opt/liblibai-models/user-workspace2/users/wyh/data/RPL_video_arrow_frame/RPL_video_arrow_frame_test50_seen/RPL+success+2023-06-05+Mon_Jun__5_17_10_11_2023+24013089.png",
+    "video_path": "/opt/liblibai-models/user-workspace2/users/wyh/data/RPL_test50_seen_video/RPL+success+2023-06-05+Mon_Jun__5_17_10_11_2023+24013089.mp4",
+    "prompt": "Put the blue packet in the cabinet.",
+    "sample_name": "RPL+success+2023-06-05+Mon_Jun__5_17_10_11_2023+24013089"
+  },
+  {
+    "source_image": "/opt/liblibai-models/user-workspace2/users/wyh/data/RPL_video_arrow_frame/RPL_video_arrow_frame_test50_seen/RPL+success+2023-06-05+Mon_Jun__5_17_12_30_2023+24013089.png",
+    "video_path": "/opt/liblibai-models/user-workspace2/users/wyh/data/RPL_test50_seen_video/RPL+success+2023-06-05+Mon_Jun__5_17_12_30_2023+24013089.mp4",
+    "prompt": "Pick up the white and orange object from the counter and put it in the cabinet.",
+    "sample_name": "RPL+success+2023-06-05+Mon_Jun__5_17_12_30_2023+24013089"
+  },
+  {
+    "source_image": "/opt/liblibai-models/user-workspace2/users/wyh/data/RPL_video_arrow_frame/RPL_video_arrow_frame_test50_seen/RPL+success+2023-06-05+Mon_Jun__5_17_14_59_2023+25047636.png",
+    "video_path": "/opt/liblibai-models/user-workspace2/users/wyh/data/RPL_test50_seen_video/RPL+success+2023-06-05+Mon_Jun__5_17_14_59_2023+25047636.mp4",
+    "prompt": "Put the packet in the open cabinet.",
+    "sample_name": "RPL+success+2023-06-05+Mon_Jun__5_17_14_59_2023+25047636"
+  },
+  {
+    "source_image": "/opt/liblibai-models/user-workspace2/users/wyh/data/RPL_video_arrow_frame/RPL_video_arrow_frame_test50_seen/RPL+success+2023-06-05+Mon_Jun__5_17_16_51_2023+24013089.png",
+    "video_path": "/opt/liblibai-models/user-workspace2/users/wyh/data/RPL_test50_seen_video/RPL+success+2023-06-05+Mon_Jun__5_17_16_51_2023+24013089.mp4",
+    "prompt": "Pick up the bag of lays and place it on the bottom shelf.",
+    "sample_name": "RPL+success+2023-06-05+Mon_Jun__5_17_16_51_2023+24013089"
+  },
+  {
+    "source_image": "/opt/liblibai-models/user-workspace2/users/wyh/data/RPL_video_arrow_frame/RPL_video_arrow_frame_test50_seen/RPL+success+2023-06-05+Mon_Jun__5_17_18_03_2023+25047636.png",
+    "video_path": "/opt/liblibai-models/user-workspace2/users/wyh/data/RPL_test50_seen_video/RPL+success+2023-06-05+Mon_Jun__5_17_18_03_2023+25047636.mp4",
+    "prompt": "Put the green packet inside the cabinet.",
+    "sample_name": "RPL+success+2023-06-05+Mon_Jun__5_17_18_03_2023+25047636"
+  },
+  {
+    "source_image": "/opt/liblibai-models/user-workspace2/users/wyh/data/RPL_video_arrow_frame/RPL_video_arrow_frame_test50_seen/RPL+success+2023-06-05+Mon_Jun__5_17_22_28_2023+25047636.png",
+    "video_path": "/opt/liblibai-models/user-workspace2/users/wyh/data/RPL_test50_seen_video/RPL+success+2023-06-05+Mon_Jun__5_17_22_28_2023+25047636.mp4",
+    "prompt": "Pick up the snack from the countertop and put it in the open upper cabinet.",
+    "sample_name": "RPL+success+2023-06-05+Mon_Jun__5_17_22_28_2023+25047636"
+  },
+  {
+    "source_image": "/opt/liblibai-models/user-workspace2/users/wyh/data/RPL_video_arrow_frame/RPL_video_arrow_frame_test50_seen/RPL+success+2023-06-05+Mon_Jun__5_17_25_04_2023+25047636.png",
+    "video_path": "/opt/liblibai-models/user-workspace2/users/wyh/data/RPL_test50_seen_video/RPL+success+2023-06-05+Mon_Jun__5_17_25_04_2023+25047636.mp4",
+    "prompt": "Put the snack packet into the open cabinet.",
+    "sample_name": "RPL+success+2023-06-05+Mon_Jun__5_17_25_04_2023+25047636"
+  }
+]
