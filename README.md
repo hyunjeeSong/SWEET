@@ -40,7 +40,7 @@ git clone https://github.com/ARISE-Initiative/robomimic.git
 git clone https://github.com/ARISE-Initiative/robosuite.git
 ```
 
-````markdown
+
 ## 📁 Project Structure
 
 ```text
@@ -62,7 +62,7 @@ SWEET/
 ├── diffusion_policy/                # External Diffusion Policy codebase, cloned separately
 ├── robomimic/                       # External simulation environment, cloned separately
 └── robosuite/                       # External simulation environment, cloned separately
-
+```
 
 
 
