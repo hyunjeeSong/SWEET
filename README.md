@@ -55,7 +55,7 @@ SWEET/
 │   ├── train.py                     # Train GT / INF / MIX action predictors
 │   ├── single_inference_vis.py      # Single-demo rollout with video visualization
 │   └── batch_inference_benchmark.py # Batch rollout evaluation for MSE and success rate
-├── planner/                         # High-level visual planner (place it in the corresponding locations in DiffSynth-Studio)
+├── planner/                         # High-level visual planner (place the scripts in the corresponding locations in DiffSynth-Studio)
 ├── data/                            # Dataset loading code
 ├── library/                         # Trained planner and action predictor checkpoints
 ├── DiffSynth-Studio/                # External image editing framework, cloned separately
