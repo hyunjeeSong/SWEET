@@ -1,5 +1,5 @@
 # SWEET
-Official Code of  SWEET: Sparse World Modeling with Image Editing for Embodied Task Execution
+
 **SWEET** is a keyframe-based visual planning framework built on the FLUX-Kontext image editing model. Instead of predicting dense future videos, SWEET progressively generates a sequence of task-relevant keyframes and converts them into executable robot actions through a goal-conditioned action predictor.
 
 
