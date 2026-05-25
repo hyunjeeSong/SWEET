@@ -32,7 +32,6 @@ After extraction, please organize the corresponding folders according to the pat
 
 | File Name | Description |
 |---|---|
-
 | `gcbc_library.zip` | LoRA weights available for the action predictor. |
 | `planner_library.zip` | LoRA weights available for the image editing planner. |
 
