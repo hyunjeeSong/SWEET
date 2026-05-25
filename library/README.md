@@ -1,4 +1,4 @@
-# 📁 Dataset Directory
+# 📁 LoRA Library
 
 Due to the large size of the checkpoint files, we have compressed them into separate archive files and hosted them on [Hugging Face](https://huggingface.co/datasets/VEHwang/SWEET_data).
 
