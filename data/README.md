@@ -25,8 +25,6 @@ data/
 ├── DROID_labeled_for_flux_train700_part1.zip
 ├── DROID_labeled_for_flux_train700_part2.zip
 ├── DROID_labeled_for_wan.zip
-├── gcbc_library.zip
-├── planner_library.zip
 ├── prompt_flux.zip
 ├── prompt_wan.zip
 ├── robomimic_labeled_for_flux_can.zip
@@ -48,8 +46,6 @@ After extraction, please organize the corresponding folders according to the pat
 | `DROID_labeled_for_flux_train700_part1.zip` | The first part of the DROID training set for Flux. It should be merged with `part2`. |
 | `DROID_labeled_for_flux_train700_part2.zip` | The second part of the DROID training set for Flux. It should be merged with `part1`. |
 | `DROID_labeled_for_wan.zip` | DROID training and test sets used by WAN. |
-| `gcbc_library.zip` | LoRA weights available for the action predictor. |
-| `planner_library.zip` | LoRA weights available for the image editing planner. |
 | `prompt_flux.zip` | Prompt list used for Flux training. |
 | `prompt_wan.zip` | Prompt list used for WAN training. |
 | `robomimic_labeled_for_flux_can.zip` | Robomimic `can` task dataset used by Flux. The three task datasets should be merged and split into test/training sets at a ratio of 1:9. |
