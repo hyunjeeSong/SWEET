@@ -1,0 +1,24 @@
+# 대용량 산출물/데이터 — git 아님 (서버 로컬에 두거나 재다운로드/전송)
+outputs/
+logs/
+*.zip
+DiffSynth-Studio/
+data/RPL_train700/
+data/RPL_test50_seen/
+data/RPL_test50_unseen/
+data/test_results_droid/
+library/planner_library/
+sanity_check/
+smoke_test/
+
+# 파이썬/OS 부산물
+__pycache__/
+*.pyc
+**/__MACOSX/
+
+# prompt_flux 는 유지 (v8_*.csv 등 학습 매니페스트) — 단 백업/아카이브만 제외
+data/prompt_flux/_overwritten_v7_backup/
+
+# OS 잡파일
+.DS_Store
+**/.DS_Store

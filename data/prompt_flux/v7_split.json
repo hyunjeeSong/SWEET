@@ -1,0 +1,17 @@
+{
+ "test_labs": [
+  "ILIAD",
+  "IRIS",
+  "WEIRD"
+ ],
+ "alpha": 0.55,
+ "exclude_lr": true,
+ "n_total": 2809,
+ "n_kept": 2699,
+ "dropped": {
+  "pour/wipe": 110
+ },
+ "n_train": 2215,
+ "n_test_unseen": 314,
+ "n_test_seen": 170
+}

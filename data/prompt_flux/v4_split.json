@@ -1,0 +1,17 @@
+{
+ "test_labs": [
+  "ILIAD",
+  "IRIS",
+  "WEIRD"
+ ],
+ "val_labs": [
+  "__none__"
+ ],
+ "seen_frac": 0.08,
+ "n": {
+  "test_seen": 67,
+  "train": 1017,
+  "test_unseen": 128,
+  "val": 0
+ }
+}
