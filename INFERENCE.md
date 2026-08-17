@@ -3,30 +3,39 @@
 **한 줄**: 마커(집을 물체 초록 bbox + 놓을 위치 파란 점)를 그린 이미지와 문장을 넣으면,
 **조작 실행 후의 장면**을 생성한다. FLUX.1-Kontext 에 LoRA(rank 32)만 얹은 구조다.
 
-## 체크포인트 두 개 — 어느 걸 쓸까
+## 쓸 체크포인트
 
-둘 다 같은 구조(FLUX.1-Kontext + LoRA rank 32, 반투명 마커, 마커-전용 가중 손실 λ=4)이고
-**학습 데이터 양만 다르다**. 사용법은 완전히 동일하다.
+```
+ours_capinf_wlm4_step-3248.safetensors
+```
 
-| | `ours_wlm4_step-1485` | `ours_v6_wlm4_step-2213` |
-|---|---|---|
-| 학습 데이터 | DROID 990쌍 | DROID **1,475쌍** (+49%) |
-| 학습 | 3 epoch, 1,485 스텝 | 3 epoch, 2,213 스텝 |
-| **물체 지표** (src↓ / dst↓) | 28.67 / 38.50 | **28.02 / 37.90** |
-| 이미지 지표 (PSNR↑ / SSIM↑) | **17.52 / 0.791** | 17.17 / 0.783 |
-| 배경 보존 (MAE정지↓) | **6.42** | 7.52 |
+**이걸 쓰면 된다.** DROID 2,165쌍(cap∞), 3 epoch, FLUX.1-Kontext + LoRA rank 32,
+반투명 마커, 마커-전용 가중 손실 λ=4.
 
-*(같은 119장 unseen 에서 측정. copy 기준선 = 17.09 / 0.788 / src 56.99 / dst 40.50)*
+unseen 314장 성능 (`eval_task_success.py`):
 
-- **검증기(verifier) 용도라면 v6** — 물체를 지우고 그리는 능력이 우리가 재고 싶은 것이고,
-  거기서 v6 가 낫다. 대신 배경을 조금 더 건드린다.
-- **이미지 충실도가 중요하면 1485** — PSNR/SSIM/LPIPS 세 지표 모두에서 copy 기준선을
-  이긴 유일한 설정이다. 다만 이 지표군은 화면의 97.5%가 배경이라 태스크를 직접 재지 못한다
-  (copy 와 최고 모델의 PSNR 차이가 2.4% 뿐).
-- 차이는 전반적으로 작다(src 0.65, dst 0.60). 데이터를 49% 늘린 것치고는 수익이 크지 않다.
+| | 성공률 | SRC_mae↓ | DST_mae↓ |
+|---|---|---|---|
+| **capinf** | **47.1%** | **26.1** | **46.1** |
+| copy 기준선 | — | 55.8 | 39.0 |
 
-아래 설명·예시는 `ours_wlm4_step-1485` 기준이지만, `--lora` 경로만 바꾸면 v6 도 그대로 동작한다.
-`smoke_test/` 의 기대 출력도 **1485 기준**이라 v6 로 돌리면 md5 가 다르다(정상).
+같은 조건에서 place_bbox 마스크 변형(45.5% / 27.0 / 47.2)과 cap6 1,509쌍(42.0% / 27.7 / 47.7)을
+셋 다 앞선다.
+
+<details>
+<summary>구 체크포인트 (같은 폴더에 남아 있음)</summary>
+
+`ours_wlm4_step-1485`(990쌍), `ours_v6_wlm4_step-2213`(1,475쌍). 구조·사용법은 동일하고
+학습 데이터 양만 다르다.
+
+**주의**: 이들의 기존 수치(src 28.67/dst 38.50, src 28.02/dst 37.90)는 **unseen 119장**을
+`eval_ours.py` 의 원판 기준으로 잰 것이라, 위 표(314장, place_bbox 기준)와 **직접 비교할 수 없다.**
+공정히 비교하려면 같은 테스트셋·같은 지표로 다시 채점해야 한다.
+
+`smoke_test/` 의 기대 출력은 **1485 기준**이라 다른 체크포인트로 돌리면 md5 가 다르다(정상).
+</details>
+
+아래 설명·예시는 `--lora` 경로만 바꾸면 어느 체크포인트에서도 그대로 동작한다.
 
 ---
 
@@ -44,7 +53,10 @@ LoRA 는 **어댑터**라 단독으로 못 돈다. FLUX 베이스 가중치가 �
 | 토크나이저 2종 | 5MB | 같은 repo → `tokenizer/`, `tokenizer_2/` |
 
 - **GPU**: 추론 시 약 26GB VRAM (DiT bf16 상주 + 인코더 CPU offload). 32GB 카드 1장이면 충분.
-- **속도**: 1280×720, 25 스텝 기준 **장당 약 25초**.
+  **24GB 카드(RTX 4090 등)는 이 설정 그대로면 OOM 위험**이 있다. DiT 도 offload 로 돌리거나
+  해상도를 낮춰야 할 수 있다(미검증).
+- **속도**: 1280×720, 25 스텝 기준 장당 약 25초(RTX 5090). **RTX 6000 Ada 는 장당 35초**,
+  다른 작업과 GPU 를 나눠 쓰면 70초까지 늘어난다.
 
 ### 환경
 
@@ -120,7 +132,7 @@ sys.path.insert(0, "<DiffSynth-Studio 경로>")
 from diffsynth.pipelines.flux_image import FluxImagePipeline, ModelConfig
 
 HG   = "<FLUX 가중치 루트>"          # 예: /data/hg_models
-LORA = "<이 폴더>/ours_wlm4_step-1485.safetensors"
+LORA = "<이 폴더>/ours_capinf_wlm4_step-3248.safetensors"
 
 RES = {"offload_dtype": torch.bfloat16, "offload_device": "cuda:0",
        "onload_dtype": torch.bfloat16,  "onload_device": "cuda:0",
@@ -199,7 +211,28 @@ for step in plan_steps:
 | 학습 방법 | `papers/SWEET/TRAIN_OURS.md` |
 | 배치 추론 스크립트 | `poc/bench/run_ours_infer.py` (CSV 목록 → 생성) |
 | 케이스 chaining | `poc/bench/run_ours_chain.py` |
-| 채점 | `poc/bench/eval_ours.py` (PSNR/SSIM/LPIPS + 영역별 MAE) |
+| **채점 (본 지표)** | `poc/bench/eval_task_success.py` — 성공률·SRC/DST. **이걸 쓸 것** |
+| 채점 (픽셀) | `poc/bench/eval_ours.py` — PSNR/SSIM/LPIPS + 영역별 MAE |
+| capinf 실험 결과 | `outputs/v8capinf/COMPARISON.txt` |
+
+> **픽셀 지표는 태스크를 못 잰다.** 화면의 99%가 배경이라 PSNR·SSIM 은 "아무것도 안 한 copy"가
+> 모델을 이긴다(17.16 vs 17.03). 성능 판단은 `eval_task_success.py` 로 할 것.
+
+### utl-003 에서 돌릴 때
+
+이 서버에는 준비가 덜 돼 있다:
+
+| | 상태 |
+|---|---|
+| 데이터·CSV | `/data1/dataset/ICRA2027/{train_v8,prompt_flux}` — **CSV 절대경로가 아직 `/data1/dataset/DROID/...`** 라 치환 필요 |
+| 평가 스크립트 | `/data1/dataset/ICRA2027/bench_from_utl001/` (홈의 구버전을 덮지 않으려 분리해 둠) |
+| FLUX 가중치 | **없음**. `FLUX.1-Fill-dev` 는 다른 모델이라 못 쓴다. Kontext 23G + dev 9.5G 필요 |
+| GPU | RTX 4090 **24GB** — 위 VRAM 경고 참조 |
+
+```bash
+cd /data1/dataset/ICRA2027/prompt_flux
+sed -i 's|/data1/dataset/DROID/train_v8/|/data1/dataset/ICRA2027/train_v8/|g' *.csv
+```
 
 ---
 
@@ -212,7 +245,7 @@ python infer_minimal.py \
   --image scene.png --bbox 482 445 517 481 --point 272 366 \
   --pick  "the orange from the counter" \
   --place "the orange in the trash can" \
-  --lora  ours_wlm4_step-1485.safetensors \
+  --lora  ours_capinf_wlm4_step-3248.safetensors \
   --hg    /path/to/flux_weights \
   --diffsynth /path/to/DiffSynth-Studio \   # pip 로 설치했으면 생략
   --out   after.png --marked-out marked.png

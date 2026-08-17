@@ -11,7 +11,16 @@
 #   bash train_cached.sh train <CACHE_DIR> <OUT_DIR> [STEPS]  # pass 2
 set -e
 cd ~/icra2027/papers/SWEET/DiffSynth-Studio
-export PATH=$HOME/miniforge3/envs/sweet/bin:$PATH
+# conda env 위치는 서버마다 다르다(miniforge3 / .conda). 있는 쪽을 고르고, 없으면 즉시 실패한다.
+# 9시간짜리 학습이 엉뚱한 python 으로 조용히 도는 것보다 여기서 죽는 게 낫다.
+ENVDIR=${SWEET_ENV:-}
+if [ -z "$ENVDIR" ]; then
+  for d in "$HOME/.conda/envs/sweet" "$HOME/miniforge3/envs/sweet"; do
+    [ -x "$d/bin/accelerate" ] && { ENVDIR=$d; break; }
+  done
+fi
+[ -n "$ENVDIR" ] || { echo "ERROR: sweet env 를 못 찾음. SWEET_ENV=<envdir> 로 지정할 것"; exit 1; }
+export PATH=$ENVDIR/bin:$PATH
 export PYTHONUNBUFFERED=1 PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True
 export CUDA_VISIBLE_DEVICES=${CUDA_VISIBLE_DEVICES:-0}
 # wandb: .env 의 WANDB_API_KEY 등을 불러온다. WANDB=1 일 때만 로깅 켠다.
@@ -20,7 +29,7 @@ export CUDA_VISIBLE_DEVICES=${CUDA_VISIBLE_DEVICES:-0}
 WANDB_FLAGS=""
 [ "${WANDB:-0}" = "1" ] && WANDB_FLAGS="--enable_wandb_log --wandb_project ${WANDB_PROJECT:-sweet}"
 
-HG=/data/hg_models
+HG=/data1/hg_models
 DIT=$HG/FLUX.1-Kontext-dev/flux1-kontext-dev.safetensors
 ENC1=$HG/FLUX.1-dev/text_encoder/model.safetensors
 T5A=$HG/FLUX.1-dev/text_encoder_2/model-00001-of-00002.safetensors
@@ -31,12 +40,40 @@ TOK2=$HG/FLUX.1-dev/tokenizer_2
 # NP=2 로 주면 DDP(2 GPU). data_process 는 항상 1 프로세스(인코딩은 병렬 이득 적고 캐시 1회면 끝).
 NP=${NP:-1}
 MG=""; [ "$NP" -gt 1 ] && MG="--multi_gpu"
-ACC="$HOME/miniforge3/envs/sweet/bin/accelerate launch $MG --num_processes $NP --mixed_precision bf16"
-ACC1="$HOME/miniforge3/envs/sweet/bin/accelerate launch --num_processes 1 --mixed_precision bf16"
+ACC="$ENVDIR/bin/accelerate launch $MG --num_processes $NP --mixed_precision bf16"
+ACC1="$ENVDIR/bin/accelerate launch --num_processes 1 --mixed_precision bf16"
 LT="a_to_qkv,b_to_qkv,ff_a.0,ff_a.2,ff_b.0,ff_b.2,a_to_out,b_to_out,proj_out,norm.linear,norm1_a.linear,norm1_b.linear,to_qkv_mlp"
 
 MODE=$1
 case "$MODE" in
+direct)
+  # 캐시 없이 CSV 에서 바로 학습한다. 이 서버 실측으로 인코딩 오버헤드는 스텝당 +4.4% 뿐인데
+  # 캐시 생성에 105분(1509샘플)이 들어 3 epoch 한 번 돌리는 데엔 캐시가 오히려 손해다.
+  #   --task "sft"        접미사 없는 태스크만 인코더 unit 을 살린다("sft:train" 은 캐시 전용)
+  #   loss_weight         CSV 컬럼(마스크 PNG). image 와 같은 오퍼레이터를 타 정렬이 맞고,
+  #                       parse_extra_inputs 가 실어 나르면 loss.py 가 pop 해서 가중에 쓴다.
+  META=$2; OUT=$3; REPEAT=${4:-3}; SAVE=${5:-500}
+  NSAMP=$(( $(wc -l < "$META") - 1 ))
+  STEPS=$(( NSAMP * REPEAT / NP ))
+  export WANDB_NAME="${WANDB_NAME:-$(basename "$OUT")_n${NSAMP}x${REPEAT}_${STEPS}st_${NP}gpu}"
+  export WANDB_NOTES="csv=$(basename "$META") samples=$NSAMP repeat=$REPEAT steps=$STEPS \
+gpus=$NP lambda=${WLOSS_LAMBDA:-0} nocache lora_rank=32 lr=1e-4 bf16 out=$OUT"
+  export WANDB_TAGS="lora32,nocache,${NP}gpu"
+  $ACC examples/flux/model_training/train.py \
+    --task "sft" \
+    --dataset_base_path / --dataset_metadata_path "$META" \
+    --data_file_keys "image,kontext_images,loss_weight" \
+    --extra_inputs "kontext_images,loss_weight" \
+    --max_pixels 1048576 --dataset_repeat $REPEAT --num_epochs 1 \
+    --model_paths "[\"$DIT\",\"$ENC1\",[\"$T5A\",\"$T5B\"],\"$AE\"]" \
+    --tokenizer_1_path "$TOK1" --tokenizer_2_path "$TOK2" \
+    --learning_rate 1e-4 --gradient_accumulation_steps 1 \
+    --lora_base_model "dit" --lora_target_modules "$LT" --lora_rank 32 \
+    --align_to_opensource_format --use_gradient_checkpointing \
+    --remove_prefix_in_ckpt "pipe.dit." --save_steps $SAVE \
+    $WANDB_FLAGS \
+    --output_path "$OUT"
+  ;;
 cache)
   META=$2; CACHE=$3
   # pass 1: 인코더(CLIP/T5/VAE)는 GPU, DiT 는 디스크 오프로드로 올린다.
