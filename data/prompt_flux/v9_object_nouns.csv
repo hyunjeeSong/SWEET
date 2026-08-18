@@ -1,306 +1,306 @@
 image,x_noun,y_noun
-/data1/dataset/DROID/train_v8/final/77166_exterior_image_2_left_pair1.png,bottle,stove
-/data1/dataset/DROID/train_v8/final/24630_exterior_image_1_left_pair0.png,can,bin
-/data1/dataset/DROID/train_v8/final/24630_exterior_image_1_left_pair1.png,white paper,bin
-/data1/dataset/DROID/train_v8/final/73272_exterior_image_1_left_pair0.png,fabric,box
-/data1/dataset/DROID/train_v8/final/20749_exterior_image_2_left_pair1.png,cup,cup
-/data1/dataset/DROID/train_v8/final/73968_exterior_image_1_left_pair0.png,bowl,bowl
-/data1/dataset/DROID/train_v8/final/73968_exterior_image_1_left_pair1.png,bowl,table
-/data1/dataset/DROID/train_v8/final/6675_exterior_image_2_left_pair0.png,cup,cup
-/data1/dataset/DROID/train_v8/final/6675_exterior_image_2_left_pair1.png,cup,cup
-/data1/dataset/DROID/train_v8/final/36669_exterior_image_1_left_pair1.png,tray,box
-/data1/dataset/DROID/oracle_verifier/19929_exterior_image_2_left_step1_target.png,cup,table
-/data1/dataset/DROID/train_v8/final/71899_exterior_image_2_left_pair0.png,cup,cup
-/data1/dataset/DROID/oracle_verifier/ep_012857_CLVR_13759f6e_2023-05-20-17h-21m-49s_right_step1_target.png,glue stick,mug
-/data1/dataset/DROID/train_v8/final/7019_exterior_image_1_left_pair0.png,toothbrush,table
-/data1/dataset/DROID/oracle_verifier/7113_exterior_image_2_left_step1_target.png,object,table
-/data1/dataset/DROID/oracle_verifier/16307_exterior_image_2_left_step1_target.png,water bottle,table
-/data1/dataset/DROID/train_v8/final/67760_exterior_image_2_left_pair0.png,tape,tape
-/data1/dataset/DROID/train_v8/final/29851_exterior_image_1_left_pair0.png,fork,table
-/data1/dataset/DROID/oracle_verifier/79241_exterior_image_2_left_step1_target.png,cup,table
-/data1/dataset/DROID/oracle_verifier/37895_exterior_image_1_left_step1_target.png,cup,table
-/data1/dataset/DROID/oracle_verifier/51608_exterior_image_1_left_step1_target.png,object,table
-/data1/dataset/DROID/oracle_verifier/63998_exterior_image_1_left_step1_target.png,marker,mug
-/data1/dataset/DROID/oracle_verifier/82757_exterior_image_2_left_step1_target.png,pen,cup
-/data1/dataset/DROID/oracle_verifier/72723_exterior_image_1_left_step1_target.png,bottle,desktop
-/data1/dataset/DROID/oracle_verifier/70480_exterior_image_1_left_step1_target.png,bag of balls,box
-/data1/dataset/DROID/oracle_verifier/ep_042768_TRI_52ca9b6a_2023-10-25-10h-26m-07s_left_step1_target.png,pot,counter
-/data1/dataset/DROID/train_v8/final/1184_exterior_image_2_left_pair0.png,rope,clothes
-/data1/dataset/DROID/train_v8/final/37039_exterior_image_1_left_pair0.png,cup,stacked cup
-/data1/dataset/DROID/train_v8/final/32879_exterior_image_1_left_pair0.png,cloth,table
-/data1/dataset/DROID/train_v8/final/39985_exterior_image_2_left_pair0.png,cloth,box
-/data1/dataset/DROID/train_v8/final/57113_exterior_image_1_left_pair0.png,cloth,table
-/data1/dataset/DROID/train_v8/final/36613_exterior_image_1_left_pair0.png,cushion,sofa armrest
-/data1/dataset/DROID/train_v8/final/10952_exterior_image_1_left_pair0.png,object,basket
-/data1/dataset/DROID/train_v8/final/20591_exterior_image_1_left_pair0.png,bowl,air fryer
-/data1/dataset/DROID/train_v8/final/91969_exterior_image_2_left_pair0.png,snack,box
-/data1/dataset/DROID/train_v8/final/20488_exterior_image_1_left_pair0.png,cup,laundary machine
-/data1/dataset/DROID/train_v8/final/20488_exterior_image_2_left_pair0.png,cup,laundary machine
-/data1/dataset/DROID/train_v8/final/22582_exterior_image_2_left_pair0.png,pen holder upside down,table
-/data1/dataset/DROID/train_v8/final/18136_exterior_image_1_left_pair0.png,shoe,rack
-/data1/dataset/DROID/train_v8/final/50474_exterior_image_2_left_pair0.png,spoon,tray
-/data1/dataset/DROID/train_v8/final/25567_exterior_image_1_left_pair0.png,tongs,table
-/data1/dataset/DROID/train_v8/final/90536_exterior_image_2_left_pair0.png,bowl,dish rack
-/data1/dataset/DROID/train_v8/final/11422_exterior_image_2_left_pair0.png,bowl,bowl
-/data1/dataset/DROID/train_v8/final/1184_exterior_image_1_left_pair1.png,toy,clothes
-/data1/dataset/DROID/train_v8/final/1208_exterior_image_1_left_pair0.png,block,board
-/data1/dataset/DROID/train_v8/final/12182_exterior_image_1_left_pair0.png,object,shelf
-/data1/dataset/DROID/train_v8/final/17959_exterior_image_1_left_pair0.png,ring,table
-/data1/dataset/DROID/train_v8/final/19405_exterior_image_2_left_pair0.png,object,table
-/data1/dataset/DROID/train_v8/final/27722_exterior_image_1_left_pair0.png,toy,shelf cupboard
-/data1/dataset/DROID/train_v8/final/27722_exterior_image_2_left_pair0.png,toy,shelf cupboard
-/data1/dataset/DROID/train_v8/final/35818_exterior_image_1_left_pair0.png,bowl,table
-/data1/dataset/DROID/train_v8/final/38795_exterior_image_2_left_pair0.png,cup,cup
-/data1/dataset/DROID/train_v8/final/40609_exterior_image_2_left_pair0.png,cup,cup
-/data1/dataset/DROID/train_v8/final/41769_exterior_image_1_left_pair1.png,toy fruits,bag
-/data1/dataset/DROID/train_v8/final/43055_exterior_image_2_left_pair0.png,tool,bowl
-/data1/dataset/DROID/train_v8/final/4377_exterior_image_1_left_pair1.png,rope,box
-/data1/dataset/DROID/train_v8/final/46022_exterior_image_1_left_pair1.png,block,bowl
-/data1/dataset/DROID/train_v8/final/47006_exterior_image_2_left_pair0.png,charger,slot on extension cord
-/data1/dataset/DROID/train_v8/final/5385_exterior_image_2_left_pair0.png,tool,bowl
-/data1/dataset/DROID/train_v8/final/60549_exterior_image_2_left_pair0.png,cushion,cabinet
-/data1/dataset/DROID/train_v8/final/66086_exterior_image_2_left_pair0.png,block,cup
-/data1/dataset/DROID/train_v8/final/69840_exterior_image_1_left_pair0.png,cable,table
-/data1/dataset/DROID/train_v8/final/7054_exterior_image_1_left_pair1.png,cloth,pile of clothes
-/data1/dataset/DROID/train_v8/final/80032_exterior_image_2_left_pair0.png,ring,table
-/data1/dataset/DROID/train_v8/final/86163_exterior_image_1_left_pair0.png,cloth,box
-/data1/dataset/DROID/train_v8/final/86769_exterior_image_2_left_pair0.png,wood board,table
-/data1/dataset/DROID/train_v8/final/90580_exterior_image_2_left_pair0.png,lid,teapot
-/data1/dataset/DROID/train_v8/final/12063_exterior_image_2_left_pair0.png,tissue,pile of tissue
-/data1/dataset/DROID/train_v8/final/1253_exterior_image_2_left_pair0.png,bottle,tray
-/data1/dataset/DROID/train_v8/final/12650_exterior_image_1_left_pair0.png,mug,table
-/data1/dataset/DROID/train_v8/final/12650_exterior_image_2_left_pair0.png,mug,table
-/data1/dataset/DROID/train_v8/final/12891_exterior_image_1_left_pair0.png,tissue,tabletop
-/data1/dataset/DROID/train_v8/final/13798_exterior_image_1_left_pair0.png,bottle,table
-/data1/dataset/DROID/train_v8/final/14373_exterior_image_2_left_pair0.png,bottle,table
-/data1/dataset/DROID/train_v8/final/14433_exterior_image_1_left_pair0.png,cloth,tripod
-/data1/dataset/DROID/train_v8/final/14737_exterior_image_1_left_pair0.png,cup,table
-/data1/dataset/DROID/train_v8/final/15520_exterior_image_2_left_pair0.png,tissue,table
-/data1/dataset/DROID/train_v8/final/15706_exterior_image_1_left_pair0.png,pen,table
-/data1/dataset/DROID/train_v8/final/15706_exterior_image_2_left_pair0.png,pen,table
-/data1/dataset/DROID/train_v8/final/15751_exterior_image_2_left_pair1.png,tissue,pile of tissues
-/data1/dataset/DROID/train_v8/final/16362_exterior_image_2_left_pair0.png,pen,table
-/data1/dataset/DROID/train_v8/final/16573_exterior_image_1_left_pair0.png,box,countertop
-/data1/dataset/DROID/train_v8/final/20077_exterior_image_1_left_pair0.png,cup,table
-/data1/dataset/DROID/train_v8/final/21031_exterior_image_2_left_pair0.png,brush,bottle
-/data1/dataset/DROID/train_v8/final/21305_exterior_image_1_left_pair0.png,cup,water dispenser
-/data1/dataset/DROID/train_v8/final/219_exterior_image_1_left_pair0.png,object,cup
-/data1/dataset/DROID/train_v8/final/219_exterior_image_2_left_pair0.png,object,cup
-/data1/dataset/DROID/train_v8/final/23621_exterior_image_2_left_pair0.png,pen,table
-/data1/dataset/DROID/train_v8/final/26832_exterior_image_1_left_pair0.png,tissue,table
-/data1/dataset/DROID/train_v8/final/29492_exterior_image_1_left_pair0.png,cup,water dispenser
-/data1/dataset/DROID/train_v8/final/29492_exterior_image_2_left_pair0.png,cup,water dispenser
-/data1/dataset/DROID/train_v8/final/39383_exterior_image_2_left_pair0.png,cup,table
-/data1/dataset/DROID/train_v8/final/48349_exterior_image_1_left_pair0.png,bottle,cup
-/data1/dataset/DROID/train_v8/final/61324_exterior_image_2_left_pair0.png,bottle,compartment box
-/data1/dataset/DROID/train_v8/final/10879_exterior_image_1_left_pair0.png,block,block
-/data1/dataset/DROID/train_v8/final/19791_exterior_image_1_left_pair0.png,cup,countertop
-/data1/dataset/DROID/train_v8/final/73763_exterior_image_1_left_pair0.png,block,block
-/data1/dataset/DROID/train_v8/final/80871_exterior_image_1_left_pair0.png,cup,countertop
-/data1/dataset/DROID/train_v8/final/89768_exterior_image_1_left_pair0.png,block,block
-/data1/dataset/DROID/train_v8/final/10495_exterior_image_2_left_pair0.png,pen,pencil holder
-/data1/dataset/DROID/train_v8/final/10683_exterior_image_1_left_pair0.png,razor,sink
-/data1/dataset/DROID/train_v8/final/11150_exterior_image_2_left_pair0.png,object,plastic tray
-/data1/dataset/DROID/train_v8/final/11590_exterior_image_1_left_pair0.png,lid,container
-/data1/dataset/DROID/train_v8/final/12713_exterior_image_2_left_pair0.png,lid,sink
-/data1/dataset/DROID/train_v8/final/13459_exterior_image_2_left_pair0.png,marker,glass
-/data1/dataset/DROID/train_v8/final/13546_exterior_image_1_left_pair1.png,building block,block
-/data1/dataset/DROID/train_v8/final/13546_exterior_image_2_left_pair1.png,building block,block
-/data1/dataset/DROID/train_v8/final/14834_exterior_image_1_left_pair0.png,object,tool box
-/data1/dataset/DROID/train_v8/final/16228_exterior_image_2_left_pair0.png,marker,wine cup
-/data1/dataset/DROID/train_v8/final/16536_exterior_image_2_left_pair0.png,microphone above table,table
-/data1/dataset/DROID/train_v8/final/17727_exterior_image_2_left_pair0.png,pen,mug
-/data1/dataset/DROID/train_v8/final/26577_exterior_image_1_left_pair0.png,block,block
-/data1/dataset/DROID/train_v8/final/28342_exterior_image_1_left_pair0.png,cup,table
-/data1/dataset/DROID/train_v8/final/48719_exterior_image_2_left_pair0.png,salt,shelf
-/data1/dataset/DROID/train_v8/final/10096_exterior_image_1_left_pair0.png,bottle,top shelf
-/data1/dataset/DROID/train_v8/final/10173_exterior_image_2_left_pair0.png,bottle,tabletop
-/data1/dataset/DROID/train_v8/final/10261_exterior_image_2_left_pair0.png,cup,countertop
-/data1/dataset/DROID/train_v8/final/10335_exterior_image_1_left_pair0.png,pot lid,towel
-/data1/dataset/DROID/train_v8/final/10493_exterior_image_2_left_pair0.png,lid,stove
-/data1/dataset/DROID/train_v8/final/10856_exterior_image_2_left_pair0.png,Coca Cola bottle,microwave
-/data1/dataset/DROID/train_v8/final/11053_exterior_image_1_left_pair0.png,water bottle cap,bottle
-/data1/dataset/DROID/train_v8/final/1155_exterior_image_1_left_pair0.png,notebook,Pile of books
-/data1/dataset/DROID/train_v8/final/12200_exterior_image_2_left_pair0.png,object,bag
-/data1/dataset/DROID/train_v8/final/13087_exterior_image_2_left_pair0.png,bottle,table
-/data1/dataset/DROID/train_v8/final/13315_exterior_image_1_left_pair0.png,packaging bag to shelf,shelf
-/data1/dataset/DROID/train_v8/final/13315_exterior_image_2_left_pair0.png,packaging bag to shelf,shelf
-/data1/dataset/DROID/train_v8/final/1524_exterior_image_1_left_pair0.png,tool,table
-/data1/dataset/DROID/train_v8/final/15684_exterior_image_2_left_pair0.png,sharpie,book
-/data1/dataset/DROID/train_v8/final/15690_exterior_image_2_left_pair1.png,piece clothing,pile of cloth
-/data1/dataset/DROID/train_v8/final/15796_exterior_image_2_left_pair0.png,lid,stove
-/data1/dataset/DROID/train_v8/final/18099_exterior_image_2_left_pair0.png,towel,cat
-/data1/dataset/DROID/train_v8/final/20316_exterior_image_1_left_pair0.png,tissue box,tissue box
-/data1/dataset/DROID/train_v8/final/20636_exterior_image_1_left_pair0.png,bag,couch
-/data1/dataset/DROID/train_v8/final/20725_exterior_image_1_left_pair0.png,fork,drawer
-/data1/dataset/DROID/train_v8/final/23174_exterior_image_1_left_pair0.png,marker,mug
-/data1/dataset/DROID/train_v8/final/23174_exterior_image_2_left_pair0.png,marker,mug
-/data1/dataset/DROID/train_v8/final/27363_exterior_image_1_left_pair1.png,bag,cloth
-/data1/dataset/DROID/train_v8/final/31057_exterior_image_1_left_pair1.png,bag,hook
-/data1/dataset/DROID/train_v8/final/36240_exterior_image_2_left_pair0.png,pen,cup
-/data1/dataset/DROID/train_v8/final/36321_exterior_image_1_left_pair0.png,marker,box
-/data1/dataset/DROID/train_v8/final/39845_exterior_image_2_left_pair0.png,packet,part countertop
-/data1/dataset/DROID/train_v8/final/41426_exterior_image_1_left_pair0.png,bowl,cooker
-/data1/dataset/DROID/train_v8/final/41426_exterior_image_2_left_pair0.png,bowl,cooker
-/data1/dataset/DROID/train_v8/final/4318_exterior_image_1_left_pair0.png,bag,bag
-/data1/dataset/DROID/train_v8/final/45459_exterior_image_1_left_pair0.png,cup,table
-/data1/dataset/DROID/train_v8/final/45459_exterior_image_2_left_pair0.png,cup,table
-/data1/dataset/DROID/train_v8/final/45785_exterior_image_2_left_pair0.png,object,sofa
-/data1/dataset/DROID/train_v8/final/48777_exterior_image_1_left_pair0.png,snack,bin
-/data1/dataset/DROID/train_v8/final/48923_exterior_image_2_left_pair0.png,towel by table,stove
-/data1/dataset/DROID/train_v8/final/52627_exterior_image_1_left_pair0.png,box,other box
-/data1/dataset/DROID/train_v8/final/5479_exterior_image_1_left_pair0.png,spoon,countertop
-/data1/dataset/DROID/train_v8/final/61221_exterior_image_2_left_pair0.png,egg,workbench
-/data1/dataset/DROID/train_v8/final/70715_exterior_image_2_left_pair0.png,marker,table
-/data1/dataset/DROID/train_v8/final/70864_exterior_image_1_left_pair0.png,packet,bin
-/data1/dataset/DROID/train_v8/final/74295_exterior_image_2_left_pair0.png,object,table
-/data1/dataset/DROID/train_v8/final/74412_exterior_image_1_left_pair0.png,bowl,stovetop
-/data1/dataset/DROID/train_v8/final/76581_exterior_image_2_left_pair0.png,lid,pan
-/data1/dataset/DROID/train_v8/final/87626_exterior_image_2_left_pair0.png,spoon,bowl
-/data1/dataset/DROID/train_v8/final/89978_exterior_image_1_left_pair2.png,bottle water,table
-/data1/dataset/DROID/train_v8/final/91535_exterior_image_1_left_pair0.png,bottle,container
-/data1/dataset/DROID/train_v8/final/91535_exterior_image_2_left_pair0.png,bottle,container
-/data1/dataset/DROID/train_v8/final/10058_exterior_image_1_left_pair0.png,bottle,bottle
-/data1/dataset/DROID/train_v8/final/10251_exterior_image_2_left_pair0.png,cup,table
-/data1/dataset/DROID/train_v8/final/11210_exterior_image_1_left_pair0.png,cup,table
-/data1/dataset/DROID/train_v8/final/11210_exterior_image_2_left_pair0.png,cup,table
-/data1/dataset/DROID/train_v8/final/11396_exterior_image_2_left_pair0.png,trash,bin
-/data1/dataset/DROID/train_v8/final/11576_exterior_image_1_left_pair0.png,towel,oil
-/data1/dataset/DROID/train_v8/final/12219_exterior_image_1_left_pair0.png,marker,mug
-/data1/dataset/DROID/train_v8/final/12373_exterior_image_1_left_pair0.png,bowl,paper
-/data1/dataset/DROID/train_v8/final/12456_exterior_image_2_left_pair0.png,cup,table
-/data1/dataset/DROID/train_v8/final/13843_exterior_image_1_left_pair0.png,bottle,table
-/data1/dataset/DROID/train_v8/final/14044_exterior_image_1_left_pair0.png,bowl,table
-/data1/dataset/DROID/train_v8/final/14286_exterior_image_2_left_pair0.png,cutlery box,table
-/data1/dataset/DROID/train_v8/final/1575_exterior_image_2_left_pair0.png,pot,stvoe
-/data1/dataset/DROID/train_v8/final/1957_exterior_image_2_left_pair0.png,spoon,table
-/data1/dataset/DROID/train_v8/final/25489_exterior_image_2_left_pair0.png,bowl,table
-/data1/dataset/DROID/train_v8/final/26734_exterior_image_2_left_pair0.png,plastic container,sink
-/data1/dataset/DROID/train_v8/final/38026_exterior_image_2_left_pair0.png,lid,bottle
-/data1/dataset/DROID/train_v8/final/39586_exterior_image_2_left_pair0.png,cup,countertop
-/data1/dataset/DROID/train_v8/final/4177_exterior_image_2_left_pair0.png,eraser,stand
-/data1/dataset/DROID/train_v8/final/10021_exterior_image_1_left_pair0.png,soft pineapple,table
-/data1/dataset/DROID/train_v8/final/10021_exterior_image_2_left_pair0.png,soft pineapple,table
-/data1/dataset/DROID/train_v8/final/11390_exterior_image_1_left_pair0.png,pot,table
-/data1/dataset/DROID/train_v8/final/16847_exterior_image_1_left_pair0.png,cup,drawer
-/data1/dataset/DROID/train_v8/final/17460_exterior_image_2_left_pair0.png,tape,desktop
-/data1/dataset/DROID/train_v8/final/17905_exterior_image_2_left_pair0.png,cloth pin,cloth
-/data1/dataset/DROID/train_v8/final/17927_exterior_image_2_left_pair0.png,pear,box
-/data1/dataset/DROID/train_v8/final/19034_exterior_image_2_left_pair0.png,watermelon plush toy,box
-/data1/dataset/DROID/train_v8/final/22937_exterior_image_1_left_pair0.png,pineapple plushie,table
-/data1/dataset/DROID/train_v8/final/2940_exterior_image_2_left_pair0.png,watermelon toy,oven tray
-/data1/dataset/DROID/train_v8/final/3141_exterior_image_1_left_pair0.png,potato chips,cup
-/data1/dataset/DROID/train_v8/final/34537_exterior_image_2_left_pair1.png,stuffed fruit,plate
-/data1/dataset/DROID/train_v8/final/41953_exterior_image_1_left_pair0.png,chip,bowl
-/data1/dataset/DROID/train_v8/final/69008_exterior_image_2_left_pair0.png,toy,table
-/data1/dataset/DROID/train_v8/final/11247_exterior_image_1_left_pair0.png,straw,cup
-/data1/dataset/DROID/train_v8/final/12983_exterior_image_2_left_pair0.png,bag,table
-/data1/dataset/DROID/train_v8/final/17860_exterior_image_1_left_pair0.png,cup,table
-/data1/dataset/DROID/train_v8/final/17860_exterior_image_2_left_pair0.png,cup,table
-/data1/dataset/DROID/train_v8/final/17935_exterior_image_2_left_pair0.png,cup,table
-/data1/dataset/DROID/train_v8/final/19860_exterior_image_1_left_pair0.png,Rubik's cube,block
-/data1/dataset/DROID/train_v8/final/19860_exterior_image_2_left_pair0.png,Rubik's cube,block
-/data1/dataset/DROID/train_v8/final/27639_exterior_image_2_left_pair1.png,block,red spot
-/data1/dataset/DROID/train_v8/final/30370_exterior_image_2_left_pair0.png,book,other book
-/data1/dataset/DROID/train_v8/final/3468_exterior_image_2_left_pair0.png,plate,black cloth
-/data1/dataset/DROID/train_v8/final/35810_exterior_image_1_left_pair0.png,plate,table
-/data1/dataset/DROID/train_v8/final/41866_exterior_image_1_left_pair0.png,plate,table
-/data1/dataset/DROID/train_v8/final/41866_exterior_image_2_left_pair0.png,plate,table
-/data1/dataset/DROID/train_v8/final/44016_exterior_image_1_left_pair0.png,banana,table
-/data1/dataset/DROID/train_v8/final/47483_exterior_image_1_left_pair0.png,cube,block
-/data1/dataset/DROID/train_v8/final/51669_exterior_image_1_left_pair0.png,plate,table
-/data1/dataset/DROID/train_v8/final/51669_exterior_image_2_left_pair0.png,plate,table
-/data1/dataset/DROID/train_v8/final/53177_exterior_image_1_left_pair0.png,eraser under whiteboard,shelf
-/data1/dataset/DROID/train_v8/final/65324_exterior_image_1_left_pair0.png,plate,tabletop
-/data1/dataset/DROID/train_v8/final/65324_exterior_image_2_left_pair0.png,plate,tabletop
-/data1/dataset/DROID/train_v8/final/73787_exterior_image_1_left_pair0.png,block,block
-/data1/dataset/DROID/train_v8/final/73787_exterior_image_2_left_pair0.png,block,block
-/data1/dataset/DROID/train_v8/final/85798_exterior_image_1_left_pair0.png,single book,stack of books
-/data1/dataset/DROID/train_v8/final/87699_exterior_image_1_left_pair0.png,books,black fabric
-/data1/dataset/DROID/train_v8/final/10268_exterior_image_1_left_pair0.png,plush toy,bowl
-/data1/dataset/DROID/train_v8/final/10270_exterior_image_1_left_pair0.png,bell pepper,table
-/data1/dataset/DROID/train_v8/final/10270_exterior_image_2_left_pair0.png,bell pepper,table
-/data1/dataset/DROID/train_v8/final/10479_exterior_image_1_left_pair0.png,artificial pizza,table
-/data1/dataset/DROID/train_v8/final/10541_exterior_image_1_left_pair0.png,block,block
-/data1/dataset/DROID/train_v8/final/10709_exterior_image_1_left_pair0.png,bottle,countertop
-/data1/dataset/DROID/train_v8/final/10709_exterior_image_2_left_pair0.png,bottle,countertop
-/data1/dataset/DROID/train_v8/final/10863_exterior_image_1_left_pair0.png,block,blocks
-/data1/dataset/DROID/train_v8/final/11151_exterior_image_1_left_pair0.png,banana,table
-/data1/dataset/DROID/train_v8/final/11261_exterior_image_1_left_pair0.png,ball,table
-/data1/dataset/DROID/train_v8/final/11265_exterior_image_1_left_pair0.png,pot,table
-/data1/dataset/DROID/train_v8/final/11265_exterior_image_2_left_pair0.png,pot,table
-/data1/dataset/DROID/train_v8/final/121_exterior_image_2_left_pair0.png,doll,table
-/data1/dataset/DROID/train_v8/final/12237_exterior_image_2_left_pair0.png,balls,box
-/data1/dataset/DROID/train_v8/final/12253_exterior_image_2_left_pair0.png,cube,cubes
-/data1/dataset/DROID/train_v8/final/12328_exterior_image_2_left_pair0.png,block,block
-/data1/dataset/DROID/train_v8/final/12911_exterior_image_1_left_pair0.png,object,table
-/data1/dataset/DROID/train_v8/final/13097_exterior_image_1_left_pair0.png,corn toy,table
-/data1/dataset/DROID/train_v8/final/13622_exterior_image_2_left_pair0.png,block,blocks
-/data1/dataset/DROID/train_v8/final/13815_exterior_image_1_left_pair0.png,doll,pot
-/data1/dataset/DROID/train_v8/final/13938_exterior_image_1_left_pair0.png,object,pot
-/data1/dataset/DROID/train_v8/final/14137_exterior_image_1_left_pair0.png,beetroot plushie,cabinet
-/data1/dataset/DROID/train_v8/final/14299_exterior_image_1_left_pair0.png,object,table
-/data1/dataset/DROID/train_v8/final/14897_exterior_image_2_left_pair0.png,grape,pot
-/data1/dataset/DROID/train_v8/final/15083_exterior_image_2_left_pair0.png,bowl,table
-/data1/dataset/DROID/train_v8/final/16082_exterior_image_1_left_pair0.png,object,table
-/data1/dataset/DROID/train_v8/final/16361_exterior_image_1_left_pair0.png,banana,table
-/data1/dataset/DROID/train_v8/final/1641_exterior_image_2_left_pair0.png,cup,table
-/data1/dataset/DROID/train_v8/final/16605_exterior_image_1_left_pair0.png,plush toy,stove
-/data1/dataset/DROID/train_v8/final/16605_exterior_image_2_left_pair0.png,plush toy,stove
-/data1/dataset/DROID/train_v8/final/17191_exterior_image_1_left_pair0.png,object,table
-/data1/dataset/DROID/train_v8/final/17191_exterior_image_2_left_pair0.png,object,table
-/data1/dataset/DROID/train_v8/final/17950_exterior_image_1_left_pair0.png,animal plush toy,table
-/data1/dataset/DROID/train_v8/final/19454_exterior_image_1_left_pair0.png,plush toy,cabinet
-/data1/dataset/DROID/train_v8/final/20457_exterior_image_2_left_pair0.png,pot,stove
-/data1/dataset/DROID/train_v8/final/22117_exterior_image_2_left_pair0.png,grey cylinder,cup
-/data1/dataset/DROID/train_v8/final/24417_exterior_image_1_left_pair0.png,toy,table
-/data1/dataset/DROID/train_v8/final/24417_exterior_image_2_left_pair0.png,toy,table
-/data1/dataset/DROID/train_v8/final/25542_exterior_image_1_left_pair0.png,banana,table
-/data1/dataset/DROID/train_v8/final/26354_exterior_image_1_left_pair0.png,toy,pot
-/data1/dataset/DROID/train_v8/final/27665_exterior_image_2_left_pair0.png,toy,table
-/data1/dataset/DROID/train_v8/final/29431_exterior_image_1_left_pair0.png,plush toy,cabinet
-/data1/dataset/DROID/train_v8/final/32849_exterior_image_1_left_pair0.png,toy,table
-/data1/dataset/DROID/train_v8/final/32849_exterior_image_2_left_pair0.png,toy,table
-/data1/dataset/DROID/train_v8/final/33074_exterior_image_1_left_pair0.png,grape,basin
-/data1/dataset/DROID/train_v8/final/35746_exterior_image_1_left_pair0.png,rectangular,table
-/data1/dataset/DROID/train_v8/final/30314_exterior_image_2_left_pair1.png,knife,cup
-/data1/dataset/DROID/train_v8/final/41090_exterior_image_2_left_pair0.png,cup,cup
-/data1/dataset/DROID/train_v8/final/41090_exterior_image_2_left_pair1.png,cup,cup
-/data1/dataset/DROID/train_v8/final/69850_exterior_image_1_left_pair0.png,glue,desktop
-/data1/dataset/DROID/train_v8/final/69850_exterior_image_1_left_pair1.png,glue,mug
-/data1/dataset/DROID/train_v8/final/26544_exterior_image_2_left_pair0.png,towel,table
-/data1/dataset/DROID/train_v8/final/78588_exterior_image_1_left_pair1.png,coffee pod,slot of coffee machine
-/data1/dataset/DROID/train_v8/final/66202_exterior_image_1_left_pair1.png,fabric,seat of chair
-/data1/dataset/DROID/train_v8/final/62282_exterior_image_1_left_pair0.png,cup,cup
-/data1/dataset/DROID/train_v8/final/62282_exterior_image_1_left_pair1.png,stack of cups,cup
-/data1/dataset/DROID/train_v8/final/48292_exterior_image_2_left_pair0.png,bottle of spices,countertop
-/data1/dataset/DROID/train_v8/final/53737_exterior_image_1_left_pair0.png,bowl,bowl
-/data1/dataset/DROID/train_v8/final/53737_exterior_image_1_left_pair1.png,bowl,bowl
-/data1/dataset/DROID/train_v8/final/77426_exterior_image_2_left_pair0.png,box,desktop
-/data1/dataset/DROID/train_v8/final/89821_exterior_image_2_left_pair0.png,cup,cup
-/data1/dataset/DROID/train_v8/final/35764_exterior_image_2_left_pair0.png,cup,cup
-/data1/dataset/DROID/train_v8/final/35764_exterior_image_2_left_pair1.png,cup,cup
-/data1/dataset/DROID/train_v8/final/82839_exterior_image_1_left_pair1.png,towel,box
-/data1/dataset/DROID/train_v8/final/59418_exterior_image_1_left_pair0.png,shoe,shelf
-/data1/dataset/DROID/train_v8/final/59418_exterior_image_1_left_pair1.png,shoe,shelf
-/data1/dataset/DROID/train_v8/final/52636_exterior_image_1_left_pair1.png,spoon,table
-/data1/dataset/DROID/train_v8/final/35705_exterior_image_2_left_pair0.png,cup,cup
-/data1/dataset/DROID/train_v8/final/7977_exterior_image_2_left_pair0.png,cup,cup
-/data1/dataset/DROID/train_v8/final/14565_exterior_image_2_left_pair0.png,slipper,rack
-/data1/dataset/DROID/train_v8/final/14565_exterior_image_2_left_pair1.png,slipper,rack
-/data1/dataset/DROID/train_v8/final/41090_exterior_image_1_left_pair0.png,cup,cup
-/data1/dataset/DROID/train_v8/final/41090_exterior_image_1_left_pair1.png,cup,cup
-/data1/dataset/DROID/train_v8/final/69538_exterior_image_1_left_pair0.png,t-shirt,box
-/data1/dataset/DROID/train_v8/final/69538_exterior_image_1_left_pair1.png,clothing,box
-/data1/dataset/DROID/train_v8/final/47026_exterior_image_1_left_pair0.png,cup,table
-/data1/dataset/DROID/train_v8/final/6675_exterior_image_1_left_pair0.png,cup,cup
-/data1/dataset/DROID/train_v8/final/14565_exterior_image_1_left_pair0.png,slipper,rack
-/data1/dataset/DROID/train_v8/final/14565_exterior_image_1_left_pair1.png,slipper,rack
-/data1/dataset/DROID/train_v8/final/37174_exterior_image_1_left_pair1.png,rope,box
-/data1/dataset/DROID/train_v8/final/6697_exterior_image_1_left_pair1.png,pot,stove
-/data1/dataset/DROID/train_v8/final/28681_exterior_image_1_left_pair1.png,clip,stand
-/data1/dataset/DROID/train_v8/final/37958_exterior_image_2_left_pair1.png,blanket,seat sofa
-/data1/dataset/DROID/train_v8/final/17625_exterior_image_2_left_pair0.png,cup,cup
-/data1/dataset/DROID/train_v8/final/17625_exterior_image_2_left_pair1.png,cup,cup
-/data1/dataset/DROID/train_v8/final/2891_exterior_image_2_left_pair0.png,sneaker,shelf
-/data1/dataset/DROID/train_v8/final/2891_exterior_image_2_left_pair1.png,book,cabinet
+/data/datasets/DROID/train_v8/final/77166_exterior_image_2_left_pair1.png,bottle,stove
+/data/datasets/DROID/train_v8/final/24630_exterior_image_1_left_pair0.png,can,bin
+/data/datasets/DROID/train_v8/final/24630_exterior_image_1_left_pair1.png,white paper,bin
+/data/datasets/DROID/train_v8/final/73272_exterior_image_1_left_pair0.png,fabric,box
+/data/datasets/DROID/train_v8/final/20749_exterior_image_2_left_pair1.png,cup,cup
+/data/datasets/DROID/train_v8/final/73968_exterior_image_1_left_pair0.png,bowl,bowl
+/data/datasets/DROID/train_v8/final/73968_exterior_image_1_left_pair1.png,bowl,table
+/data/datasets/DROID/train_v8/final/6675_exterior_image_2_left_pair0.png,cup,cup
+/data/datasets/DROID/train_v8/final/6675_exterior_image_2_left_pair1.png,cup,cup
+/data/datasets/DROID/train_v8/final/36669_exterior_image_1_left_pair1.png,tray,box
+/data/datasets/DROID/oracle_verifier/19929_exterior_image_2_left_step1_target.png,cup,table
+/data/datasets/DROID/train_v8/final/71899_exterior_image_2_left_pair0.png,cup,cup
+/data/datasets/DROID/oracle_verifier/ep_012857_CLVR_13759f6e_2023-05-20-17h-21m-49s_right_step1_target.png,glue stick,mug
+/data/datasets/DROID/train_v8/final/7019_exterior_image_1_left_pair0.png,toothbrush,table
+/data/datasets/DROID/oracle_verifier/7113_exterior_image_2_left_step1_target.png,object,table
+/data/datasets/DROID/oracle_verifier/16307_exterior_image_2_left_step1_target.png,water bottle,table
+/data/datasets/DROID/train_v8/final/67760_exterior_image_2_left_pair0.png,tape,tape
+/data/datasets/DROID/train_v8/final/29851_exterior_image_1_left_pair0.png,fork,table
+/data/datasets/DROID/oracle_verifier/79241_exterior_image_2_left_step1_target.png,cup,table
+/data/datasets/DROID/oracle_verifier/37895_exterior_image_1_left_step1_target.png,cup,table
+/data/datasets/DROID/oracle_verifier/51608_exterior_image_1_left_step1_target.png,object,table
+/data/datasets/DROID/oracle_verifier/63998_exterior_image_1_left_step1_target.png,marker,mug
+/data/datasets/DROID/oracle_verifier/82757_exterior_image_2_left_step1_target.png,pen,cup
+/data/datasets/DROID/oracle_verifier/72723_exterior_image_1_left_step1_target.png,bottle,desktop
+/data/datasets/DROID/oracle_verifier/70480_exterior_image_1_left_step1_target.png,bag of balls,box
+/data/datasets/DROID/oracle_verifier/ep_042768_TRI_52ca9b6a_2023-10-25-10h-26m-07s_left_step1_target.png,pot,counter
+/data/datasets/DROID/train_v8/final/1184_exterior_image_2_left_pair0.png,rope,clothes
+/data/datasets/DROID/train_v8/final/37039_exterior_image_1_left_pair0.png,cup,stacked cup
+/data/datasets/DROID/train_v8/final/32879_exterior_image_1_left_pair0.png,cloth,table
+/data/datasets/DROID/train_v8/final/39985_exterior_image_2_left_pair0.png,cloth,box
+/data/datasets/DROID/train_v8/final/57113_exterior_image_1_left_pair0.png,cloth,table
+/data/datasets/DROID/train_v8/final/36613_exterior_image_1_left_pair0.png,cushion,sofa armrest
+/data/datasets/DROID/train_v8/final/10952_exterior_image_1_left_pair0.png,object,basket
+/data/datasets/DROID/train_v8/final/20591_exterior_image_1_left_pair0.png,bowl,air fryer
+/data/datasets/DROID/train_v8/final/91969_exterior_image_2_left_pair0.png,snack,box
+/data/datasets/DROID/train_v8/final/20488_exterior_image_1_left_pair0.png,cup,laundary machine
+/data/datasets/DROID/train_v8/final/20488_exterior_image_2_left_pair0.png,cup,laundary machine
+/data/datasets/DROID/train_v8/final/22582_exterior_image_2_left_pair0.png,pen holder upside down,table
+/data/datasets/DROID/train_v8/final/18136_exterior_image_1_left_pair0.png,shoe,rack
+/data/datasets/DROID/train_v8/final/50474_exterior_image_2_left_pair0.png,spoon,tray
+/data/datasets/DROID/train_v8/final/25567_exterior_image_1_left_pair0.png,tongs,table
+/data/datasets/DROID/train_v8/final/90536_exterior_image_2_left_pair0.png,bowl,dish rack
+/data/datasets/DROID/train_v8/final/11422_exterior_image_2_left_pair0.png,bowl,bowl
+/data/datasets/DROID/train_v8/final/1184_exterior_image_1_left_pair1.png,toy,clothes
+/data/datasets/DROID/train_v8/final/1208_exterior_image_1_left_pair0.png,block,board
+/data/datasets/DROID/train_v8/final/12182_exterior_image_1_left_pair0.png,object,shelf
+/data/datasets/DROID/train_v8/final/17959_exterior_image_1_left_pair0.png,ring,table
+/data/datasets/DROID/train_v8/final/19405_exterior_image_2_left_pair0.png,object,table
+/data/datasets/DROID/train_v8/final/27722_exterior_image_1_left_pair0.png,toy,shelf cupboard
+/data/datasets/DROID/train_v8/final/27722_exterior_image_2_left_pair0.png,toy,shelf cupboard
+/data/datasets/DROID/train_v8/final/35818_exterior_image_1_left_pair0.png,bowl,table
+/data/datasets/DROID/train_v8/final/38795_exterior_image_2_left_pair0.png,cup,cup
+/data/datasets/DROID/train_v8/final/40609_exterior_image_2_left_pair0.png,cup,cup
+/data/datasets/DROID/train_v8/final/41769_exterior_image_1_left_pair1.png,toy fruits,bag
+/data/datasets/DROID/train_v8/final/43055_exterior_image_2_left_pair0.png,tool,bowl
+/data/datasets/DROID/train_v8/final/4377_exterior_image_1_left_pair1.png,rope,box
+/data/datasets/DROID/train_v8/final/46022_exterior_image_1_left_pair1.png,block,bowl
+/data/datasets/DROID/train_v8/final/47006_exterior_image_2_left_pair0.png,charger,slot on extension cord
+/data/datasets/DROID/train_v8/final/5385_exterior_image_2_left_pair0.png,tool,bowl
+/data/datasets/DROID/train_v8/final/60549_exterior_image_2_left_pair0.png,cushion,cabinet
+/data/datasets/DROID/train_v8/final/66086_exterior_image_2_left_pair0.png,block,cup
+/data/datasets/DROID/train_v8/final/69840_exterior_image_1_left_pair0.png,cable,table
+/data/datasets/DROID/train_v8/final/7054_exterior_image_1_left_pair1.png,cloth,pile of clothes
+/data/datasets/DROID/train_v8/final/80032_exterior_image_2_left_pair0.png,ring,table
+/data/datasets/DROID/train_v8/final/86163_exterior_image_1_left_pair0.png,cloth,box
+/data/datasets/DROID/train_v8/final/86769_exterior_image_2_left_pair0.png,wood board,table
+/data/datasets/DROID/train_v8/final/90580_exterior_image_2_left_pair0.png,lid,teapot
+/data/datasets/DROID/train_v8/final/12063_exterior_image_2_left_pair0.png,tissue,pile of tissue
+/data/datasets/DROID/train_v8/final/1253_exterior_image_2_left_pair0.png,bottle,tray
+/data/datasets/DROID/train_v8/final/12650_exterior_image_1_left_pair0.png,mug,table
+/data/datasets/DROID/train_v8/final/12650_exterior_image_2_left_pair0.png,mug,table
+/data/datasets/DROID/train_v8/final/12891_exterior_image_1_left_pair0.png,tissue,tabletop
+/data/datasets/DROID/train_v8/final/13798_exterior_image_1_left_pair0.png,bottle,table
+/data/datasets/DROID/train_v8/final/14373_exterior_image_2_left_pair0.png,bottle,table
+/data/datasets/DROID/train_v8/final/14433_exterior_image_1_left_pair0.png,cloth,tripod
+/data/datasets/DROID/train_v8/final/14737_exterior_image_1_left_pair0.png,cup,table
+/data/datasets/DROID/train_v8/final/15520_exterior_image_2_left_pair0.png,tissue,table
+/data/datasets/DROID/train_v8/final/15706_exterior_image_1_left_pair0.png,pen,table
+/data/datasets/DROID/train_v8/final/15706_exterior_image_2_left_pair0.png,pen,table
+/data/datasets/DROID/train_v8/final/15751_exterior_image_2_left_pair1.png,tissue,pile of tissues
+/data/datasets/DROID/train_v8/final/16362_exterior_image_2_left_pair0.png,pen,table
+/data/datasets/DROID/train_v8/final/16573_exterior_image_1_left_pair0.png,box,countertop
+/data/datasets/DROID/train_v8/final/20077_exterior_image_1_left_pair0.png,cup,table
+/data/datasets/DROID/train_v8/final/21031_exterior_image_2_left_pair0.png,brush,bottle
+/data/datasets/DROID/train_v8/final/21305_exterior_image_1_left_pair0.png,cup,water dispenser
+/data/datasets/DROID/train_v8/final/219_exterior_image_1_left_pair0.png,object,cup
+/data/datasets/DROID/train_v8/final/219_exterior_image_2_left_pair0.png,object,cup
+/data/datasets/DROID/train_v8/final/23621_exterior_image_2_left_pair0.png,pen,table
+/data/datasets/DROID/train_v8/final/26832_exterior_image_1_left_pair0.png,tissue,table
+/data/datasets/DROID/train_v8/final/29492_exterior_image_1_left_pair0.png,cup,water dispenser
+/data/datasets/DROID/train_v8/final/29492_exterior_image_2_left_pair0.png,cup,water dispenser
+/data/datasets/DROID/train_v8/final/39383_exterior_image_2_left_pair0.png,cup,table
+/data/datasets/DROID/train_v8/final/48349_exterior_image_1_left_pair0.png,bottle,cup
+/data/datasets/DROID/train_v8/final/61324_exterior_image_2_left_pair0.png,bottle,compartment box
+/data/datasets/DROID/train_v8/final/10879_exterior_image_1_left_pair0.png,block,block
+/data/datasets/DROID/train_v8/final/19791_exterior_image_1_left_pair0.png,cup,countertop
+/data/datasets/DROID/train_v8/final/73763_exterior_image_1_left_pair0.png,block,block
+/data/datasets/DROID/train_v8/final/80871_exterior_image_1_left_pair0.png,cup,countertop
+/data/datasets/DROID/train_v8/final/89768_exterior_image_1_left_pair0.png,block,block
+/data/datasets/DROID/train_v8/final/10495_exterior_image_2_left_pair0.png,pen,pencil holder
+/data/datasets/DROID/train_v8/final/10683_exterior_image_1_left_pair0.png,razor,sink
+/data/datasets/DROID/train_v8/final/11150_exterior_image_2_left_pair0.png,object,plastic tray
+/data/datasets/DROID/train_v8/final/11590_exterior_image_1_left_pair0.png,lid,container
+/data/datasets/DROID/train_v8/final/12713_exterior_image_2_left_pair0.png,lid,sink
+/data/datasets/DROID/train_v8/final/13459_exterior_image_2_left_pair0.png,marker,glass
+/data/datasets/DROID/train_v8/final/13546_exterior_image_1_left_pair1.png,building block,block
+/data/datasets/DROID/train_v8/final/13546_exterior_image_2_left_pair1.png,building block,block
+/data/datasets/DROID/train_v8/final/14834_exterior_image_1_left_pair0.png,object,tool box
+/data/datasets/DROID/train_v8/final/16228_exterior_image_2_left_pair0.png,marker,wine cup
+/data/datasets/DROID/train_v8/final/16536_exterior_image_2_left_pair0.png,microphone above table,table
+/data/datasets/DROID/train_v8/final/17727_exterior_image_2_left_pair0.png,pen,mug
+/data/datasets/DROID/train_v8/final/26577_exterior_image_1_left_pair0.png,block,block
+/data/datasets/DROID/train_v8/final/28342_exterior_image_1_left_pair0.png,cup,table
+/data/datasets/DROID/train_v8/final/48719_exterior_image_2_left_pair0.png,salt,shelf
+/data/datasets/DROID/train_v8/final/10096_exterior_image_1_left_pair0.png,bottle,top shelf
+/data/datasets/DROID/train_v8/final/10173_exterior_image_2_left_pair0.png,bottle,tabletop
+/data/datasets/DROID/train_v8/final/10261_exterior_image_2_left_pair0.png,cup,countertop
+/data/datasets/DROID/train_v8/final/10335_exterior_image_1_left_pair0.png,pot lid,towel
+/data/datasets/DROID/train_v8/final/10493_exterior_image_2_left_pair0.png,lid,stove
+/data/datasets/DROID/train_v8/final/10856_exterior_image_2_left_pair0.png,Coca Cola bottle,microwave
+/data/datasets/DROID/train_v8/final/11053_exterior_image_1_left_pair0.png,water bottle cap,bottle
+/data/datasets/DROID/train_v8/final/1155_exterior_image_1_left_pair0.png,notebook,Pile of books
+/data/datasets/DROID/train_v8/final/12200_exterior_image_2_left_pair0.png,object,bag
+/data/datasets/DROID/train_v8/final/13087_exterior_image_2_left_pair0.png,bottle,table
+/data/datasets/DROID/train_v8/final/13315_exterior_image_1_left_pair0.png,packaging bag to shelf,shelf
+/data/datasets/DROID/train_v8/final/13315_exterior_image_2_left_pair0.png,packaging bag to shelf,shelf
+/data/datasets/DROID/train_v8/final/1524_exterior_image_1_left_pair0.png,tool,table
+/data/datasets/DROID/train_v8/final/15684_exterior_image_2_left_pair0.png,sharpie,book
+/data/datasets/DROID/train_v8/final/15690_exterior_image_2_left_pair1.png,piece clothing,pile of cloth
+/data/datasets/DROID/train_v8/final/15796_exterior_image_2_left_pair0.png,lid,stove
+/data/datasets/DROID/train_v8/final/18099_exterior_image_2_left_pair0.png,towel,cat
+/data/datasets/DROID/train_v8/final/20316_exterior_image_1_left_pair0.png,tissue box,tissue box
+/data/datasets/DROID/train_v8/final/20636_exterior_image_1_left_pair0.png,bag,couch
+/data/datasets/DROID/train_v8/final/20725_exterior_image_1_left_pair0.png,fork,drawer
+/data/datasets/DROID/train_v8/final/23174_exterior_image_1_left_pair0.png,marker,mug
+/data/datasets/DROID/train_v8/final/23174_exterior_image_2_left_pair0.png,marker,mug
+/data/datasets/DROID/train_v8/final/27363_exterior_image_1_left_pair1.png,bag,cloth
+/data/datasets/DROID/train_v8/final/31057_exterior_image_1_left_pair1.png,bag,hook
+/data/datasets/DROID/train_v8/final/36240_exterior_image_2_left_pair0.png,pen,cup
+/data/datasets/DROID/train_v8/final/36321_exterior_image_1_left_pair0.png,marker,box
+/data/datasets/DROID/train_v8/final/39845_exterior_image_2_left_pair0.png,packet,part countertop
+/data/datasets/DROID/train_v8/final/41426_exterior_image_1_left_pair0.png,bowl,cooker
+/data/datasets/DROID/train_v8/final/41426_exterior_image_2_left_pair0.png,bowl,cooker
+/data/datasets/DROID/train_v8/final/4318_exterior_image_1_left_pair0.png,bag,bag
+/data/datasets/DROID/train_v8/final/45459_exterior_image_1_left_pair0.png,cup,table
+/data/datasets/DROID/train_v8/final/45459_exterior_image_2_left_pair0.png,cup,table
+/data/datasets/DROID/train_v8/final/45785_exterior_image_2_left_pair0.png,object,sofa
+/data/datasets/DROID/train_v8/final/48777_exterior_image_1_left_pair0.png,snack,bin
+/data/datasets/DROID/train_v8/final/48923_exterior_image_2_left_pair0.png,towel by table,stove
+/data/datasets/DROID/train_v8/final/52627_exterior_image_1_left_pair0.png,box,other box
+/data/datasets/DROID/train_v8/final/5479_exterior_image_1_left_pair0.png,spoon,countertop
+/data/datasets/DROID/train_v8/final/61221_exterior_image_2_left_pair0.png,egg,workbench
+/data/datasets/DROID/train_v8/final/70715_exterior_image_2_left_pair0.png,marker,table
+/data/datasets/DROID/train_v8/final/70864_exterior_image_1_left_pair0.png,packet,bin
+/data/datasets/DROID/train_v8/final/74295_exterior_image_2_left_pair0.png,object,table
+/data/datasets/DROID/train_v8/final/74412_exterior_image_1_left_pair0.png,bowl,stovetop
+/data/datasets/DROID/train_v8/final/76581_exterior_image_2_left_pair0.png,lid,pan
+/data/datasets/DROID/train_v8/final/87626_exterior_image_2_left_pair0.png,spoon,bowl
+/data/datasets/DROID/train_v8/final/89978_exterior_image_1_left_pair2.png,bottle water,table
+/data/datasets/DROID/train_v8/final/91535_exterior_image_1_left_pair0.png,bottle,container
+/data/datasets/DROID/train_v8/final/91535_exterior_image_2_left_pair0.png,bottle,container
+/data/datasets/DROID/train_v8/final/10058_exterior_image_1_left_pair0.png,bottle,bottle
+/data/datasets/DROID/train_v8/final/10251_exterior_image_2_left_pair0.png,cup,table
+/data/datasets/DROID/train_v8/final/11210_exterior_image_1_left_pair0.png,cup,table
+/data/datasets/DROID/train_v8/final/11210_exterior_image_2_left_pair0.png,cup,table
+/data/datasets/DROID/train_v8/final/11396_exterior_image_2_left_pair0.png,trash,bin
+/data/datasets/DROID/train_v8/final/11576_exterior_image_1_left_pair0.png,towel,oil
+/data/datasets/DROID/train_v8/final/12219_exterior_image_1_left_pair0.png,marker,mug
+/data/datasets/DROID/train_v8/final/12373_exterior_image_1_left_pair0.png,bowl,paper
+/data/datasets/DROID/train_v8/final/12456_exterior_image_2_left_pair0.png,cup,table
+/data/datasets/DROID/train_v8/final/13843_exterior_image_1_left_pair0.png,bottle,table
+/data/datasets/DROID/train_v8/final/14044_exterior_image_1_left_pair0.png,bowl,table
+/data/datasets/DROID/train_v8/final/14286_exterior_image_2_left_pair0.png,cutlery box,table
+/data/datasets/DROID/train_v8/final/1575_exterior_image_2_left_pair0.png,pot,stvoe
+/data/datasets/DROID/train_v8/final/1957_exterior_image_2_left_pair0.png,spoon,table
+/data/datasets/DROID/train_v8/final/25489_exterior_image_2_left_pair0.png,bowl,table
+/data/datasets/DROID/train_v8/final/26734_exterior_image_2_left_pair0.png,plastic container,sink
+/data/datasets/DROID/train_v8/final/38026_exterior_image_2_left_pair0.png,lid,bottle
+/data/datasets/DROID/train_v8/final/39586_exterior_image_2_left_pair0.png,cup,countertop
+/data/datasets/DROID/train_v8/final/4177_exterior_image_2_left_pair0.png,eraser,stand
+/data/datasets/DROID/train_v8/final/10021_exterior_image_1_left_pair0.png,soft pineapple,table
+/data/datasets/DROID/train_v8/final/10021_exterior_image_2_left_pair0.png,soft pineapple,table
+/data/datasets/DROID/train_v8/final/11390_exterior_image_1_left_pair0.png,pot,table
+/data/datasets/DROID/train_v8/final/16847_exterior_image_1_left_pair0.png,cup,drawer
+/data/datasets/DROID/train_v8/final/17460_exterior_image_2_left_pair0.png,tape,desktop
+/data/datasets/DROID/train_v8/final/17905_exterior_image_2_left_pair0.png,cloth pin,cloth
+/data/datasets/DROID/train_v8/final/17927_exterior_image_2_left_pair0.png,pear,box
+/data/datasets/DROID/train_v8/final/19034_exterior_image_2_left_pair0.png,watermelon plush toy,box
+/data/datasets/DROID/train_v8/final/22937_exterior_image_1_left_pair0.png,pineapple plushie,table
+/data/datasets/DROID/train_v8/final/2940_exterior_image_2_left_pair0.png,watermelon toy,oven tray
+/data/datasets/DROID/train_v8/final/3141_exterior_image_1_left_pair0.png,potato chips,cup
+/data/datasets/DROID/train_v8/final/34537_exterior_image_2_left_pair1.png,stuffed fruit,plate
+/data/datasets/DROID/train_v8/final/41953_exterior_image_1_left_pair0.png,chip,bowl
+/data/datasets/DROID/train_v8/final/69008_exterior_image_2_left_pair0.png,toy,table
+/data/datasets/DROID/train_v8/final/11247_exterior_image_1_left_pair0.png,straw,cup
+/data/datasets/DROID/train_v8/final/12983_exterior_image_2_left_pair0.png,bag,table
+/data/datasets/DROID/train_v8/final/17860_exterior_image_1_left_pair0.png,cup,table
+/data/datasets/DROID/train_v8/final/17860_exterior_image_2_left_pair0.png,cup,table
+/data/datasets/DROID/train_v8/final/17935_exterior_image_2_left_pair0.png,cup,table
+/data/datasets/DROID/train_v8/final/19860_exterior_image_1_left_pair0.png,Rubik's cube,block
+/data/datasets/DROID/train_v8/final/19860_exterior_image_2_left_pair0.png,Rubik's cube,block
+/data/datasets/DROID/train_v8/final/27639_exterior_image_2_left_pair1.png,block,red spot
+/data/datasets/DROID/train_v8/final/30370_exterior_image_2_left_pair0.png,book,other book
+/data/datasets/DROID/train_v8/final/3468_exterior_image_2_left_pair0.png,plate,black cloth
+/data/datasets/DROID/train_v8/final/35810_exterior_image_1_left_pair0.png,plate,table
+/data/datasets/DROID/train_v8/final/41866_exterior_image_1_left_pair0.png,plate,table
+/data/datasets/DROID/train_v8/final/41866_exterior_image_2_left_pair0.png,plate,table
+/data/datasets/DROID/train_v8/final/44016_exterior_image_1_left_pair0.png,banana,table
+/data/datasets/DROID/train_v8/final/47483_exterior_image_1_left_pair0.png,cube,block
+/data/datasets/DROID/train_v8/final/51669_exterior_image_1_left_pair0.png,plate,table
+/data/datasets/DROID/train_v8/final/51669_exterior_image_2_left_pair0.png,plate,table
+/data/datasets/DROID/train_v8/final/53177_exterior_image_1_left_pair0.png,eraser under whiteboard,shelf
+/data/datasets/DROID/train_v8/final/65324_exterior_image_1_left_pair0.png,plate,tabletop
+/data/datasets/DROID/train_v8/final/65324_exterior_image_2_left_pair0.png,plate,tabletop
+/data/datasets/DROID/train_v8/final/73787_exterior_image_1_left_pair0.png,block,block
+/data/datasets/DROID/train_v8/final/73787_exterior_image_2_left_pair0.png,block,block
+/data/datasets/DROID/train_v8/final/85798_exterior_image_1_left_pair0.png,single book,stack of books
+/data/datasets/DROID/train_v8/final/87699_exterior_image_1_left_pair0.png,books,black fabric
+/data/datasets/DROID/train_v8/final/10268_exterior_image_1_left_pair0.png,plush toy,bowl
+/data/datasets/DROID/train_v8/final/10270_exterior_image_1_left_pair0.png,bell pepper,table
+/data/datasets/DROID/train_v8/final/10270_exterior_image_2_left_pair0.png,bell pepper,table
+/data/datasets/DROID/train_v8/final/10479_exterior_image_1_left_pair0.png,artificial pizza,table
+/data/datasets/DROID/train_v8/final/10541_exterior_image_1_left_pair0.png,block,block
+/data/datasets/DROID/train_v8/final/10709_exterior_image_1_left_pair0.png,bottle,countertop
+/data/datasets/DROID/train_v8/final/10709_exterior_image_2_left_pair0.png,bottle,countertop
+/data/datasets/DROID/train_v8/final/10863_exterior_image_1_left_pair0.png,block,blocks
+/data/datasets/DROID/train_v8/final/11151_exterior_image_1_left_pair0.png,banana,table
+/data/datasets/DROID/train_v8/final/11261_exterior_image_1_left_pair0.png,ball,table
+/data/datasets/DROID/train_v8/final/11265_exterior_image_1_left_pair0.png,pot,table
+/data/datasets/DROID/train_v8/final/11265_exterior_image_2_left_pair0.png,pot,table
+/data/datasets/DROID/train_v8/final/121_exterior_image_2_left_pair0.png,doll,table
+/data/datasets/DROID/train_v8/final/12237_exterior_image_2_left_pair0.png,balls,box
+/data/datasets/DROID/train_v8/final/12253_exterior_image_2_left_pair0.png,cube,cubes
+/data/datasets/DROID/train_v8/final/12328_exterior_image_2_left_pair0.png,block,block
+/data/datasets/DROID/train_v8/final/12911_exterior_image_1_left_pair0.png,object,table
+/data/datasets/DROID/train_v8/final/13097_exterior_image_1_left_pair0.png,corn toy,table
+/data/datasets/DROID/train_v8/final/13622_exterior_image_2_left_pair0.png,block,blocks
+/data/datasets/DROID/train_v8/final/13815_exterior_image_1_left_pair0.png,doll,pot
+/data/datasets/DROID/train_v8/final/13938_exterior_image_1_left_pair0.png,object,pot
+/data/datasets/DROID/train_v8/final/14137_exterior_image_1_left_pair0.png,beetroot plushie,cabinet
+/data/datasets/DROID/train_v8/final/14299_exterior_image_1_left_pair0.png,object,table
+/data/datasets/DROID/train_v8/final/14897_exterior_image_2_left_pair0.png,grape,pot
+/data/datasets/DROID/train_v8/final/15083_exterior_image_2_left_pair0.png,bowl,table
+/data/datasets/DROID/train_v8/final/16082_exterior_image_1_left_pair0.png,object,table
+/data/datasets/DROID/train_v8/final/16361_exterior_image_1_left_pair0.png,banana,table
+/data/datasets/DROID/train_v8/final/1641_exterior_image_2_left_pair0.png,cup,table
+/data/datasets/DROID/train_v8/final/16605_exterior_image_1_left_pair0.png,plush toy,stove
+/data/datasets/DROID/train_v8/final/16605_exterior_image_2_left_pair0.png,plush toy,stove
+/data/datasets/DROID/train_v8/final/17191_exterior_image_1_left_pair0.png,object,table
+/data/datasets/DROID/train_v8/final/17191_exterior_image_2_left_pair0.png,object,table
+/data/datasets/DROID/train_v8/final/17950_exterior_image_1_left_pair0.png,animal plush toy,table
+/data/datasets/DROID/train_v8/final/19454_exterior_image_1_left_pair0.png,plush toy,cabinet
+/data/datasets/DROID/train_v8/final/20457_exterior_image_2_left_pair0.png,pot,stove
+/data/datasets/DROID/train_v8/final/22117_exterior_image_2_left_pair0.png,grey cylinder,cup
+/data/datasets/DROID/train_v8/final/24417_exterior_image_1_left_pair0.png,toy,table
+/data/datasets/DROID/train_v8/final/24417_exterior_image_2_left_pair0.png,toy,table
+/data/datasets/DROID/train_v8/final/25542_exterior_image_1_left_pair0.png,banana,table
+/data/datasets/DROID/train_v8/final/26354_exterior_image_1_left_pair0.png,toy,pot
+/data/datasets/DROID/train_v8/final/27665_exterior_image_2_left_pair0.png,toy,table
+/data/datasets/DROID/train_v8/final/29431_exterior_image_1_left_pair0.png,plush toy,cabinet
+/data/datasets/DROID/train_v8/final/32849_exterior_image_1_left_pair0.png,toy,table
+/data/datasets/DROID/train_v8/final/32849_exterior_image_2_left_pair0.png,toy,table
+/data/datasets/DROID/train_v8/final/33074_exterior_image_1_left_pair0.png,grape,basin
+/data/datasets/DROID/train_v8/final/35746_exterior_image_1_left_pair0.png,rectangular,table
+/data/datasets/DROID/train_v8/final/30314_exterior_image_2_left_pair1.png,knife,cup
+/data/datasets/DROID/train_v8/final/41090_exterior_image_2_left_pair0.png,cup,cup
+/data/datasets/DROID/train_v8/final/41090_exterior_image_2_left_pair1.png,cup,cup
+/data/datasets/DROID/train_v8/final/69850_exterior_image_1_left_pair0.png,glue,desktop
+/data/datasets/DROID/train_v8/final/69850_exterior_image_1_left_pair1.png,glue,mug
+/data/datasets/DROID/train_v8/final/26544_exterior_image_2_left_pair0.png,towel,table
+/data/datasets/DROID/train_v8/final/78588_exterior_image_1_left_pair1.png,coffee pod,slot of coffee machine
+/data/datasets/DROID/train_v8/final/66202_exterior_image_1_left_pair1.png,fabric,seat of chair
+/data/datasets/DROID/train_v8/final/62282_exterior_image_1_left_pair0.png,cup,cup
+/data/datasets/DROID/train_v8/final/62282_exterior_image_1_left_pair1.png,stack of cups,cup
+/data/datasets/DROID/train_v8/final/48292_exterior_image_2_left_pair0.png,bottle of spices,countertop
+/data/datasets/DROID/train_v8/final/53737_exterior_image_1_left_pair0.png,bowl,bowl
+/data/datasets/DROID/train_v8/final/53737_exterior_image_1_left_pair1.png,bowl,bowl
+/data/datasets/DROID/train_v8/final/77426_exterior_image_2_left_pair0.png,box,desktop
+/data/datasets/DROID/train_v8/final/89821_exterior_image_2_left_pair0.png,cup,cup
+/data/datasets/DROID/train_v8/final/35764_exterior_image_2_left_pair0.png,cup,cup
+/data/datasets/DROID/train_v8/final/35764_exterior_image_2_left_pair1.png,cup,cup
+/data/datasets/DROID/train_v8/final/82839_exterior_image_1_left_pair1.png,towel,box
+/data/datasets/DROID/train_v8/final/59418_exterior_image_1_left_pair0.png,shoe,shelf
+/data/datasets/DROID/train_v8/final/59418_exterior_image_1_left_pair1.png,shoe,shelf
+/data/datasets/DROID/train_v8/final/52636_exterior_image_1_left_pair1.png,spoon,table
+/data/datasets/DROID/train_v8/final/35705_exterior_image_2_left_pair0.png,cup,cup
+/data/datasets/DROID/train_v8/final/7977_exterior_image_2_left_pair0.png,cup,cup
+/data/datasets/DROID/train_v8/final/14565_exterior_image_2_left_pair0.png,slipper,rack
+/data/datasets/DROID/train_v8/final/14565_exterior_image_2_left_pair1.png,slipper,rack
+/data/datasets/DROID/train_v8/final/41090_exterior_image_1_left_pair0.png,cup,cup
+/data/datasets/DROID/train_v8/final/41090_exterior_image_1_left_pair1.png,cup,cup
+/data/datasets/DROID/train_v8/final/69538_exterior_image_1_left_pair0.png,t-shirt,box
+/data/datasets/DROID/train_v8/final/69538_exterior_image_1_left_pair1.png,clothing,box
+/data/datasets/DROID/train_v8/final/47026_exterior_image_1_left_pair0.png,cup,table
+/data/datasets/DROID/train_v8/final/6675_exterior_image_1_left_pair0.png,cup,cup
+/data/datasets/DROID/train_v8/final/14565_exterior_image_1_left_pair0.png,slipper,rack
+/data/datasets/DROID/train_v8/final/14565_exterior_image_1_left_pair1.png,slipper,rack
+/data/datasets/DROID/train_v8/final/37174_exterior_image_1_left_pair1.png,rope,box
+/data/datasets/DROID/train_v8/final/6697_exterior_image_1_left_pair1.png,pot,stove
+/data/datasets/DROID/train_v8/final/28681_exterior_image_1_left_pair1.png,clip,stand
+/data/datasets/DROID/train_v8/final/37958_exterior_image_2_left_pair1.png,blanket,seat sofa
+/data/datasets/DROID/train_v8/final/17625_exterior_image_2_left_pair0.png,cup,cup
+/data/datasets/DROID/train_v8/final/17625_exterior_image_2_left_pair1.png,cup,cup
+/data/datasets/DROID/train_v8/final/2891_exterior_image_2_left_pair0.png,sneaker,shelf
+/data/datasets/DROID/train_v8/final/2891_exterior_image_2_left_pair1.png,book,cabinet
