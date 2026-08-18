@@ -11,7 +11,7 @@
  "dropped": {
   "pour/wipe": 126
  },
- "n_train": 1762,
+ "n_train": 2229,
  "n_test_unseen": 314,
- "n_test_seen": 172
+ "n_test_seen": 178
 }
